@@ -33,6 +33,8 @@ df_sample = s.aggregate_data.sample(n=sample_size)
 
 df_sample = df_sample.reset_index()
 
+df_sample.to_csv('data/goemotions_sample.csv')
+
 # texts = df_sample['text'].tolist()
 
 # function to analyze sentiment
@@ -69,6 +71,4 @@ predictions = analyze_sentiment(texts)
 
 df_predict = pd.DataFrame(predictions)
 
-# df_predict.to_csv("data/goemotions_roberta_prediction.csv")
-
-df_merge = pd.merge(df_sample, df_predict, on="id")
+df_predict.to_csv("data/goemotions_roberta_prediction.csv")
