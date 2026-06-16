@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 import json
 
-# Download latest version
+# download kaggle goemotion dataset 
 path = kagglehub.dataset_download("debarshichanda/goemotions")
 
 # paths of the data needed from GoEmotions 

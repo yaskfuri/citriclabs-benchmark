@@ -1,0 +1,1001 @@
+ID	Text	Valence	Arousal	Dominance	Category
+0	Kweenie of da gij al es goed hebt stilgestaan bij het leven da ge de afgelopen jaren hebt geleid.	OV	0.303732028294	0.51301466395	0.664205293722	neutral
+1	Santé.	BG	0.712377372843	0.492070931037	0.619150447798	joy
+2	Ja kvind wel spannend. Das zo ineens euh de vuurdoop.	BG	0.706332221575	0.416042429654	0.466456417971	fear
+3	Als ik één dag werk in, in, in de horecazaak waar ik sta, dan verdien ik meer… dan verdien ik bijna 70 euro. En das hier een maandloon en 3 euro 75 wij draaien daar, wij komen daar ons bed nie voor uit eh. Da vind ik hallucinant.	BZL	0.185985429818	0.786879676107	0.542409765784	anger
+4	Een baas is een baas he, die moet je respecteren. Maar de bazen hier, daar heb ik het wel toch moeilijk mee.	BZL	0.391462667449	0.427519293717	0.28406108294	anger
+5	Wat ben je allemaal aan het doen? Hoe behandelt gij uw mensen? En dan word ik daar kwaad van en reageer ik soms wel heel explosief. 	BZL	0.263163728196	0.579310523885	0.330973819364	anger
+6	De vorige keer dak hier zaten, zi kik eiglik juist een relatie beëindigd met iemand. En nu ben ik terug samen met die jongen, wa da eiglik heel positief is in mn leven, want das echt iemand da nie gebruikt, dat echt van me houdt. En hij heeft me ook ten huwelijk gevraagd met Valentijn, dus ik heb goeie toekomstplannen.	OV	0.955111656759	0.536328250402	0.821833325463	joy
+7	Ah doe ma. Nee da geeft nie.	BG	0.546124347886	0.166279023654	0.512573321398	joy
+8	Ja nee ik ga een vestje aandoen. En een sjaal en een trui. Ist oke?	BG	0.522784088849	0.316325658542	0.484140308597	neutral
+9	Die gaat dat heel goed doen. Daar heb ik het volste vertrouwen in.	BZL	0.751497130491	0.508638847187	0.703104723535	joy
+10	Ja jongens. Dees is nie gezond ze. Pfff. Dees is nie gewoon. Na zen ik echt serieus aan het stressen hoor.	BG	0.338709743129	0.827687786703	0.26046718199	fear
+11	Geen buren. Geen last van iemand.	BG	0.565436250289	0.383672014185	0.625460788941	neutral
+12	Nee, sorry ik word daar zo kwaad van. Ik word daar echt boos van.	OV	0.154720743799	0.790217746524	0.667449138691	anger
+13	Doen, Joke. Doen. Echt, ik sta derachter. Ik steun u.	BG	0.654094179888	0.645068533972	0.741473857558	joy
+14	Tis een beetje een cursus stressbestendigheid.	BG	0.47488384476	0.21299705796	0.464485676899	fear
+15	Oh allee da besta nie!	BZL	0.611080021082	0.95091789406	0.423630639014	joy
+16	Da lukt echt langs geen kanten!	BZL	0.169291458812	0.892066339275	0.357814756196	anger
+17	Nogal lui en, en… Soms ongeïnteresseerd ook. Da ik denk, Britt leesde gij nu nooit een gazet? Da stoort mij soms. Nooit nat journaal kijken, nie willen weten wat er in de wereld gebeurt. Euh ja. En da komt zo oppervlakkig over. Zo van…	BZL	0.223627860826	0.688664578753	0.470208764075	anger
+18	Ik heb het moeilijk met superveel indrukken tegelijk op te doen. Ge hebt fabrieken, ge hebt families, en de andere omgeving en das allemaal heel veel. Dus ik moet da, ja, ik moet da wa in mij opnemen en wa laten bezinken en dan… Allee, ik vind da, vo mij is da… veel tegelijk gewoon.	BZL	0.361109259318	0.59501519715	0.211978571917	sadness
+19	Wij hebben daar een feestmaal gekregen, dus ik ben daar wel dankbaar voor da ze da voor ons willen doen eh en da ze daar zo veel moeite in steken. Het was ook heel lekker. Ik heb heel goe gegeten.	BZL	0.843333306418	0.654037988622	0.724681684794	joy
+20	Bwa, ça va.	BZL	0.458914145569	0.231485143309	0.324426148495	neutral
+21	Kben een bitje emotioneel.	BG	0.255078066978	0.22022040697	0.510377844722	sadness
+22	Ik ben geboren in een kapkar, lik da de cowboys vroeger. En euh daarin een bed of twee gemaakt. En wij slaapten daarin en moeder en vader van voren. En ’s morgens, tegen de morgen begint dat te vriezen. En dikwijls was ons slaapkleed daartegen bevroren en moesten we deraan trekken. Das ook geen leven eh.	OV	0.212141271759	0.507939422243	0.433717725166	sadness
+23	Ik doe da wel graag ja. Das één van mijn saaie bezigheden.	BG	0.738342510654	0.292643264471	0.631891880081	joy
+24	Dit is wa ik wel verwacht had.	BZL	0.66049777335	0.155623126672	0.585722352514	sadness
+25	Gelukkige verjaardag, Marie-Louise. Alé toe, kom al hier.	OV	0.682822087572	0.620697007159	0.706154301568	joy
+26	Eigenlijk was da verhoor gewoon voor slagen en verwondingen, maar ze zeiden ineens: ja tis iets anders geworden dusja... Da was wel efkes…	OV	0.248864051255	0.216447307649	0.220643858236	sadness
+27	O Joke, die bloemekes!	BG	0.840106615309	0.959255780643	0.573064518142	joy
+28	Voorwaarden? Volgen. Voorwaarden nie volgen? Gevang.	OV	0.377520568823	0.647211529117	0.728785644675	anger
+29	<b> What the fuck is da voor ons? </b> - Zo veel mensen! - Das zo leuk!	BZL	0.604950437302	0.82779382802	0.266605822358	joy
+30	Ik vind da ranzig. Ik vind dees echt… Het ziet er echt nie smakelijk uit en wij hebben die gisteren gewoon levend uit zo’n pond moeten halen.	BZL	0.131566564357	0.581036230541	0.37533078288	anger
+31	Gezellig, met z’n allen door de stront stappen. Kakjob. Ze hebben hun twee netten al klaar. Ik word gewoon vermoeid van dat da zo saai is, maat. Tis precies die fabriek weer, jonge. Gisteren, we waren echt nog zo bezig. Echt bezig bezig. 	BZL	0.069617169507	0.80641867609	0.402735939363	anger
+32	Kunnen wij daar wel me zes binnen?	BZL	0.483573564766	0.437213918299	0.142417108918	fear
+33	Ma had ik geweten van, moest ik echt nog ene keer gedronken…	OV	0.27608980098	0.324125667272	0.127565285043	sadness
+34	Wauw, zelfgemaakt.	BZL	0.843613169815	0.711622416621	0.470749036176	joy
+35	En goeie feesten, zou ik zeggen. - Ja voor u ook eh. - <b> Ja we zullen ons best doen eh. </b>	OV	0.603891870561	0.513081976915	0.503580636994	joy
+36	Goeiemorgen. Chef euh, mijn gsm, bankkaart en treinticket. Ik heb niks gekregen, ze hebben gezegd hier euh.	OV	0.458368830053	0.312169725447	0.348117167622	fear
+37	Ja hoe kan ik het verwoorden ja? Ik euh ben nu eenmaal vroeger geen lieverdje geweest. Laat ons zeggen, in de ruigere milieus gezeten, alle dagen feest in plaats van werk.	OV	0.437571388348	0.42182909611	0.454213805927	neutral
+38	Mogen we gaan? Merci. Ik kan die straat hier nie meer zien, mensen. Ge weet nie wa dat da is, negen maanden in een kot zitten. En al doen hetgeen da ze zeggen.	OV	0.402461333105	0.736243755257	0.619417512636	sadness
+39	Mag kik eerst uw dochter een kus geven?	BZL	0.669837395639	0.405609883883	0.43703594731	joy
+40	Ik hoopte eigenlijk vooral da ze mij nie achter aan naaimachine zouden zetten, ja, ja… Ja, euh, daar heb ik mij efkes in vergist.	BZL	0.397205310973	0.340640523003	0.326798866787	anger
+41	Das met die sportschoenen zeker, da ze zo rap gaat? Zijn da van Nike misschien? Ma zo’n…	OV	0.588071618357	0.611947032175	0.497413875855	joy
+42	U ziet het, dames en heren, de sfeer zit er heel goed in.	OV	0.956904471395	0.58847430134	0.634111202756	joy
+43	What the fuck… Wa gaan wij doen? - Ge ziet daar een vliegtuig staan eh. - Wij gaan vliegen jongen. - En gij ga springen. - <b> Nee nee nee nee nee. Zijde ant zwanzen ofwa? </b>	BG	0.42938554294	0.884917796476	0.230264248047	fear
+44	Ja soms word ik daar een bitje emo van.	BG	0.445762581492	0.301723642761	0.37887205831	neutral
+45	Op den duur voelde u schuldig of voelde u slecht of denkte van ja hebben we dan toch nie alles geprobeerd? Terwijl da ge eigenlijk zo iets hebt van, we hebben alles geprobeerd. We hebben nie nog meer kunnen doen en en… Ma ik vind da wel een moeilijken.	BG	0.324042782483	0.638349921035	0.406234789056	sadness
+46	Ik vind da gewoon leuk om daarmee te spelen enzo. En die stellen ook nie nie te veel vragen enzo dus das zo gewoon zo een beetje spelen en kdenk dat da mij ook gewoon wa gelukkig maakt om die kinderen zo wa blij te maken.	BZL	0.85198627289	0.457008535793	0.643726006273	joy
+47	Da was wel heel belangrijk voor mij, dat hij daar was. Een vader die zijn dochter eigenlijk afgeeft, das een heel speciaal moment.	BG	0.95758559014	0.428341735424	0.76679797952	love
+48	Zeg. Ik maak mijn papier gewoon kapot. Kvind da nie leuk als ik iets nie kan. Aaaah. - <b> Aaaah! Kak! </b>	BZL	0.254372060667	0.958724046037	0.331494157893	anger
+49	Ik begrijp dat, maar wa ik dan nie begrijp is da ge thuiskomt en dan wel ne filet pur bestelt.	BZL	0.44972415535	0.514552073052	0.631229747563	anger
+50	Oh wa moe ik doen met die vent? Ma echt waar.	BG	0.34327620436	0.794978622322	0.38523326808	anger
+51	Ik krijg weer commentaar op mijn kledingstijl.	BG	0.247861647139	0.409023538076	0.439941504205	neutral
+52	Kging me mn verjaardag, en ton e meisje leren kennen, dan de jacuzzi weet je wel. In de jacuzzi een glaasje cava ma nie overdreven, echt nie. Twas 0,18 toen dak blaasde. Echt belachelijk.	OV	0.398019901888	0.514400381736	0.502907885691	neutral
+53	Die drie kleinsten, da waren kuikentjes.	BG	0.612296919294	0.244877079169	0.504420420345	neutral
+54	Ik had da echt zelf ook zo echt een wauw-gevoel. Twaren zo alle puzzeltjes die bij elkaar en in elkaar vielen en… Ik ben er zeker van dat het een goeie eerste indruk gaat zijn. Kben er echt zo blij mee. Tis echt fantastisch gewoon.	BG	0.958687840432	0.944671154596	0.825061489353	joy
+55	Ik vind dit geen goudmijn hoor.	BZL	0.489578400049	0.207310707981	0.469981672827	anger
+56	In de gevangenis van Beveren ik heb zo met strepen over strepen zelf zo’n Picasso-shitachtige ding gemaakt.	OV	0.588777268597	0.387261492908	0.685591513923	joy
+57	Boeit mij geen hol. Het kan me helemaal niks schelen of die mij aant uitlachen zijn. Het boeit mij niks. Ik begin zo al zo… breindood te worden dak zo nie doorheb me wa ik aant werken ben en ineens besef ik het weer zo.	BZL	0.0688218051013	0.950203117928	0.746240886795	anger
+58	Ja ma das nie waar. Das nie waar, Aagje. Ik heb da nie. Ik heb da nie. Kwil nie hebben da mn kinderen gewezen werden. Of da ze zeiden “wa heeft de die daar aan?” Kwil hebben da ze proper waren. Ma ook de luxe nie eh. Da was vo mij proper en da was ook al.	OV	0.368364508828	0.649432526782	0.454278813633	sadness
+59	Ja witte dinges… Gij zit de beauty en ik ben nog steeds de beast en ik denk nie dat da snel ga veranderen.	BG	0.535002295429	0.393334929968	0.493853791386	neutral
+60	Ik denk dat ik het gisteren wel leuk had gevonden om dit te doen, maar vandaag… Dat ik moe ben en dat ik hier fysieke arbeid moet leveren, dat waarschijnlijk is wat me tegensteekt. Euhm… Kweenie. We zijn allemaal moe, ma niemand zegt echt iets. We zijn heel stil. Ik heb ook geen zin om te babbelen vandaag.	BZL	0.310425632026	0.481118370002	0.41491292954	sadness
+61	Dus ik wil euh graag echt nog alles deraan doen om me u der een schone toekomst van te maken.	BG	0.682434607354	0.407977393508	0.790410484085	joy
+62	Stop me lachen! Das echt nie men ding.	BZL	0.41265118942	0.735171025236	0.439900502202	anger
+63	Kheb geen idee wat da is ma kweet dat de afgelopen week enorm zwaar was. En… jah khad eiglik gewoon zin om bloemekes te kopen en… Vermits ik van bloemen hou en zij ook, ben ik eiglik gewoon benieuwd welk effect het ga hebben.	BG	0.498666463413	0.437561948599	0.477285141095	joy
+64	Ik denk dak heb bijgeleerd over Stijn sowieso da hij heel open is. Da had ik wel door dag één. Ma dat da wel gewoon zeer hard aanwezig is. En datie ook nie, nie veel gêne heeft per se over dingen, dat hij daar, ja… out in the open... euhm…	BG	0.568342170495	0.348763521476	0.458647527686	neutral
+65	Maja ge komt gij hier altijd met die stomme verhalen af gij.	OV	0.287379200917	0.824598013632	0.523188449171	anger
+66	Der is niemand die snapt dat het nie is, dat het niks is geworden. En da maak het echt heel moeilijk.	BG	0.221070962191	0.497224274642	0.331246819838	sadness
+67	<b> Ça va. Ja. Beetje stress. Ja, maar euh… Ja, positieve stress wel nog atlijd dus das wel goe. </b> - Een beetje spannend nu.	BG	0.724659222141	0.471806501928	0.42009513347	fear
+68	Dingen kunnen samen doen, da mis ik langs ne kant wel. Gewoon ne keer nen avond gezellig samen thuis in de zetel. Ook al gebeurde da nie vaak, twas wel leuk om te doen. Dus aje dan terug echt alleen alleen valt… Alé ik zag mij der zelf wel verder mee gaan. Dus… aleja dan is da, wanneer dat da ineens ophoudt, is da wel jammer.	BG	0.352797777728	0.440110290293	0.265752903456	sadness
+69	Merci. Buitenkomen is echt een avontuur. Waarom? Dagelijkse routine is doorbroken. Je kan gaan en staan waar je wilt euh… je kan eten, drinken wa je wilt. Dus ja, het is avontuur eh.	OV	0.765102792928	0.59124320395	0.534918009147	joy
+70	Ik moet haar nie meer voorstellen eh, ge kent ze al ondertussen.	BG	0.495767646193	0.284692678389	0.631325710546	neutral
+71	Die deuren heb ik zelf gemaakt.	BG	0.526521674805	0.155490702485	0.596959565347	neutral
+72	Ja, een hele dag zon.	OV	0.616288515396	0.160816874641	0.571385468174	joy
+73	Ik ga trouwen. - Ja! - What the fuck? - Proficiat. - Fuck, jongen. - <b> Proficiat, eh! Alé, zo zot! Zeg, proficiat eh. </b>	BG	0.828047341614	0.821388396164	0.641451694503	joy
+74	Ik ben hier en daar wa gaan stelen vroeger. En dat is altijd voorwaardelijk geweest en nu is alles hier bijeengekomen. Lik de lotto dak gewonnen heb. Das nie waar eh. Ma vo mij is da zo erg. Ge kunt et nie aanvaarden en kweet dak het misdaan heb.	OV	0.27404679647	0.467341703762	0.322572459603	sadness
+75	Kga wel nadenken. Dat die mensen heel hard hebben moeten werken om nen... om gewoon een T-shirt te maken. Gewoon voor dees. Alé ik zou, ik zou dees maar twee dagen kunnen volhouden denk ik. Want ik word nu al… kword al zot van die mens.	BZL	0.309719522804	0.577844667753	0.426326148448	anger
+76	Ja ezo een rosse met krulletjes da zou leuk zijn. Een rosse vonk ja. - Ja inderdaad. Das wel uw type. - <b> Goh man. Das gigantisch mijn type. </b>	BG	0.835369200291	0.597382078315	0.724822593714	love
+77	Die geur is verschrikkelijk. Kheb nog nooit zoiets gezien in men hele leven. Kheb me nog nooit zo vreselijk gevoeld als hier. Ja tis onbeschrijfbaar.	BZL	0.248116914866	0.672959739523	0.352566693753	anger
+78	Superoneerlijk natuurlijk, he, maar ik denk nie da nu hier gaan discussiëren en roepen tegen deze mannen iets gaat uithalen. Dus daarom hou ik mij ook efkes stil.	BZL	0.472768749996	0.622268357624	0.592763235892	anger
+79	Ik ben ervan verschoten. Het is veel heftiger dan ik had verwacht. Hun leven is heel hard en ruig tegenover dat van ons.	BZL	0.204944085812	0.440825850976	0.379644580096	fear
+80	Zo had ekik u nog nie gezien hoor. Oké, ge zijt ontslagen, das nen tegenvaller, maar hier wordt elken dag wel iemand ontslagen eh en die doen nie zoals gij. Echt op deze manier u met uitgangen naar buiten laten gaan, da zie kik nie zitten eh.	OV	0.212770886549	0.762862649917	0.681112876977	anger
+81	Ge kunt toch 100 euro meer geven? Dan zijn we toch allemaal eerlijk? “Yes I’ll try, next time I’ll try”. Maar dat is natuurlijk allemaal dikke zever, want dan verdient hij zelf geen geld nie meer, eh, dus.	BZL	0.204785657302	0.695842274054	0.455045626357	anger
+82	Ge komt binnen en ge denkt van oke das zo hutjes met golfplaten erop, ge denkt das nie alles. Maar die hebben uiteindelijk… das wel een stenen huis dat daar staat. Onze kamer was oke, ma voor de rest ist allemaal heel klein en heel primitief.	BZL	0.467202273895	0.548984471601	0.37918594754	neutral
+83	Ik merk ook da ik zo nu de laatste twee dagen mezelf eiglik ook meer terugtrek. Da ik ook zoiets heb van… goh ik heb, ik wil nie meer geknuffeld worden of ik wil zelfs nie meer een ja een kus krijgen omda ik ook al… ja een beetje teleurgesteld word omda hij zo telerugesteld kijk als ik da nie wil of…	BG	0.345239437176	0.370206630953	0.177538591795	sadness
+84	Volgens mij zijde al van plan om definitief te verhuizen na die kanten.	BG	0.542297939898	0.35683607111	0.403367463055	joy
+85	Ja, euhm… Ge hebt de zwarte bij de zigeuners en ge hebt de blonde.	OV	0.499865034354	0.201806266742	0.550770776061	neutral
+86	Fuck, jongens. Zeg. Da vind ik hier echt wel… dikke shit.	BZL	0.156460391006	0.77888740486	0.482159717158	anger
+87	Ja ewel da gevoel heb ik wel. Da wij op dit moment wel een beetje vastzitten.	BG	0.453901874378	0.279443647668	0.248198642261	sadness
+88	Jamajamajamajama. Je werk gaat voor op je sport eh.	OV	0.453721122995	0.793385436473	0.952322721264	anger
+89	Nee. What the fuck? Hoe hebt gij da allemaal geregeld? Ma gij zijt echt nie normaal. Na waar gaan we?	BG	0.663116358226	0.847259967657	0.370906712759	joy
+90	Tis heel moeilijk om zo’n beslissing te maken omda je… Ja we weten alle twee waarom da we gematcht zijn.	BG	0.306457501961	0.260524708181	0.148174694891	sadness
+91	Houden zo, zou ik zeggen. En inderdaad, alé, 22 april sluit da hoofdstuk hier ton ook af.	OV	0.746081998155	0.322427999312	0.818055421506	neutral
+92	Dan hebbe kik zitten ijsberen voor dood. Ja. Goed op mijn ademhaling proberen letten en… ja denken van oke ja komaan tis nog efkes ge zijt er bijna. En da ga goe komen, da ga goe komen.	BG	0.633349097456	0.632923102113	0.597938174296	fear
+93	Ik vind het echt supernice.	BZL	0.851894394137	0.62125355401	0.637343945631	joy
+94	<b> Nee, maar Veronique, wa stellen we vast? Da gij keer op keer wel dezelfde feiten pleegt en daje nie leert uit de fouten die je gemaakt hebt. </b> - Kweet het. Ma nu tis ne goeie les.	OV	0.291978526774	0.667761038783	0.625280634166	anger
+95	Da was… Ja da was heel moeilijk ja. Omdat da dan zo… ja definitief is en en jah… Ge moet da ook wel onder ogen zien eh. En we vinden het alle twee heel spijtig ja ma ja. Dus twas zo wel efkes van, oke we moeten beslissen. En da is de beslissing dus euh.	BG	0.25819734251	0.155339183697	0.314673355601	sadness
+96	Das mooi om te zien. Nog twee weken en ze is eindelijk ook terug bij mij. Kan ook nie wachten.	OV	0.831512676485	0.41967183647	0.593949655722	joy
+97	Twas echt zo gewoon een besef van oke we gaan die mensen misschien nooit meer zien en… En das zo jammer want die hebben, alé, da zijn zo’n leuke mensen ma dan ook tegelijkertijd had ik zoiets van ik wil die meepakken naar België want die verdienen dit niet. Da zijn zo’n lieve mensen.	BZL	0.404488087585	0.715914178754	0.338393383759	sadness
+98	Als ik mij zo het einde van de wereld voorstel, is da zo’n supergrote kloof. Arm, rijk, geen middenklasse. En zo arm is zo al het afval enzo. Echt letterlijk wa hier  gebeurt. Gewoon al het elektronisch afval wa uit elkaar halen om maar grondstoffen te verkopen aan rijke mensen.	BZL	0.324564002329	0.620333950858	0.439384673899	sadness
+99	Doet dat iets, aje politie ziet? - <b> Ja, nu wel. Nu als ik zie de politie ik zeg: ja wat ik heb nog fout gedaan? </b>	OV	0.359498379926	0.582685760467	0.0702970057318	fear
+100	Ik had de vorige keer ook al zoiets van: nie me mij, want how… Wa was het dan? Vijftien maanden daje dan weggebleven was na je elektronisch toezicht. Ma goed ja, inderdaad…	OV	0.438436937074	0.71408682613	0.471438180498	anger
+101	Tis wat het is. Tis ook een belangrijke job eh. Als kik zo woog, khad uiteindelijk nog wel vijf kilo. Das fiftig dollar. Voor die mensen veel geld ze.	BZL	0.69606748386	0.5525243531	0.705887111337	neutral
+102	Ideaal. Nu gaak minne pyjama pakken.	BG	0.758783050244	0.538177146923	0.742886289882	joy
+103	Ik was wel gechoqueerd. Ja. Da ga zo buiten alle grenzen die dat er, die da ik ken. Das nie meer normaal.	BZL	0.25822530005	0.455006159788	0.425403955789	fear
+104	<b> Oh, amai. Schol eh! </b> - Op wa klinken we? - Op een hele leuke reis.	BZL	0.819614012504	0.668273647807	0.634418731208	joy
+105	Het is zelfs nie om jullie te choqueren dat ik jullie naar hier breng. Het is gewoon echt omdat het, omdat het hier zo is.	BZL	0.417294108127	0.291885219002	0.718016848881	neutral
+106	Ja das inderdaad iets da jullie nog nie hebben gezien. Daarom ben ik blij da ge het, da ge het wel, da ge het nu wel es zie. Da ik ook over andere dingen bekommerd kan zijn dan materialistische dingen.	BZL	0.667494451	0.387507822587	0.679450809897	joy
+107	Dat da… ja dat da een beetje een soort zelfbescherming is. Dak daar misschien anders zelf euh… te veel mee ga… te veel aan ga denken en te… te ongelukkig van ga worden.	BZL	0.510066905562	0.0772652774672	0.305222399693	sadness
+108	Ja gij waard ook heel blij als ge thuis waart.	BZL	0.721525059229	0.269849858721	0.543720046166	joy
+109	Alé ma, hou de moed erin. Salut.	OV	0.630033852713	0.44444242505	0.552028281692	love
+110	Kmoet er nog altijd mee lachen omdat ik het euh nie echt besef. Euhm… Ma het doet zeker wel wa me mij. Tis euh bizar om te weten da ja ga trouwen.	BG	0.722555373096	0.445195928971	0.479281920224	joy
+111	Een goeie danser, das toch wijs eh.	BG	0.74867372666	0.450729130877	0.719916761934	joy
+112	We hebben nog redelijk  gelachen tijdens diene dans ook. Da was echt plezant daje zo… Da was een serieus moment ma ook dawet zo beetje konden downplayen zo en ja kvond da wel geweldig da we da kunnen doen.	BG	0.839564498887	0.677819402598	0.632426171865	joy
+113	Das het eerste wa kik dan zeg eh. Ge moet es weten vanwaar dat da komt. Ma twas ook, alé, ik moet eerlijk zijn, wij hebben dan die nachtdienst gedaan. Ik was bekaf.	BZL	0.335190858713	0.683825838038	0.406958198626	anger
+114	Lang geleden da we hier wel samen hebben gegeten eh.	BG	0.658725329773	0.246712837758	0.478976891141	neutral
+115	Ik vind et een stomme methode ze. Een bikke modder mixen vinnik het.	BZL	0.149220859502	0.645156158848	0.421553689489	anger
+116	Heeey. Sorry eh. Ik heb net knoflookteentjes vastgehad, dus nu heb je een knoflookhandje.	BZL	0.57312636836	0.690001966605	0.509728696088	joy
+117	Ge moest da bewaren voor hem en nu istie toevallig vrij. - Normaal istie vrij vandaag, ja. - <b> Doeme toch. Da moe wel passen eh? </b>	OV	0.287143014406	0.725647246746	0.400247916932	anger
+118	Ge ziet er goe uit. Hallo.	BG	0.686395665303	0.309782986876	0.50072624564	joy
+119	Alster een slachtoffer is, ist nie gemakkelijk ja. - <b> Ik woonde der al een paar jaar bij ook eh, bij het slachtoffer dus… alé zij bij mij dus… </b>	OV	0.377191163361	0.341575056617	0.283227477734	sadness
+120	Het komt nu  gewoon efkes allemaal heel hard binnen.	BZL	0.202512355092	0.298191706975	0.27855249765	sadness
+121	Alé hij verdient hier wel goe eh.	BZL	0.647683900727	0.5668050369	0.519731649975	joy
+122	Wij hopen beide voor Lenny dat het een lief meisjen is. Met een goed karakter natuurlijk, das heel belangrijk. Hij is eigenlijk al heel lang op zoek en ja… Misschien lukt het nu voor hem eh.	BG	0.703718255121	0.398794801689	0.330171573133	joy
+123	We hebben al zo veel gedaan op zo’n korte tijd. We zijn zo’n hechte groep geworden, vind ik. We zijn nog geen week weg, of net een week weg. Dus euh, ja. Zot.	BZL	0.890005319618	0.59033942083	0.830160978886	joy
+124	Maar nu, als ik u ga terug laten gaan naar uw cel… Ik ga nie beweren da je kalm kan zijn ma der gaan toch geen ongelukken gebeuren eh?	OV	0.430953611147	0.628542329397	0.294476613209	fear
+125	Das ietske da los ligt om omdak nie meer weet hoe dak het erin moe steken.	BG	0.613918692437	0.253729828388	0.295795792255	neutral
+126	Sinds net voor Kerstmis eigenlijk zijn wij nie meer getrouwd en da is even een heel moeilijke periode geweest vo mij.	BG	0.318064744539	0.252252603605	0.384372955833	sadness
+127	Toch ongelooflijk. Der durft hier geen een zeggen aan een gedetineerde datn moe zn haar knippen.	OV	0.328833667414	0.790294464966	0.686848609427	anger
+128	Er zullen wel dingen… Maja zulke dingen vind ik wel goe. Vind ik wel wijs.	BG	0.548194139769	0.352996334628	0.409031642089	joy
+129	Ik ga die direct op instagram zetten eh, goed?	BG	0.611966065158	0.53581723941	0.602047283675	joy
+130	Toen we dees zagen, waren we heel blij. Ge hebt een dak boven uw kop, nie iedereen heeft da hier en ja. Ik vind da ook een heel proper huis tegenover de andere da we hier allemaal zien.	BZL	0.78879034377	0.449559398427	0.781231106348	joy
+131	Ik vond da een van de beste momenten van mijn leven da we daar aankwamen en… Die bus en al die kinderen en zo. Oh.	BZL	0.953836692589	0.759970549464	0.659930390912	joy
+132	Jazeker, omdat het gewoon onterecht is. Het is echt onterecht dit.	OV	0.145718478906	0.519446880705	0.567381940571	anger
+133	Ibiza! Woooh!	BG	0.954514845208	0.953971036203	0.592298468457	joy
+134	Das heel mooi beschreven.	BG	0.562317610688	0.222670324937	0.532498702937	joy
+135	Franky heeft ons ook een bikke wakker gehouden, want die snurkt wa.	BG	0.4036770596	0.364567607893	0.448889631945	neutral
+136	Nee, da is keisip.	BG	0.296718148418	0.306990317919	0.448679995922	sadness
+137	Eindelijk ga ik vannacht in een goe bed slapen. Amai. Die flutmatrasjes, kga ze nie missen. Voila.	OV	0.877117254678	0.848356851761	0.783728081017	joy
+138	Met mij gaat het heel goed. De afgelopen periode heb ik eigenlijk hetzelfde beleefd als de periode voor de trouw dus ik heb eigenlijk een heel stabiel leven. 	BG	0.820568096693	0.151277098429	0.660157122256	joy
+139	Mijn telefoon ligt hier op te laden, zeker?	OV	0.516138041105	0.215970620111	0.414544120357	neutral
+140	Ik probeer zoveel ik kan mezelf te zijn.	BG	0.576295728091	0.151144322168	0.50585016014	neutral
+141	Nog twee jaar? - Ja, dan ist gedaan. - <b> Ja. Das rap eh. </b>	OV	0.705647443487	0.455677184763	0.631717770295	joy
+142	Ik ben wel trots op u  da ge deraan hebt meegedaan.	BG	0.729423747421	0.327162432833	0.639182062485	joy
+143	Ik denk dat we hier een heel sterke match hebben.	BG	0.858735207993	0.317838888785	0.89577623002	joy
+144	Ge kunt nogal dansen godverdikke.	BG	0.625363402177	0.735489980273	0.633848058568	joy
+145	Dus dit is den eerste keer dat we onze junior echt zo loslaten.	BZL	0.389179087481	0.325828122798	0.252809190884	love
+146	Ja, goeien aanval. Goeien aanval. Bien jouer, Marcel. - <b> Jaaa! Komaan! </b>	BG	0.747978357153	0.826693819142	0.670042856181	joy
+147	Het leukste ja vind ik nog altijd z’n enthousiasme ook en zijn lach en ook echt een levensgenieter. Kdenk da we daar op da vlak der sowieso ook tzelfde in in alé int leven staan. Ma vooral ook da Victor iemand is da ik nu, na mijn gevoel, volledig kan vertrouwen ook. Altijd.	BG	0.799282486395	0.573184880448	0.761424507133	joy
+148	Kdacht dak da mega leuk ging vinden en dan na een uur dacht ik van “oh my god wanneer ist lunchpauze? Want da ga hier nog drie uur duren”. Kwas echt blij toen da de bel afging.	BZL	0.516154533897	0.804781364181	0.565829266457	anger
+149	Oh, top! Nee? Echt wel chill, eh?	BZL	0.831292163693	0.795349238601	0.628679759963	joy
+150	In Nederland weet ik, als je met zoiets wordt gepakt weet ik dan sta je na twee dagen buiten, maar hier komen ze al gelijk met: ja je bent een dealer bla bla bla dit dat. Ik vind het allemaal euh een heel klein beetje overdreven. En zo’n ouderwetse gevangenis, ja das echt…	OV	0.267168950736	0.759334531245	0.497305001262	anger
+151	Ik heb alleszins zin in euh hetgeen da nu ga komen. Kheb er momenteel een positief gevoel over. Dus euh… ja ik kijk er wel naar uit, de komende weken.	BG	0.737632144352	0.49457241355	0.473057586315	joy
+152	Ja voilà. Daar kwam je goed uit de verf. Fancy kostuum, chique schoentjes…	BG	0.730032067107	0.585237019758	0.663158626749	joy
+153	Das wel efkes wennen age zo tijdje alleen zi geweest.	BG	0.574312797965	0.0772565516156	0.363783600718	sadness
+154	Ik neem mij altijd voor da ik mij zo goe mogelijk ga gedragen omdat ik geen, tegenover die mensen da hier werken die da elke dag doen, echt geen verwende prinses wil zijn. Ik probeer mij da echt voor te nemen ma als ge zo moe zijt dan denkt ge echt “fuck it” en dan zijde zo slechtgezind als wa.	BZL	0.389060787542	0.687247943337	0.652305023813	anger
+155	Oké mevrouw, maar dan moet u ook zeggen dat hij niet moet moeilijk doen tegen mij. De attitude van die chef tegenover mij is…	OV	0.357446192973	0.710634603864	0.476659467998	anger
+156	In Nederland zat ik toen ik achttien was voor een gewapende overval. Daar heb ik uiteindelijk zeven maanden voor gezeten. En toen ben ik naar hier gekomen om mijn leven op te pakken en nu zit ik weer hier zo, helaas.	OV	0.340456757534	0.444723824997	0.378406173691	sadness
+157	Goeie feesten.	OV	0.682354477291	0.322393549874	0.576152409502	joy
+158	Dat aftellen, da zegt mij niks.	OV	0.393804348741	0.341775447837	0.439882385461	sadness
+159	<b> Dit is echt vatsig. </b> - Nee nee kom laat da liggen zeg. Da ga ik toch nie meer opeten ze. Ma da kan toch nie lekker meer zijn, komaan.	BZL	0.236645516295	0.728233407162	0.530011296996	anger
+160	Alé, Milan die stil is. Zo hebk hem nie meegemaakt op reis.	BZL	0.571864489475	0.320458305361	0.459785291948	joy
+161	Kuje nie keer je haar knippen? Knip e keer je haar. - <b> Ja ma, diejen die het nie kan komt er hier nie aan eh. </b>	OV	0.32485734299	0.807814613161	0.613489105101	anger
+162	Het stinkt eh allemale. Zorg dawe geen zulke dingen meer zien of ge gaat er nie lange zitten eh.	OV	0.212009449785	0.850977186674	0.634727553467	anger
+163	Jij zal worden vrijgesteld en gerepatrieerd naar Italië.	OV	0.551406362895	0.0676693146326	0.604779457092	neutral
+164	Ma ge kunt die energie ook op een positieve manier gebruiken. Kijk, als ge die boosheid voelt van, van de op een positieve manier te gaan gebruiken door in dialoog te gaan.	BZL	0.623120107911	0.365595830466	0.775146043151	neutral
+165	(wijst) Een giraf!	BZL	0.672428842121	0.952294857036	0.582509097579	joy
+166	Da vond ik echt verschrikkelijk want ge zijt daar ook met dieje geur. Ik vond da echt een vieze geur. Ik kon daar echt nie zo goe tegen. En dan die steken zo wa in uw handen en dan had ge die locals die da zo goe kunnen en die daar zo wa op uw vingers stonden te kijken van “wa zijn die eigenlijk aant doen?”. 	BZL	0.143415045653	0.7495624158	0.311013574769	anger
+167	Ma ge merkt dat da dan nie lukt. Nja da zijn geen prettige gesprekken eh da.	BG	0.364702013943	0.191564591469	0.299822790805	sadness
+168	Dit is Jolien. 29 jaar. Uit Limburg afkomstig, woon in Brussel. Zeer sportieve dame, zeer assertief met heel wat pit in haar die misschien wel de gave bezit om Lenny soms een beetje onder controle te houden.	BG	0.670251330689	0.295908294732	0.794542128568	neutral
+169	Ik was het een bikke vergeten hoe erg dat het eigenlijk nog was in de wereld. En het is niet de enige plek, he. We zien het nu heel up close, maar da gaat hier in alle omstreken zo zijn he. Eigenlijk…	BZL	0.328029667209	0.587319501026	0.234501195649	sadness
+170	Ik ben enorm klaar vo te trouwen. Ik kan eigenlijk nie wachten bij wijze van spreken, dus die data mag hier heel rap gaan zijn.	BG	0.799020958053	0.795500982183	0.783971626852	joy
+171	Ik kom uit een euh een warm gezin. Mijn ouders zijn toch al heel lang getrouwd. Tis een heel warm, goed koppel. Tzijn ook mensen die echt wel pro-huwelijk zijn. En zo wil ik het ook wel voor mezelf.	BG	0.692145075275	0.336944392412	0.740325856646	neutral
+172	Ja ik ben heel proper.	OV	0.629115284686	0.17619717278	0.736925179786	neutral
+173	Ja. Ik zou hier echt nie, nie willen nie kunnen… Nooit. Ik wil dit ook… Ik kan het nie zien, ik kan het gewoon nie zien hoe da mensen hier leven. Ik vind da echt verschrikkelijk.	BZL	0.0750674529344	0.618022428715	0.279934582305	sadness
+174	Ik denk da nie veel mensen da zouden durven om zich compleet open te stellen.	BG	0.477227205844	0.114609740996	0.358587945426	neutral
+175	Ahaha en met al da geknor derbij. Geweldig.	BG	0.805797043304	0.644184554558	0.573450110837	joy
+176	Maar op een gegeven moment moeje echt zeggen alé moeje echt eerlijk zijn over uzelf en de andere en zeggen ja het blijft weg en ja. We moeten echt wel een beslissing gaan nemen.	BG	0.399333862777	0.227786509278	0.529586883367	sadness
+177	Da was zalig.	BG	0.95364762441	0.50326971794	0.609276975924	joy
+178	Het kot serieus dichtbij. Tis spannend. Nu begint… aleja kwas nie zo zenuwachtig. Nu begint die stress toch wel een klein beetje te komen eigenlijk. Hoe dichter dat den trouw komt, hoe meer stressy dak word.	BG	0.515076186366	0.616453123389	0.412268469388	fear
+179	Ja. Kweetet. Op het moment da ze da zeggen eh “nog vier weken” en dan denkte van gohja das nog veel ma… Goh alleen als ik er al aan denk, dan ist echt wel stress. Nog twaalf dagen. Twaalf dagen en ik zin ne getrouwde man.	BG	0.633878183634	0.7701357519	0.454865321942	fear
+180	Auwch.	BG	0.273669054745	0.488187878687	0.360721711232	neutral
+181	Kweetet, ma nu ebjet wel helemaal na de knoppen geholpen eh.	OV	0.24069753933	0.569806305022	0.56643831839	anger
+182	Zeg, doe es… Stel u es nie zo onderdanig op.	BG	0.356899580812	0.727642814997	0.688348011383	anger
+183	Nee, da lijkt mij… ja verschrikkelijk om een kind op de wereld te zetten en te beseffen… ja da ge da eigenlijk niks kunt geven. Kword er emotioneel van omda ja, ge wilt voor uw kind het beste. Ook, ook die mama die met da kindje op haar rug.	BZL	0.148297951907	0.552292457864	0.169917144787	sadness
+184	Oh my god, het is echt.	BG	0.631645115262	0.669680008786	0.410169384807	joy
+185	Totaal nie. Tga echt een ontnuchteringsles worden.	BZL	0.451013514554	0.471780789136	0.396271402079	fear
+186	Sorry ma ik blijf het echt een grappig beest vinden.	BG	0.677629056271	0.556735649064	0.554711465956	joy
+187	Het was heftig eh? - <b> Wenen, roepen, wenen. </b>	OV	0.29448074737	0.446240931307	0.289608251148	sadness
+188	Wat ik nie begrijp is, van waar heeft hij die verhaaltje? Hij heeft da uit zn duim gezogen. Moest ik zoiets willen doen, mevrouw, ik ga da nie doen voor zijn neus. Ik ga, ik ga da rustig prepareren…	OV	0.412532578471	0.723023411862	0.625304416193	anger
+189	Khad het voorspeld eh. Khad gezegd tegen Lenny: Je ga hilarische momenten hebben op reis.	BG	0.735915641488	0.520198982389	0.964971279971	joy
+190	Khen ik lik gehoord daj gie zelve gestopt zijt me werken in het medisch centrum.	OV	0.573275621013	0.536543241186	0.521224435543	neutral
+191	Het strand in Sri Lanka met de zonsondergang, gasten.	BZL	0.792114297843	0.428056746165	0.709659007674	joy
+192	Kheb goe nieuws. Gij ga trouwen. - Amai, amai, amai. - <b> Oh my god. O nee, da kan nie. Echt? </b> - Das goed. Amai, superbenieuwd.	BG	0.730412572076	0.849921325422	0.306226046284	joy
+193	Heerlijk, opt terras, goei weer.	OV	0.953109640086	0.379277601085	0.636544432556	joy
+194	Ma ik leer wel bij ze, tis da. Omda ik zo lang single ben geweest, ge hebt zo uw eigen gewoontes gekweekt en jah ik was de laatste jaren was ik echt wel enorm versaaid om het zo te zeggen dus euh…	BG	0.42369293469	0.317876757558	0.460497113679	joy
+195	En ja dat is een spelleke eh tussen cipiers en tussen gedetineerden. Als je gepakt wordt, ja dan ist euhm… Als ik gepakt word, is het aan mij om die verantwoordelijkheid op te nemen eh.	OV	0.391582388924	0.351855462382	0.386900879231	anger
+196	Is da ne tuktuk?	BZL	0.546460789006	0.347259414142	0.408680100637	joy
+197	Joa, ik ben een filmfreak zelfs. De dag dat ik opgepakt ben, had ik denk ik thuis iets van 900 dvd’s staan. Ze zijn uitgewreven, onze kasten.	OV	0.670742432211	0.33049258027	0.691821354809	joy
+198	What the fuck… What the fuck. Ge moe da ier ne keer zien. - Maat dees doe mij zo hard denken aan Mad Max. Gewoon… - <b> Ik krijg hier echt zo het gevoel van zo dit is echt het begin van het einde van de wereld. </b>	BZL	0.219858408398	0.702604459434	0.265412767304	anger
+199	Ik kijk zelfs op immowebsites om gewoon bij mensen aan house perving te doen dus euh…	BG	0.674531787316	0.42439749498	0.64195488291	joy
+200	Ik vond da wel hallucinant hoeveel heisa dat daarover was.	BG	0.32843179352	0.516934102886	0.593348412048	anger
+201	Nee ik ben geen fan.	BG	0.414047544824	0.194560456966	0.490635339518	anger
+202	Hoe dat die mensen leven das toch nie… das toch nie groot… das nog nie… das amper, nog nie zo groot of mijn tuinhuis. Int midden van euh… een vuilnisbelt of alé of… een metaalverwerkings… Zis hier zelfs gewoon bevallen van euh… Twee maanden geleden, oh man. Da is absurd gewoon.	BZL	0.180401389542	0.548735108641	0.139286844067	sadness
+203	Ja superhecht, wij zijn gewoon… We zijn vaak echt zo als een hele roedel aan het…	BZL	0.620036003944	0.268511217171	0.696457907079	neutral
+204	Ma tis nog nie te laat eh Wilfried. Vandaar da we deraan moeten werken. En we kunnen nie anders eh, we moeten da gewoon doen eh. Uw leven buiten moe terug op de rails gezet worden.	OV	0.543574820995	0.66218407662	0.844137040043	joy
+205	(Veronique heeft haar vader in het ziekenhuis bezocht.) <b> Ik hoop dat het niet voor deze nacht is. </b>	OV	0.279691325656	0.339398915068	0.204816064006	sadness
+206	Ah dus nie naar mijn cel ofwa? Oh ik snap nie, mevrouw, ik zou graag in mijn cel blijven ikke.	OV	0.335710302166	0.691989316342	0.145109076644	sadness
+207	Khad da gehoopt eh. Hehehehe. Ma zis eiglik vree snel in haar oude patroon hervallen, ja.	BZL	0.514193660687	0.66044720335	0.554556778088	joy
+208	Ik had echt nie verwacht dat ik zo geraakt zou zijn door dingen deze reis. Echt nie. Ma ik ben echt super-, super-, superblij en dankbaar da ik… Ik zie u ook wenen. Super-, superblij en dankbaar da ik, da ik mee ben gegaan op deze reis. Ik ga dit echt… Oh ik ben in clichés aant spreken ma ik ga dit echt nooit vergeten.	BZL	0.732365575995	0.806205377747	0.575063826068	joy
+209	Ja. Da zegt mijn mama wel altijd da ik mijn Afrikaans ritme nog heb.	BZL	0.525249846412	0.0584794638361	0.482356714926	joy
+210	Ik krijg er gewoon buikpijn van als ge dees moet doen zeg.	BZL	0.156827642461	0.522503410663	0.381746701052	anger
+211	Zo da. Ik wil iets doen. Ik wil iets doen. En das wel schoon eh.	BZL	0.657189464054	0.578959311526	0.632392512197	joy
+212	Hey Tamara, kben ekik hier eh. Ik heb euh eindelijk positief gekregen euh dus ik denk da wij elkaar wel heel snel gaan zien.	OV	0.660858117349	0.4115793573	0.600030720625	joy
+213	Ja tuurlijk, het is men eigen schuld, maar ik vind het een beetje overdreven. Ik word in een club gepakt. Als ik een dealer zou zijn, zou ik zo’n stapel geld bij mij hebben. Dat had ik niet. Hoezo? Ik heb alles op mijn bankpas, omdat ik netjes werk. Zo.	OV	0.189535621071	0.735628320933	0.65183443858	anger
+214	Ik voel mij heel goe bij Tim. Hij geeft mij echt een, een beschermend, gerust gevoel. Kverschiet er soms van hoe dak in deze fase al echt zo… Ja, mezelf kan zijn.	BG	0.85541610443	0.456987950398	0.722999628722	joy
+215	Tis ne mooie auto.	OV	0.662040597543	0.233196317593	0.55455064681	joy
+216	Toen ik hier vijf weken geleden bloednerveus op jou stond te wachten, had ekik nooit gedacht dat er zo een fantastische persoon door die deur ging komen.	BG	0.781807342424	0.452660934253	0.634754601343	love
+217	Geen idee. Ik ga er nu op duwen, sebiet trrrrr.	BZL	0.623732300115	0.565275390763	0.316614683245	joy
+218	Maf, eh? - <b> Tis allemaal heel veel da ineens op u afkomt. </b> - Kvind da gewoon heel erg dit. - Sgewoon maf. - Echt erg wel.	BZL	0.21069134315	0.383044172542	0.346172517224	sadness
+219	Da mis ik enorm ja, da slapen in zijn armen. Dan zegt hij van: how, ge zij sterk. Nog twee weekskes, tis bijna gedaan. Love you.	OV	0.302957406669	0.571254265828	0.422976984186	love
+220	Ik zin nu koffie ant maken voor men celmaat die seffes naar hier komt. Dan ga ik hem een tas aanbieden eh, als welkom in de cel.	OV	0.589290392622	0.300538119065	0.740616816851	joy
+221	Ik had da nie verwacht da ik zo elke keer zo, da gevoel van onrechtvaardigheid ging voelen. Bij Isham was da gewoon hoe dat die deed, en hier wast gewoon zo het verschil tussen man en vrouw. En dan staan dieje zo etwa, in mijnen ogen, echt bullshit te verkopen tegen ons. Ja…	BZL	0.278422973266	0.53413203827	0.247325803479	anger
+222	Ik voelde gewoon echt ja, de grond onder mijn voeten wegzakken. Da was zo ik ik ik… Ik ik kreeg ja euh… Ik voelde al… Kvoelde alles vollopen. Oh man toch.	BZL	0.217931010397	0.638110451692	0.0667710370769	sadness
+223	Nee, totaal… Ja. Nee eiglik, nee. Ge kunt echt nie inbeelden hoe dat er hier uitziet. Fuck. Das toch ook kei erg ik ben gewoon… Dak zo, ja… Eiglik gewoon aan het wenen ben vlak voor hun huis. Die moeten toch ook beseffen van amai hoe erg moeten wij da hier vinden? Oh ik snap da echt nie.	BZL	0.14227811915	0.853321484453	0.230947683772	sadness
+224	Mijn speech gak in mijn binnenzak steken dak da zeker nie vergeet. Dan zijn we zeker?	BG	0.591119953004	0.406140075181	0.551936369403	fear
+225	Het is nie zo simpel.	BZL	0.463408281188	0.232378215005	0.295459087619	neutral
+226	Manneke toch.	BG	0.407701375884	0.462818541971	0.546351896365	joy
+227	Ja, ik vind da echt nog wel chill. En het ding is, wij kunnen overal slapen. (wordt geraakt door een tak) Oh! Voila. Dus ik zie ons echt gewoon zo shiften doen en slapen.	BZL	0.761434872699	0.665003877042	0.849803330191	joy
+228	Maar ik voelde daar ook van ja, ma eiglik mis ik die nie genoeg en da was wel een heel jammer besef da ge zo die persoon nie genoeg mist op reis. En das wel… Ma ik vond da zo hard ook.	BG	0.281563105283	0.44416652411	0.312112970161	sadness
+229	Ik euh weet het eiglik nie.	BG	0.532068148667	0.0677737696531	0.292205360061	neutral
+230	Ik kant ma proberen eh.	OV	0.457811228565	0.262190957253	0.3171202681	sadness
+231	Kzie u graag.	OV	0.882711901878	0.293296290784	0.585313529798	love
+232	Ja waanzin gewoon. Waanzin. Al die kindjes en mensen die euh reiken naar u, echt die u willen aanraken euh… tis onwaarschijnlijk. 	BZL	0.958030563225	0.823996403167	0.715483821478	joy
+233	Superchill.	BZL	0.6908141963	0.383965596176	0.50329746631	joy
+234	Bij ma gaat da toch nog efkes duren maja.	OV	0.479130541904	0.233314299724	0.299466465309	sadness
+235	Zie je wa ik bedoel? Waarom geef je mij nu geen kans om met een uitgang… Waarom nie? Alé…	OV	0.249366787356	0.737491092987	0.326469496442	anger
+236	Ik word nu gewaar: als het zeven jaar nie gewerkt heeft, waarom zou het nu op zeven maand ineens wel werken? Daar… Ik kan het nie geloven. Oké, tkan zijn da gundr nog een toverstokske hebt hier of daar, ma ik geloof er nie meer in.	OV	0.328751052191	0.653541486726	0.394039835831	sadness
+237	Men moeder deed leuren en kermissen. Ja een beetje van alles om rond te komen. Twaalf kinderen in een woonwagen, ge weet dat ook hoe dat dat is eh.	OV	0.463636159725	0.369348711358	0.510561708638	sadness
+238	Ja twas echt… Twas echt… Het plaatje was compleet. Het was echt zo… ja gewoon een keileuke sfeer, een keileuke euhm… man met heel veel humor.	BG	0.955876194788	0.647229919322	0.658611217608	joy
+239	Kga da nooit vergeten, ma der zat iemand op een terras en ik kom daar me mijn man. Mooi weer, het terras zit vol, en die dame sta recht en roept zo van: hé, Aagje, tis hier beter dan in de bak eh? Zo… doef. Ik zo helemaal gegeneerd zo van, ja oei, nu gaat iedereen denken dat ik ook uit de gevangenis kom.	OV	0.54846456815	0.755142687591	0.497609214209	sadness
+240	Ik volgde hiervoor Crea, Spaanse les, maar er zijn nog andere workshops enzo. Als da mogelijk is, dan wil ik na verloop van tijd euh gewoon gaan wandelen.	OV	0.613133378922	0.270032499692	0.619483351243	neutral
+241	Tga nog een lang jaar worden jong. Pas op, voor mij gaat da hier moeilijk zijn. Ge komt in enen keer in een wereld terecht, waar dat er niemand nog zegt tegen mij “hé gij moogt da nie”. Daar moet ik ook nog mee leren omgaan eh. Ja kijk, ik word hier weeral kwaad.	OV	0.161225207111	0.816989279416	0.429618880393	sadness
+242	<b> Het grappige is da mijn vrienden zeiden van tuurlijk ge zijt erbij. En ik nee nee nee. Amai, ja. Ja kvind vree wijs. </b> - Kzweet er een beetje van.	BG	0.846816916083	0.731837809191	0.603307835742	joy
+243	Dus die verschillen ja die waren der van int begin. We merkten die ook wel ma… Ja die bleken dan toch iets zwaarder door te wegen dan dan ja dan ge dacht. En dan ja liep da toch nie zo goed eh.	BG	0.329550549862	0.366295117781	0.271935370786	sadness
+244	Ja Céleste was echt de kindermagneet eh op reis.	BZL	0.721893958149	0.515934305847	0.63241489512	joy
+245	Kwou dak mee kon.	BZL	0.451695544837	0.275085481001	0.271377146064	sadness
+246	Ik heb tegen men eigen gezegd van, als ik dat ier nie kan zien sterven, als ik men eigen zo ga gedragen, dan vind ik da ik nie da recht heb om da te eten ook nie.	BZL	0.419781308746	0.527337284662	0.649163221958	anger
+247	Courage.	OV	0.508828756164	0.0661897030448	0.47491667693	love
+248	Hallo. Dit is Joke. En Joke is een grote catch, want ze ziet er goe uit, ze kan goe koken, zis een prachtige, prachtige…	BG	0.794643087505	0.657130733246	0.761297267262	joy
+249	Elke dag opnieuw. Kvinnet mooi dat hij het heeft laten gebeuren, dat hij het heeft laten binnenkomen, ondanks het feit da zijn mama altijd gezegd heeft “ge moet u flink houden”. - <b> Ik vond da heel mooi. </b>	BZL	0.763155531852	0.431713373878	0.598857987865	joy
+250	Hele domme fout van mij. Ja ik geef het eerlijk toe. Maar ik vind gewoon dat ik overdreven gestraft word.	OV	0.339162092843	0.570412097386	0.559924631361	anger
+251	Yes, ondergoed. Handdoeken. Ma Kkitsch toch of nie? Da vink er echt over, da bed.	BG	0.554367573579	0.808332101394	0.684317411152	joy
+252	Ze zijn medu ant lachen Bessie.	BG	0.449515160294	0.472932182963	0.357454326452	joy
+253	Dus tis eiglik verkeerd gelopen deze keer met euhm een gesprek in de cel die een beetje geëscaleerd is blijkbaar. En dan ister vastgesteld da jij een koffiekop in een sok wilde steken als slagwapen.	OV	0.368819006646	0.268517339667	0.482800906398	neutral
+254	Dees is zot. Letterlijk.	BZL	0.683435460799	0.619865503638	0.341029911938	joy
+255	Kga de tv afzetten.	OV	0.633337481305	0.0464216212107	0.560534582471	neutral
+256	Ze maken een crimineel van mensen. Echt. Mensen komen binnen soms voor niks. Na een jaar, twee jaar ze komen buiten, onschuldig verklaard. Ze zijn alles kwijt: vrouw, kinderen, werk, dit dat. Wat moeten ze dan gaan doen? Wat moeten ze dan gaan doen? Negen van de tien tuurlijk gaan die het criminele pad op omdat ze geen uitweg meer zien. Dus ja, we zullen zien eh.	OV	0.186283261127	0.884405699834	0.641014084063	anger
+257	Ja den openingsdans was euh vrij intiem, vrij fijn. Ja nie vrij, was gewoon heel fijn. Zelf om, om haar dicht tegen mij te hebben. Twas euh… tgaf mij een goed gevoel. Ja twas nen warme dans. Twas euh oprecht. Kdenk dat da het voornaamste was.	BG	0.852325318901	0.501005321999	0.522863677753	joy
+258	Ewel girlpower.	BZL	0.695079073546	0.261077136689	0.681403742467	joy
+259	Twas wel zo en ze hebben mij ton opgepakt. Een beetje jammer wel, aja, ma tis beter dak der vanaf ben, want dan kan ik terug me mn leven beginnen eh.	OV	0.579349137238	0.393813168661	0.418135413104	joy
+260	O nee, ik ben bang. Ik ben echt bang.	BZL	0.149360560158	0.551050482355	0.215967132451	fear
+261	Je had misschien beter in Nederland je feiten gepleegd. - <b> Ja zeker. Echt, het liefst wel. </b>	OV	0.476051025444	0.610196138178	0.584231871805	anger
+262	Kvind het vooral jammer vo te horen da je een herval gekend hebt ook. - <b> Ja nie lange. Maja, tis er wel geweest. </b>	OV	0.37710512889	0.349565849361	0.327814724387	sadness
+263	Ik heb da nooit gehad. Twas wel efkes wennen toen dak hoorde dat die ja, wel een hondjen had en ja da we daar ook wel daar rekening mee moesten gaan houden.	BG	0.510335849426	0.360516122968	0.276129984419	fear
+264	Want wij werden zo gehypet als hét koppel.	BG	0.631268414491	0.513039341758	0.599410340952	joy
+265	Ge zijt kwaad, ge zijt verdrietig, ge voelt u machteloos, ge voelt u… goh moe, ge voelt u uitgeput ma mentaal, fysiek alé snap je? Ge staat daar zo en ge hebt nog geen halve euro verdiend. Die mensen staan daar elke dag zo. Zo nie weten wat de dag brengt, dag tot dag.	BZL	0.138958503349	0.749793548216	0.166627014848	sadness
+266	Joehoe! Je bent al aan het afzien van het gewicht op uw rug.	BZL	0.383783863575	0.612110705642	0.442857294344	joy
+267	Tis echt heel mooi. - <b> Ja. Ik word er ook echt zo wa stil van. </b>	BG	0.696558858593	0.26505208578	0.503015369982	love
+268	Uiteindelijk ist veel leuker om euh… om uw leven te delen met iemand. En iemand gelukkig te kunnen maken. Dus we zijn begonnen aan het avontuur. En euhm… ja. Waar het gaat eindigen, da weten we nog nie. Ma deze dag was in ieder geval echt leuk.	BG	0.853296937106	0.609758856497	0.501621337238	love
+269	Den 31ste december zou kik verlof pakken.	OV	0.642165065697	0.323103214619	0.610614419195	neutral
+270	Eh ma wa toch onvoorstelbaar is, is da hun dochter dus ervoor zorgt da zij nog kunnen leven.	BZL	0.347090029913	0.4782233913	0.309120129566	sadness
+271	Ik voel de hernia in menne rug al, echt waar. Ik heb geen plaats. Ik zit er me mijn knie tegen.	BZL	0.171726192346	0.68128273097	0.364821188378	anger
+272	Ja. Ja en nu is da eigenlijk twee maanden geschorst. Maja tis stom eh.	OV	0.275683555553	0.288122047465	0.31673653284	sadness
+273	(Britt stoot zich aan de wagen) <b> Ohhhh, hebt ge da gezien?! </b>	BZL	0.483188603016	0.786487226199	0.576358570442	joy
+274	De toekomst? Daar kijk ik nou niet naar. Nu ook, het contact met mijn vader dat is ook klaar. Dus…	OV	0.246184588575	0.556907204797	0.368194806736	anger
+275	Das mijn 3D. Ge ziet het zelf eh, wa da ge hier allemaal zie gebeuren. Mensen da passeren, auto’s daar aan den overkant, mensen da komen tanken, achter brood. Der is altijd wel iets te zien, das dag en nacht hiere. Das es iets anders dan altijd op die vier muren kijken. Zie, das… Das precies of ge naar een aquarium kijkt. Ja maja.	OV	0.803436244659	0.650765361265	0.950317123049	joy
+276	Ik ben gelukkig. Kben thuis.	OV	0.716280227376	0.304735961809	0.64077866115	joy
+277	Das wel glamorous. Alé das echt… daar gade in schitteren. 	BG	0.85415067379	0.711369305402	0.722512816501	joy
+278	Der is toch iets, iets aangewakkerd waarin ze zeggen van oke we kunnen der niets aan doen en we voelen toch da onrecht en… 	BZL	0.410433962558	0.264885522395	0.377548089048	neutral
+279	Ohhh. Ja ge zijt daar ant wachten en elke minuut duurt gewoon uren. En euh… da zweet komt op, ge maakt u nog meer zenuwen. Da was gewoon doodgaan daar eh. Tmag gaan beginnen. Echt. Pff.	BG	0.294182219458	0.885450015719	0.368328105075	fear
+280	Ik zie da zo neig veranderen en ik loop daar nie in mee. Dus als ekik dan die 36 uur es buiten zij is da voor mij wel… Das heel anders, versta je? Ge kunt da moeilijk uitleggen.	OV	0.569826327765	0.615909055268	0.352774146904	sadness
+281	Go with the flow eh.	BZL	0.745351430211	0.424951461849	0.642819964461	joy
+282	Ja das moeilijk.	BG	0.365530436213	0.166412782739	0.3580415077	sadness
+283	Dus ge hebt echt iemand gevonden die bij mij past?	BG	0.706133429821	0.498236582199	0.349848502225	joy
+284	Wa willen ze? Dak hier buitenga, een overval ga doen en het geld op tafel leg? Ja dan zik der van af.	OV	0.378444016204	0.809545940069	0.448288803632	anger
+285	Da komde in België nie tegen zoiets. Echt nie.	BZL	0.433826401614	0.570332136232	0.634400383891	anger
+286	Oh. Oh da doe deugd.	BG	0.959244565373	0.628592979677	0.493254909206	joy
+287	Eiglik zie kik da gewoon totaal nie zitn, zegt hij, vrijkomn.	OV	0.464283358535	0.607778227334	0.338587143277	neutral
+288	Da ga een avontuur worden, denk ik. Want euh… kdenk dak misschien mijne kop efkes onder et water ga steken ma echt zo een uitgebreide douche gaan ik hier nie nemen denk ik.	BZL	0.338737092194	0.452773594145	0.392315350294	fear
+289	Ik heb het totaal nie onder controle van euh... Tjah, ik denk dat ook logisch is. Tis zo spannend. Je weet totaal nie me wie je ga trouwen. Tis eigenlijk een heel onrealistisch gegeven.	BG	0.354739310121	0.537148664931	0.164088830465	fear
+290	Ja ja ja. Ma ik vind het toch aan de andere kant… zo toch wel die zucht toen ik binnenkwam dat ik terug euh die modus van de gevangenis weer kon oppakken, want das eigenlijk wel het gemakkelijkste voor mij hier eh. Alé snapte wat ik bedoel?	OV	0.563522803442	0.52467711481	0.48190625213	sadness
+291	Ow. Volgens mij ebt ge hier echt wel zo geduld voor nodig en jah da heb ik nie.	BZL	0.417731319086	0.38571463881	0.330566933673	anger
+292	Goh ik denk da wij alle vijf fantastische vrouwen zijn dus we gaan sowieso op onze pootjes terechtkomen.	BG	0.900657409469	0.406201787675	0.850609700926	joy
+293	Dak dan dacht zo oh das zo zonde. Want ik heb die wel supergraag.	BG	0.462847833989	0.646649017301	0.317123824266	sadness
+294	Ik denk nie da iemand wordt geboren en droomt ’s nachts over hier te komen zitten en te naaien. Da is onmogelijk. Tis geen leuk werk maar voor veel van die mensen hier is het werk.	BZL	0.450893817762	0.415603558472	0.473849933849	anger
+295	Doe da goed.	BZL	0.64381130304	0.32781494249	0.61136720815	love
+296	Een van de andere activiteiten da ik regelmatig doe int weekend, is gaan wandelen int bos.	BG	0.55672325145	0.217418461398	0.764617429578	neutral
+297	Ik denk da, da Marie daar zelf een van de meeste als ons daar het meeste mee bezig is zelf. Ma ge toont da misschien nie zo hard.	BZL	0.479780814465	0.339525443321	0.492728408911	neutral
+298	Ik kan nie zeggen dat ik het het mooiste hondenras vind dat er bestaat. Ik zou zelf eerder voor iets anders kiezen. Ma zis eiglik zo lelijk da ze zo schattig wordt.	BG	0.657067502185	0.445766151707	0.580513525253	joy
+299	Over en weer stappen, schuppen. Ma dees is gewoon in de kak trappen met water.	BZL	0.164549852567	0.623292362352	0.370511482005	anger
+300	 …en ik vind da zielig.	BZL	0.289284730323	0.252615176395	0.381645269764	sadness
+301	En dan kunnen we ne keer een schone korte coupe laten inzetten.	OV	0.629497193312	0.472637017381	0.810011404572	joy
+302	Ik zit nog nie echt terug in het vrijgezellenleven denk ik. Ik ben wel terug vrijgezel maar euhm… ja. Alles is nog maar net afgelopen dus tis eventjes terug rustig. Euh… Alles laten zijn gang gaan, het gewone leven terug oppikken eigenlijk.	BG	0.464556621568	0.21473242138	0.310915358032	sadness
+303	Ja ik ga het heel kort houden. Ik wil euh… Jolien bedanken om hier vandaag te zijn me mij. Ik ben aangenaam verrast. En ik hoop gewoon da iedereen hem ongelooflijk amuseert vandaag en we gaan er gewoon een feestje van maken.	BG	0.698400446919	0.488074559015	0.656880323097	joy
+304	Allee maat. Zie zie zie zie zie. Buuuuh! Hou die es vast. Die is helemaal warm.	BZL	0.437132326259	0.952637536728	0.59720830856	fear
+305	Ik vind da supermoeilijk om te zien dat die mensen tzelfde zijn maar totaal andere levens hebben en da ge er eiglik weinig aan kunt doen. Vind ik superfrustrerend en ja kzit daar vaak aan te denken.	BZL	0.251602835513	0.542431369763	0.237407954666	sadness
+306	Dan hoop ik echt dat da iet goe is ze, want als da slecht eten is, dan is mijn dag echt na de knoppen.	BZL	0.593532312247	0.643145280788	0.448469632005	fear
+307	Kijk daarnaar. Wat een droom is da hier.	BZL	0.796004494159	0.632348439112	0.545352971051	joy
+308	Ik weet nie waar ik ben. Verdwaald. Aan het schreeuwen bij de duisternis.	OV	0.139481926545	0.410499357999	0.206671722077	sadness
+309	Jamaja de middag… Tis vijf uur. De kwartierchef ga kijken voor al je gerief, daje al je gerief krijgt.	OV	0.475915725601	0.564174512948	0.768652170235	anger
+310	Twee jaar vraagt ie al vo kreeft, kreeft. En dan pest hij mij alstie op verlof komt: nog gene kreeft? Nog gene kreeft? Ma nu had ik er van de week gehaald en ik zei hem da gisteren.	OV	0.72503460987	0.711821768019	0.849756855798	joy
+311	Nu euh… beginnen de zenuwen toch wel toe te slaan dus euh… ik ga heel, heel content zijn als mijn getuige hier is dak euh een beetje afleiding heb, dak een beetje kan babbelen want euh… Het wordt euh, het wordt echt spannend.	BG	0.452051316487	0.556539016362	0.275206721879	fear
+312	De gang is zo lang eh, en hij valt om naar de toilet te gaan. - <b> Oei, is hij zo slecht? </b>	OV	0.376226171198	0.649407736258	0.274055809869	fear
+313	O nee da gaat een hel zijn.	BZL	0.26012153706	0.572582620878	0.274676822311	fear
+314	Oh ik snap jullie nie. Nee, ikke totaal nie.	BZL	0.193384464281	0.833058290078	0.551822835325	anger
+315	Ja ,ik heb eigenlijk wel nog goe geslapen. Aangezien da, euh, de man hier ons hangmatten kwam geven. Dus we hebben daar dan gewoon in geslapen eigenlijk. En een heel klein beetje de wacht gehouden.	BZL	0.818223546694	0.412041217552	0.944551282929	joy
+316	Ja das moeilijk om euh ware liefde… Ma… Ja. Ik denk da wel, alsk gewoon naar u kijk dak kan zeggen van all right. Das mijn vrouw.	BG	0.712939234476	0.395813853018	0.598389850356	love
+317	Ik heb kippenvel, nee.	BZL	0.48086860826	0.454805195156	0.438281743325	sadness
+318	Oke da is… Nah da ga na net ene te ver vo mij. Ge moogt mij men bed afpakken, men dak, legt mij in men bloot gat op de grond, prima. Ma pak mij, pak mennen sanitair, mennen sanitair da moe juust zijn.	BZL	0.350959101441	0.80261056996	0.497580097193	anger
+319	Fucking kankergedoe, man.	BZL	0.0648460075257	0.772225417523	0.466570752307	anger
+320	Dees is letterlijk pure stront.	BZL	0.136662686937	0.670242255791	0.399749710314	anger
+321	Fantastisch. Goedgekeurd. - All right. - <b> Ma ik vind wel dat het mij afgaat. </b>	BG	0.790024820652	0.403346131502	0.706944131491	joy
+322	Here we go. Brrrr.	BG	0.512503623468	0.595635173547	0.47043844034	neutral
+323	Als dat hier markt is, durf ekik al gauw mij hier ne keer Chinees komen eten. Vroeger was da alleen maar een hamburgerkraam en ne wafelkraam eh. In ene keer passeer kik zo en kzien ik e Chinees staan en kreeg der direct euh, met dat te zien, goesting in.	OV	0.826151664587	0.662114068722	0.711510502164	joy
+324	Kdenk dak euh… voor ons allemaal mag spreken dat het… dat da gewoon nie te vatten is en dat dat pure waanzin is.	BG	0.269268635558	0.5304383975	0.356155901774	fear
+325	Tis hier zo vies en ongezond. En gevaarlijk en… die mensen leven tussen hun eigen afval. Hun toxic afval eigenlijk. En pfff… ahh. Kwist nie eens dat dit bestond.	BZL	0.187929548735	0.822374883511	0.252829517284	sadness
+326	Stijn is iemand waarmee daje heel moeilijk ruzie mee kan maken. Hij zal conflicten eerder wa uit de weg gaan. Hij zal zich eerder wa zalvend opstellen.	BG	0.550695811971	0.250318247726	0.603021115732	joy
+327	Het ontvangstcomité sta klaar ze.	BG	0.663741339027	0.45682591685	0.604628954188	neutral
+328	What the fuck! Holy shit maat. Da zin der keiveel! - <b> Oh allee da besta nie! </b> - What the fuck! - Heeey! Aaaah! Das wel de max! - Wa is dees, maat? Wa is dees?!	BZL	0.622124004017	0.953575147376	0.445818363476	joy
+329	Ja… J aik wist eiglik helemaal nie da ik zoiets had me kinderen voor deze reis. Kwist da echt nii van mezelf. Ma… hoe cliché het ook klinkt, als ge zo kinderen ziet, zie ge wel zo onschuldigheid en dan denkt ge van amai wij weten hoe erg gij het ga krijgen later ma gij weet da zelf nog nie.	BZL	0.224284271853	0.51492824685	0.336878258639	sadness
+330	Da was een keitoffe dans ook.	BG	0.825130214115	0.640116549632	0.69759635813	joy
+331	Ja, de vrouw was thuis. Hij is een beetje hees. Omda hij wa ziek is. Ma ik heb ook een leuke dag gehad. Kheb een vriendin gehad die langsgekomen is. Dus euhm…  We hebben een beetje kunnen bijpraten, een beetje kunnen roddelen over de Lenny. Hahaha nee nee.	BG	0.75071229795	0.539002104652	0.756493894159	joy
+332	Das toch gene… gene koffie eh?	BZL	0.534097484853	0.382687686368	0.162179410608	fear
+333	Ja voila. Amai zeg.	OV	0.521517503324	0.56551663345	0.478200709859	joy
+334	Oke. Film die broek. Asjeblieft.	BG	0.686692060108	0.423814005972	0.543970671051	joy
+335	Vandaag begint ons avontuur. Ik ben zelf een beetje zenuwachtig om te zien hoe deze groep op elkaar zal reageren. Want het enige wat ze met elkaar gemeen hebben, is dat hun ouders bekend zijn.	BZL	0.454728990477	0.202378184012	0.531564929621	fear
+336	Doe uw hand es uit uw zak. Ah ja hij heeft zenne ring nog aan.	BG	0.529980708701	0.456976484552	0.642114513944	neutral
+337	Alé. Jongen. Proficat eh.	BG	0.68609072688	0.484205287179	0.616522565875	joy
+338	Hou hem efkes in de gaten tot hij wa rustiger wordt. - <b> Vent toch. Goh. </b>	OV	0.308469038101	0.780352783927	0.401009998305	anger
+339	Ik denk dat het bij Marie is euh… klinken of botsen denk ik. Vrees ik. Kdenk dat er niet een… dat er  gene tussenweg is nee. Ofwel gaat het klikken met iemand, ofwel botst het en dan botst het voor heel de tijd.	BZL	0.442709640602	0.528666412807	0.422491191696	neutral
+340	Kweenie, kheb kheb eiglik niets verwacht. Gewoon omda… Kwist eiglik nie wa ik moest verwachten, kzalt zo zeggen. Redelijk, ja… chaotisch. Een beetje vuil. De mensen lopen hier lik allemaal zo vree netjes bij ma zo de huiskes enal zijn… zij lijken zo wa vervallen en onafgewerkt.	BZL	0.390370020442	0.435682784759	0.216937393609	sadness
+341	Gij hebt schrik van honden heb ik gehoord.	BG	0.534459971382	0.141429396872	0.49216725398	neutral
+342	Nee, zeker niet, want ik zit hier nog steeds.	OV	0.454467790618	0.374305690812	0.429462581697	anger
+343	Tis hier zo donker.	OV	0.490960049248	0.261434525194	0.442011291494	neutral
+344	Die z’n hart staat op de juiste plaats eh en ik eb gewoon zo iets van oke we moeten hier effe de balans zoeken. En dan gaat da wel terug goed komen.	BG	0.723491363442	0.466759529334	0.757330098732	joy
+345	Amai. Wa voor beesten staan hier jong? Goh goh.	BZL	0.566139258672	0.745695386265	0.383744202299	anger
+346	Ik kan echt nie zo me mijn handen eten.	BZL	0.405511152124	0.514586379836	0.34590331541	anger
+347	Zo samen onder het dekentje. Voeten omhoog. Ik vond da best wel gezellig. Nee ik ben gelukkig. Ik ben echt gelukkig op dit moment. Ik kan da nie anders omschrijven dan da.	BG	0.95033764818	0.416816979126	0.699892896892	joy
+348	What the fuck is daar mis mee? Tis tis ochtend eh. Ik heb mij net half aangekleed. Mijn T-shirt is nog van daarjuist.	BG	0.356333203347	0.756609563337	0.462301685389	anger
+349	Ma ge zie nog altijd. Tis nen baas, tis nen slavendrijver.	BZL	0.283891372737	0.415786229748	0.535593492524	anger
+350	Er moet meer zijn eh.	BG	0.416668625297	0.224439545701	0.328965510797	neutral
+351	Das gewoon omdat da goe uitkomt voor u.	BG	0.560949388633	0.370530055565	0.472775560007	anger
+352	Ah dag Aagje. Content dak u zie.	OV	0.79426191067	0.348391467892	0.627324656007	joy
+353	Ik vind da wel euh… ja raar.	BZL	0.488933680897	0.149536612539	0.297601367559	fear
+354	Kzeg kzin nog ma juust wakker.	OV	0.541151511111	0.508403072281	0.581041943238	anger
+355	Iemand die kan dansen… das top eh.	BG	0.744171548571	0.672042861585	0.543061478993	joy
+356	Tis moeilijker dan ik verwacht, want toen ik jong was, maakte ik soms zo wa kleren. Ik had ook een naaimachien, ma ik kan da precies nie meer.	BZL	0.376856402431	0.34872646402	0.373450344939	sadness
+357	Ik heb ne T-shirt gekocht. Roze, fuchsia zo met ne paard.	OV	0.663626812801	0.439742634179	0.698482012905	joy
+358	Ah schrijf ma na Brussel. Doe ma.	OV	0.473324349003	0.462692318229	0.752956938832	anger
+359	Kvind eiglik jammer da, daje da nie nog meer mensen kunt… alé snapte? Dage da nie iedereen kunt, kunt laten doen.	BZL	0.520892449211	0.490510571071	0.370953411546	sadness
+360	Da sta mij geen beetje aan eh.	OV	0.156529399637	0.679362854635	0.532723783181	anger
+361	Alé alles moet eigenlijk zo goe als op nul beginnen. Het zijn allemaal vraagtekens eh.	OV	0.341569103514	0.266094897937	0.140141862654	fear
+362	Mijn excuses voor de laatste keer, want ik was zo effe overstuur geraakt, echt waar. Je had me iets meegegeven, en ik heb da eerlijk gezegd toen weggegooid.	OV	0.526702117724	0.270724007816	0.368239734911	sadness
+363	Iedereen hier op die stoel zegt van ik ga da nie meer doen wih kheb me lesje geleerd.	OV	0.455722026548	0.560959503703	0.657473663158	anger
+364	(Veronique heeft haar vader in het ziekenhuis bezocht.) Ik hoop dat het niet voor deze nacht is. - Tzal nie voor deze nacht zijn. - […] <b> Da blijft eh. Maar misschien… is het beter als rap gaat, voor hem. </b>	OV	0.293263328727	0.218093446993	0.279605174769	sadness
+365	En wa, gaan wij da met ons handen moeten eten?	BZL	0.438121265462	0.740873762575	0.304557900658	fear
+366	Ja da zei de directrice al: ge komt bij een heel propere jongen te zitten.	OV	0.722551986721	0.272482033797	0.589215954189	joy
+367	Schattig is ze wel. Die ga echt snel jong.	BG	0.700026523448	0.545427790386	0.610257764002	joy
+368	Het bed is wel te kort vo mij. Ma ja…	BZL	0.36183432026	0.199389660272	0.156354620938	anger
+369	Ma ik denk als ik het nie zou zeggen, dat het toch misloopt. Alé, als ge da als ge da opstapelt, da heeft geen nut want… dan komen er alleen maar dingen bij en dan uiteindelijk dan gaat het toch nie meer lukken.	BG	0.417614336431	0.486081990719	0.498668155566	sadness
+370	Khad nooit nie durven dromen da we al zo ver zouden staan al. Dus… ja. Kvind da heel plezant.	BG	0.802879821363	0.520969358198	0.600508985912	joy
+371	Ge weet echt nie wa we gaan doen dus…	BZL	0.534873763213	0.332384816781	0.212301859171	fear
+372	Mijn schoenen vol met kak eh godverdomme.	BZL	0.246091068308	0.844176240833	0.359031914373	anger
+373	Wa is da allemaal? Wa is da?	BG	0.368248539756	0.723328552384	0.132778008589	joy
+374	Ah neen, ma ge ziet er stralend uit dus…	BG	0.744755101721	0.30540729926	0.444261797592	neutral
+375	<b> Ah gij. Wa een ramp zijt gij. Allemaal hetzelfde. </b> - Goed Mohamed. - Ik heb u nog eh, madammeke.	OV	0.131322159541	0.672020541654	0.525450409144	anger
+376	Ik gan nog efkes over en twere na mijn huis moeten, kzin nog wa gerief vergeten gelik m’n stofzuiger bijvoorbeeld.	BG	0.531463033972	0.260044581118	0.630463963343	neutral
+377	Als er echt niemand is, dan wil ik da wel doen.	BZL	0.522713863587	0.189467051945	0.454603362	neutral
+378	Ik ben hier niet graag. Zoek Temse eens op op Google. Je gaat moorden euh je gaat alles krijgen. Je ga veel dinges vinden euh voor zo’n klein gehucht. Veel dingen. Hier zijn meer dealers dan drugsdinges euh gebruikers. Dus ja…	OV	0.13855351791	0.687073668656	0.429854983444	fear
+379	Moeke compassie hebben?	OV	0.43907053264	0.429094993508	0.506811207743	anger
+380	Ah shit. Ik wil da nie, ik wil nie wenen. Ma ja, da doe mij plezier da ze daarmee begaan is. Da is iets da ik nie zo ken van u.	BZL	0.662770323433	0.637162649799	0.382094066911	joy
+381	Ik zat er nu toch al acht maanden mee samen op cel. Je vertrouwt elkaar eh en nu is da terug ja… terug afwachten eh.	OV	0.334934623211	0.224045957382	0.219449773175	sadness
+382	Tzal wel zijn. Als er iets is da ik graag doe, ist da wel.	BG	0.848736284524	0.705023025636	0.73812502714	joy
+383	Tuurlijk. Das het belangrijksten eh. Ma ja. Ge moet u geen zorgen maken. Ge weet toch da ik op mijn poten terechtkom. Ah voilà. Gaat het?	BG	0.683929522864	0.564561313465	0.856916463263	joy
+384	Kheb zo soms het gevoel dak zo meer tot u wil doordringen maar…	BG	0.499773655383	0.218669181987	0.294035155237	neutral
+385	Ja ja, ik vind het nu wel frappant.	OV	0.519876931305	0.517435112761	0.402477435026	anger
+386	Dat is confronterend he.	BZL	0.327277801778	0.377029158366	0.381523655312	sadness
+387	Kheb absoluut het gevoel gehad dak moest bekomen. Kmoest men eigen terug wa zoeken, ik ben terug dingen beginnen doen euh… die mij gelukkig maken.	BG	0.450018745052	0.528776707541	0.497482077432	joy
+388	Ik zou liever sterven dan hier te wonen, denk ik.	BZL	0.156212216188	0.384358989676	0.301285799802	sadness
+389	We komen juust van Malaga, goe kleurke gepakt...	BG	0.737502409977	0.444721199884	0.726864875753	joy
+390	Ergens zie ik da gewoon totaal nie zitten zelfs, vrijkomen. Vo wa? Vo daar in de miserie te gaan zitten waar da ge door alle schuldeisers in ene keer tegelijk wordt aangevallen?	OV	0.268091056921	0.955991942791	0.370125678445	fear
+391	Waaah. Maar ja. Ma mooi eh. Mooi. Kvind da goe da ge daar om kunt wenen.	BZL	0.770952174435	0.66925238846	0.679389181362	joy
+392	Twas heel leuk. We hebben ons echt heel goe geamuseerd. Mooi weer. Toffe dingen gedaan.	BG	0.811551333859	0.533320910485	0.624621577605	joy
+393	Jullie zien er… Jullie zien eruit alsof jullie naar Saint Tropez gaan. Dag Beau. Dag Rani. Welkom.	BZL	0.778994316397	0.424033777665	0.646046031141	joy
+394	Oh, dus ze maken da hier. Hoe raar is da.	BZL	0.444498455468	0.702090183529	0.270699320456	fear
+395	Ma gullie bent da nie en das ook perfect in orde als ge allebei zo bent.	BG	0.576722538349	0.453269402112	0.587460083118	joy
+396	Met die scheiding is da allemaal begonnen. Ik ben dan blijven drinken omwille van het feit dat ik ook geen onderdak had. Maar als ik weet dat ik euh terug in euh terug op de goede weg ben, dan denk ik toch nie dat ik in die problemen ga raken met alcohol.	OV	0.407625809096	0.318124394605	0.491542091569	neutral
+397	Ge hebt wel nog contact natuurlijk met die mensen af en toe daar. Da vink wel tof. Ik ben gisteren nog gebeld door Patricia. Echt om één uur ’s nachts dak terugstuurde van: Patricia ge moe mij nie bellen via uw telefoonrekening want da gaat keiduur zijn.	BZL	0.764579377671	0.55312309064	0.722722785286	joy
+398	Oh, godverdomme. Mannen da ga nie gaan ze. Zie, zie. We zien er echt superbon uit.	BZL	0.644366147907	0.816897475428	0.43944144925	joy
+399	Da zijn er veel ze maat. Ooit vind je de job van je leven. Het klinkt misschien raar he, maar als ik da zie heb ik daar echt wel zin in.	BZL	0.849369376772	0.696744114102	0.608478100138	joy
+400	Ja, ik heb ook koppijn. Ik zit echt ongelofelijk slecht.	BZL	0.249230077206	0.606323446176	0.457234911391	sadness
+401	Ja kzin kwaad.	OV	0.334728968995	0.438080725547	0.446027727976	anger
+402	Nee nee serieus, ma kben het echt stillekes moe. Ik zit nu binnen drie dagen vijf jaar binnen, voor een bitje dope.	OV	0.155546773242	0.746058869534	0.359335999117	anger
+403	Goeiemiddag. - <b> Tis nie middag eh mevrouw. </b> - Jamaja tis namiddag eh. - Er werd middag gezegd.	OV	0.389292273908	0.573801499077	0.626029195792	anger
+404	Ik ben echt heel benieuwd.	BZL	0.834360046287	0.466550039102	0.509280298316	joy
+405	Ge hebt uw ouders meegebracht.	BZL	0.4886866516	0.116754538332	0.397020607498	joy
+406	Het leven gaat hier trager heb ik den indruk. Of nie?	BZL	0.381923357319	0.331142800001	0.322723564771	neutral
+407	Vorige week wast euh… party party.	BG	0.697126253623	0.425493139042	0.533286816956	joy
+408	Tot binnen drie weken schatteke. Ik zie u graag eh.	BZL	0.888841572676	0.560968347722	0.660850503455	love
+409	Moet gij nog iet anders bij hebben om te drinken of nie?	BG	0.567386250953	0.227388919748	0.421260265286	neutral
+410	We zullen wel zien.	OV	0.584341624601	0.0622909899821	0.443772420551	anger
+411	Ik kom terug in de maatschappij en ik moe daar mijne draai terugvinden.	OV	0.334271878114	0.416088567097	0.187949148004	fear
+412	Ja… Ge voelt da tot in uw tenen als moeder dat uw kind gegroeid is. En dat er een soort van maturiteit is ingegaan want er zit zo een ander zweemke in zo. Tis, het kind is eraf.	BZL	0.512658010813	0.614007327265	0.759812140501	sadness
+413	Sommige stukskes zijn wel geniaal vinnik.	BG	0.80321684936	0.343892413188	0.587134905386	joy
+414	Mensen begrijpen da soms nie als ik da soms vertel van “ik zal blij zijn als ik sebiet terug op mijne cel zit”. Ik heb da soms. Als het er echt op aankomt, dan zit ekik der nie mee in van in in de gevangenis te zitten.	OV	0.720457519427	0.541895140251	0.708239720692	joy
+415	Nee. Eiglik nie. Nja… Dat is leuk voor een uurtje, twee uur, maar om dees elken dag heel den dag te doen…	BZL	0.224610186157	0.320657918383	0.221306153299	sadness
+416	Waarom moeten die mannen toch altijd op die vrouwen wachten?	BG	0.358564763364	0.544342333656	0.485652883416	joy
+417	Kheb hem gezien alstie bijna achttien was, ja in de jeugdrechtbank. Da was echt heel raar, want aleja… ik wou van alles zeggen tegen hem, ik was zo supernerveus. En die pleegouders waren daar bij en ik voelde mij zo onwennig. Uiteindelijk heb kik gewoon naast hem gezeten en wij hebben gewoonweg niets tegen mekaar gezegd dus das raar, das echt. In mn binnenste hoop ik wel datie terug contact me mij gaat opnemen.	OV	0.289044205301	0.626430805477	0.151728271666	sadness
+418	Oh my god. Ik ga binnen dit en een aantal uur trouwen. Oh! Zot.	BG	0.842275863357	0.953056003621	0.490163668993	joy
+419	Ik denk da ze heel bewust is en da ze zo ook wilt leven. Euhm… En ze spoort ons ook aan om, om meer ons best te doen. - <b> Het is te hopen dat een hele generatie zo is. </b>	BZL	0.561887947289	0.352980448967	0.356937213068	joy
+420	Kga sebiet alles bezorgen daje nodig hebt vo te kuisen.	OV	0.495917156306	0.152890573641	0.640337416727	neutral
+421	<b> Jaaa! </b> - Jeeeuuuj! - Ijsjes!	BZL	0.825214649635	0.950027391095	0.536514061928	joy
+422	Voor die transfer, das het best dak direct bij die directie waarschijnlijk een afspraak maak?	OV	0.49199814188	0.141305493325	0.308249565828	neutral
+423	Waar is de bel? Hier.	BZL	0.576273679297	0.248517651813	0.407724958879	neutral
+424	Oh das ne moeilijke, ah. Ik heb ne fijne dochter.	BZL	0.644961499657	0.515044524247	0.450027312208	love
+425	Da was me eigenlijk nie opgevallen dat die zo wegdraait.	BG	0.551754038344	0.0721963628357	0.349756831218	neutral
+426	Nee. Maja bij Seba ben ik goe eh alé. Daar istr geen drugs ofzo eh. Seba is heel clean eh.	OV	0.650820689031	0.412395101836	0.789305270063	joy
+427	Pff marteling.	BG	0.256295771128	0.388573950282	0.403395132687	sadness
+428	Meen je da? Oh man. Ge zou het mij geen twee keer moeten vragen.	BZL	0.687853616147	0.785155299636	0.599581026936	joy
+429	Ik kom uit arm gezin, dus ik weet euh… Leven zonder geld en met geld is euh is wel een verschil. En ik verkies euh toch leven met geld.	OV	0.450817410951	0.2639741169	0.456517665957	sadness
+430	Nee zot. Zot.	BG	0.45796745224	0.685409698514	0.53134105874	joy
+431	Ik ken het, De Schreeuw. Het is precies mijn leven.	OV	0.213751234984	0.274226706804	0.548362315089	sadness
+432	Mag ik iets aanvullen? Ik vinnet een groep die elkaar perfect aanvult, vind ik. Als we samen zijn, ist zo perfect een balans zo. Der is niemand waarvan da ik zeg “Gij zijt nu een doodnormale mens”. We zijn allemaal een beetje getikt in ons hoofd en da is superzalig gewoon en ik vind echt…	BZL	0.954290897139	0.80866919563	0.698023119632	love
+433	Ik kijk er wel enorm naar uit om te gaan trouwen ma ook gewoon om eindelijk te weten wie dat da is. Aan wie hebben die mij gematcht? Wa lijkt de weteschap dan het juiste te zijn? Dus da vink wel vree spannend.	BG	0.749782624754	0.787116136142	0.368940716758	joy
+434	Ja. Ik heb toch altijd gezegd? Britt je zijt een luxegriet. Ge ge kunt soms hemel en aarde bewegen omda ge nie de juiste kleur nagellak vindt ofzo iets. Of van oei der is een euh een punt van mijn nagellak oeh mama. Da ik denk van wa zever. Wa maakt da nu uit dat er daar een vinger een bikke geabimeerd is van uw nagellak?	BZL	0.237544411468	0.849160952211	0.737916213407	anger
+435	Ik wens u veel sterkte.	BZL	0.508400802368	0.158100113073	0.406775015443	joy
+436	Ohh. Mmmmm. Ziet er heel goe uit.	BZL	0.946717697526	0.675052404962	0.540734428642	joy
+437	Kik eki. Kzin verloofd. - <b> Amai. Alé vertel eki, want kben heel nieuwsgierig. Kzou eiglik moeten boos zijn op je. </b>	OV	0.785107739692	0.645296451641	0.589308466469	joy
+438	Want ik kom pas van Hoogstraten, dus daarmee. Kheb daar ook nen helen hoop achtergelaten.	OV	0.415062747013	0.074664074087	0.501331796374	neutral
+439	Da was gewoon zo, ja mama tis goed oke.	BZL	0.482266725747	0.432765180389	0.469750894724	anger
+440	Ik vind da ambetant tegenover die mensen da wij hier zo… zijn en zo… lachen en werken eno.	BZL	0.377078369264	0.392601309249	0.223290639127	sadness
+441	Sowieso, gelijk wat er gebeurt, binnen 16 maanden gaat die deur hier open.	OV	0.707143581848	0.356693203394	0.695632442864	neutral
+442	Als je dan opt einde van uw dag ziet waarvoor daje een helen dag gewerkt hebt en dan trek je die lijn gewoon door eh. Ge trekt die lijn dan door van die mensen die da elken dag…	BZL	0.369549916838	0.480586020779	0.320702481267	sadness
+443	Ik heb hem al gesproken. Alles. Die is hartstikke kwaad, gelijk telefoon opgehangen en noem maar op. En ik weet hoe die is, dat als hij iets zegt, dan meent die da. Dus ik bedoel maar, die rechter nu hij heeft echt een heleboel dingen voor mij verpest.	OV	0.254057170374	0.781224316263	0.578157804684	anger
+444	Vrouwen 900? Man, man, man, dat wordt hier alleen maar erger en erger.	BZL	0.265167877221	0.836650485676	0.401003880973	anger
+445	Het is gewoon twee keer hetzelfde. Het is juust hetzelfde als de vorige keer. Gewoon geen respect. Dat is nu het tweede wat we gaan doen en voor de tweede keer is er geen respect tussen werkgever en werknemer.	BZL	0.220509369007	0.731222536515	0.464085963925	anger
+446	Ge zij van de Limburg?	BG	0.478325614576	0.267032049474	0.492055019851	neutral
+447	Gij moogt huppelen. Ik ga gewoon wandelen.	BG	0.621552825473	0.344622032926	0.69622123403	neutral
+448	Kweenie hoe dat komt ma ik slaap meestal dichtst tegen de deur.	BG	0.56642830148	0.0647309997692	0.57149632977	joy
+449	Mama Afrika, zeiden ze. Wacht ik zei Mosuse en dan… We waren daar over bezig en dan aaah Mosuse en dan… Jaja, ik was er trots op, kheb da gezegd eh.	BZL	0.784634211936	0.671051167482	0.750504669144	joy
+450	Ik zin opgevoed door stiefvaders en ik heb meer slaag gehad als eten.	OV	0.189525125965	0.455728981869	0.236413237845	sadness
+451	Kzou mezelf omschrijven als iemand die euhm… die vrolijk is, die open is, die graag bezig is.	BG	0.573306751588	0.339387009532	0.525263493602	joy
+452	Çavakes, Jef? Tzonneke schijnt eh.	OV	0.687593277814	0.657327905225	0.483642475737	joy
+453	Eh zotte doos. Das flink eh.	BG	0.833182937322	0.746635726898	0.598054944199	joy
+454	Ik ga bij mijn zuster gaan eten. Mijn petekind komt, dak al vijf jaar nie meer heb gezien. Die komt een nieuwsjaarbrief voorlezen voor mij. De eerste keer in negen jaar. Kga der wa… Kga beginnen wenen enal ik ken men eigen.	OV	0.483943190171	0.44624964588	0.393514821699	joy
+455	<b> Das toch onwaarschijnlijk? </b> - Hij was daar zo tevreden mee da hij eigenlijk… allee hij mocht nog neervallen ik denk dat hij het nog altijd op zijn hoofd zou houden. Ja echt, fantastisch.	BZL	0.655905632115	0.579464413442	0.543686785204	joy
+456	Kheb nog iets ze. Een vers fleske voor ons eerste week.	BG	0.788663344607	0.489467884252	0.854284409696	joy
+457	Oh my god, moeten wij hier slapen? Jonge… Maar allee komaan. - <b> Jullie zie jundr hier al liggen in zo’n huiske ofwa? </b>	BZL	0.310312781525	0.722682808834	0.392185805764	fear
+458	Ocharme. - <b> O kut. </b> - O nee… Oei. - Zo erg.	BG	0.243726119293	0.611924922045	0.350773130735	sadness
+459	En sindsdien zijn wij altijd op zoek naar onze tweede helft, ons betere helft, en ik hoop dak mijn tweede helft hier naast mij gevonden heb.	BG	0.683373467632	0.360581339932	0.501542651474	love
+460	Mmm. Echt lekker.	BZL	0.730493193562	0.653458997158	0.529103515762	joy
+461	En? Stress onder controle? - <b> Das kapotgaan jong. </b>	BG	0.142094169982	0.68048386996	0.208828880035	fear
+462	Ja. Kvind het spannend want ge weet nie wa ge moe verwachten.	BZL	0.602763843829	0.366460916083	0.147893852726	fear
+463	Das schoon om te horen ja.	BZL	0.696338545335	0.296377071786	0.500520303697	joy
+464	Op ons nieuw leven.	OV	0.677377774739	0.454615134021	0.601768009223	joy
+465	Goe uitgelegd.	BZL	0.640191347154	0.23653303862	0.558154140729	joy
+466	Ik heb hier een pakketje af te leveren. Hahaha.	BZL	0.673171460287	0.709927160453	0.787544991616	joy
+467	Ik kan nie meer, Aagje. Ik kan nie meer. Ik zou toch ne keer willen naar huis gaan vo men kindern.	OV	0.0751382861479	0.545749012864	0.284007115391	sadness
+468	Da was wel leuk eh? Veel tijd voor elkaar gemaakt.	BG	0.776385787377	0.391014873876	0.65815801102	joy
+469	Kben blij dak u zie, man.	BZL	0.95521863005	0.536705255189	0.611214842208	joy
+470	Kheb je altijd graag gehad, ma je moe nie zitten liegen. Groetjes thuis, tis wel.	OV	0.283612945565	0.585681957614	0.651038702776	anger
+471	Alé, zitten wij hier nu alletwee te janken. Ma stop.	BZL	0.315258456626	0.520108857538	0.374133778926	sadness
+472	Die waren echt gewoon geïnteresseerd in ons leven en die wouden ons ook dingen bijleren. En gewoon die drie dagen bij die familie was gewoon super.	BZL	0.773774319391	0.618249500395	0.779353231688	joy
+473	En dan ook nog es, waarom try? Die geeft hier iedereen cash, gewoon zwart. Die haalt da zo uit zn zakske “here, for you”. Doe der honderd euro bij en het is opgelost.	BZL	0.194134605518	0.7803279543	0.521248437461	anger
+474	Ma mijn vader zit ook nog altijd in Leuven. Mijn vader ging daar ook es met de directrice praten da zij ook eventueel niks kost doen. Dus ik hoop wel dak geluk heb.	OV	0.568311330519	0.265611258281	0.493484054584	joy
+475	Allee, da zo in het panneke, wa looksaus. Hmm.	BZL	0.882874145235	0.798335692919	0.708887354703	joy
+476	Ja ma ik ben heel goed in tekenen enzo. Mijn hele lijf sta vol, da heb ik allemaal zelf gezet eh. Hier heb ik euh 90 euro betaald.	OV	0.834747217516	0.522765835654	0.965461285599	joy
+477	Nin, maja how… Ge hebt wel zo het leven geleid opt randje eh, der af en toe eh zo…	OV	0.421367281459	0.550101080793	0.212414977159	fear
+478	Aah dag Lenny. Hey. Olala. Das ier mooi eh. En ruim. - <b> Ja leuk zicht eh. </b>	BG	0.734466708972	0.564355853888	0.657388238706	joy
+479	Ik weet echt nie hoe da komt, da was… hoe da komt. Ik ben inderdaad ja…	BZL	0.394615066564	0.308032881543	0.14644192549	sadness
+480	Ja ma ik weet gewoon nie wa ik moe verwachten. Alé ik heb geen verwachtingen. Ik weet het gewoon nie. Kheb zoiets van…	BG	0.462621816047	0.527081839139	0.150468478247	fear
+481	Ik vind da wel schoon dat da zo gegroeid is. Ge zijt zo echt begonnen als vrienden.	BG	0.779679806436	0.313704440707	0.513289703896	joy
+482	Ik denk da gij ne makkelijke mens zijt zolang da de dingen gaan zoals da gij denkt da ze moeten gaan. Maar als dingen nie gaan zoals da ga, dan zijde gij dus da konijn. Da frusti konijn.	BG	0.392577843707	0.733238576206	0.535787770093	neutral
+483	Ewel. Maar dat is nie van mij alleen eh, Marie-Louiseke. Dat is van ons allemaal, da wete eh.	OV	0.61633679841	0.632547517623	0.756928023041	joy
+484	Nee, ik wil daar nie aan denken.	OV	0.345200145949	0.358344683497	0.356772413018	sadness
+485	En goeie feesten, zou ik zeggen. - Ja we zullen ons best doen eh. - <b> Het goeie da moeten we zelf maken. </b>	OV	0.667620723755	0.405538009429	0.643535084969	joy
+486	Ja. Ej gij in Gent gezeten? Ja eh? Ik ken u van Gent.	OV	0.529574468872	0.510248279484	0.5836901667	joy
+487	Mijn oksels rieken altijd fris.	BG	0.733882341081	0.239622989184	0.747443532963	joy
+488	Oh. Romantische boswandeling.	BG	0.793427357651	0.354024663398	0.538278090235	joy
+489	Ja, mijn mama is zelf op vakantie. En mijn papa heeft mij afgezet.	BZL	0.506228008048	0.122960713604	0.473085477853	neutral
+490	Ja ik denk nie da bij ons het fysieke een probleem is geweest. Wij hebben da een kans gegeven. Ma der zijn andere zaken die derbij kwamen die… die nie liepen zoals dat het zou moeten lopen, dus. Ma ik denk nie dat het fysieke bij ons het probleem was.	BG	0.459610636376	0.435876503156	0.346774617982	sadness
+491	Ik vind nie dat da zo… zo’n drama is eh. Kijk ik had een beetje behoefte aan seks, maar inderdaad, je kunt behoefte hebben aan seks ma da wil nog nie zeggen da ge nie op tijd kunt komen.	OV	0.40885932162	0.652451044243	0.691765925607	neutral
+492	Zij is euh goedlachs, een bezig bijtje, een vat vol energie.	BG	0.712702261631	0.357629060683	0.669371341571	joy
+493	Das gelijk een soort menselijke recyclagefabriek. Alé die mensen leven van ons afval, alé snapte? Van ons, wa da wij, wa bij ons nie meer werkt. Kapotte wasmachien, kapotte tv, daar leven die mensen van eh. Die halen da allemaal uit mekaar. Das toch zot? En die leven daarvoor hier op zo een euh… op zo’n vuil, man toch.	BZL	0.187161462392	0.838285944149	0.505269231356	sadness
+494	Alé, ik wens u veel succes.	OV	0.694824691988	0.394939463984	0.563339053846	joy
+495	Beste vrienden en familie, lieve mensen allemaal, ik wil jullie allemaal heel hard bedanken da jullie euh er vandaag bij zin wanneer da Joke en ik aan ons groot avontuur beginnen. Zonder jullie steun hadden we hier waarschijnlijk nie gestaan.	BG	0.846279988083	0.493797392373	0.816342438981	love
+496	Wij zijn niet gewoon om zo behandeld te worden he en ik pik da, ik pik da nie. Het belangrijkste voor mij in de hele wereld is respect. Als je mij respect toont, dan doe ik alles.	BZL	0.238099361712	0.851519630029	0.676343369761	anger
+497	Er lopen hier ook jonge mensen rond, maar ook hele oude mensen. En dan vraagt ge u af hoe hard dat die eigenlijk, misschien deronderdoor zijn aant gaan nie want die mensen zijn da gewoon. Maar hoeveel, ja, rugpijn, moeheid, zo concentratie, verveling dat die mensen moeten doorstaan om hier hun hele leven misschien wel te werken.	BZL	0.269343900644	0.639479526947	0.335438512665	sadness
+498	Ik heb menne toekomstige omgedoopt tot Hugo omdat die cocktail echt heel lekker is dus ik ga dervan uit dat m’n toekomstige man… ja heel lekker is klinkt misschien een beetje stom. Ma wel echt ne hele toffe man gaat zijn ja.	BG	0.822319088519	0.667588746539	0.758446944209	joy
+499	De gang is zo lang eh, en hij valt om naar de toilet te gaan.	OV	0.450458333425	0.352620632019	0.284213651109	sadness
+500	Kom hier. Tga wel lukken. Khen der alle vertrouwen in. Zeg, stel het wel eh.	OV	0.717972810725	0.707271591162	0.764763644071	joy
+501	Nee ma wij gingen in da bed liggen, we zijn beginnen babbelen en… blijven babbelen. 	BG	0.645333311901	0.235667173614	0.551150376869	joy
+502	Ah maar alé, kwist ekik da nie. Ma zeg. Kijk, kga je straks je kaartje ook geven.	OV	0.661012496682	0.724068872753	0.492733824684	joy
+503	Ge kunt sebiet douchen.	OV	0.440064597001	0.165654461591	0.64331789302	neutral
+504	Nu begint het wel toch echt door te dringen da… ja da mijn leven binnen enkele weken nie meer hetzelfde zal uitzien. Of toch alleszins nie meer hoe dat nu is. Tzal wel wa, tga gewoon een verandering zijn eh, kga getrouwd zijn euh… Hopelijk gelukkig getrouwd.	BG	0.55859495465	0.491071018881	0.267330632657	fear
+505	Ja, eiglik nie ze. Ma kmoet u es iets zeggen. Kheb een tuchtrapport gehad eh omdat ik een celfouillage gehad heb en een lichaamsfouille. Euh ja dan hebben ze een attribuut gevonden eigenlijk. Met nu dus als gevolg: normaal had ekik nieuw verlof ergens eind juli.	OV	0.360530848567	0.418949042496	0.334690338867	fear
+506	Ik vind mijn eigen der echt wel chic uitzien nu.	BG	0.890755205768	0.501559716696	0.749735381176	joy
+507	Ik zalt zo zeggen, dus da we heel blij zijn met die mooie, lieve woorden van jullie en da we gewoon verder gaan doen zoals we bezig zijn en en… Ja. We gaan ons best nog doen eh. Alé kom es hier.	BG	0.7984125213	0.618691382223	0.688046097978	love
+508	Nee? Ewel dan laat ge me hier tot einde van straf. Is da goed? Zijt ge dan content? Dan kunt ge nog ene drinken op mijn kosten.	OV	0.131461718697	0.72428135538	0.612706353679	anger
+509	Die mens, die is goed zot. Echt, volgens mij is die een keer in zijn kreeftenvijverke gevallen en op zijn kop gevallen, echt waar. Goh, allee, hoe kunde nu zo boertig zijn?	BZL	0.0665445791139	0.952958550307	0.493587186393	anger
+510	Gij had een briefje geschreven voor uw verlof vast te leggen.	OV	0.52800348143	0.177756119752	0.402653519648	neutral
+511	Ge kunt hier eten van de grond, zeggen ze.	OV	0.814050499059	0.413630948962	0.529477841016	joy
+512	Constant een smile op mijn gezicht. Ik weet nog da ik na tien minuten zei tegen mezelf van: amai mijn kaken doen pijn van heel de tijd zo te lachen.	BZL	0.765561498496	0.596445467864	0.585260607907	joy
+513	Mannen! Shrimp from Sri Lanka. No good eh. Warm in de zon. Dood. Zo rot als maar zijn kan eh. Echt waar. Fret da nie op thuis, denkt es goe na. En wij hebben daar gisteren van zitten smullen eh.	BZL	0.245206370775	0.902687696372	0.773380071507	anger
+514	Ik moet zeggen, Franse bulldogs, das nie echt mijne meest favorieten hond van uitzicht. Ma das zo een schattig beestje, das zo’n lief beestje da… Kwas der direct mee weg.	BG	0.81232804697	0.677235726294	0.671625712791	joy
+515	Ja das das kut als ge hier dan zit eh… amai. En kijkte graag films?	OV	0.438388646393	0.444050212083	0.388899758989	sadness
+516	Kheb wa fotootjes mee? Magk?	OV	0.683178745909	0.401837388062	0.417721895574	joy
+517	Ik ben wekelijks twee, drie keer naar buiten geweest. Van zes uur ’s morgens tot acht uur ’s avonds. Ik ben nog maar één keer te laat gekomen, omdat de trein niet kom van euh Antwerpen. Maar alles is om zeep.	OV	0.194621396583	0.64231924231	0.381280204692	sadness
+518	Aja voila. En tis ook gelukt eh. Sorry wih ma, how, kheb het je de vorige keer al gezegd eh.	OV	0.465606363464	0.622140299587	0.696490072728	anger
+519	Jah. Zoiets raar eh eten met uw handen. En die kneden da zo in hun handen.	BZL	0.490792887502	0.486667324566	0.424678131704	joy
+520	Maar eiglik ga ik aan Paulien iets anders vertellen, waar da ze nog helemaal niets van weet. Namelijk dakik ga meedoen aan Blind Getrouwd.	BG	0.751629976182	0.659788826698	0.790134915605	joy
+521	Euh ja da valt nog af te wachten, tis te zien, ma ça va. Tzal in ieder geval beter zijn als hier. En wa gade gij doen?	OV	0.665182847175	0.443029857642	0.411138138836	neutral
+522	Bye. Tot nooit meer.	BZL	0.593982420018	0.481524304409	0.60052100143	joy
+523	Ja dat ben ik nou kwijt, dat ben ik nou kwijt dusja we gaan wel zien hoe het afloopt. Al geeft ie me een jaar, twee jaar, het maakt me niks uit. Het maakt me echt niks uit. Het maakt me echt nie uit.	OV	0.389716041558	0.787072279441	0.399346215575	anger
+524	Komt wel goe. We gaan vertrekken, jong.	BG	0.608808767684	0.483333525412	0.644290478237	joy
+525	Neje, er is zelfs bij gekomen. Een beetje eten afgelegd voor vandenavond nog. Moeste nog wa honger hebben.	OV	0.639112918471	0.394473630161	0.708300784588	joy
+526	Ik vind da vies…	BZL	0.280758376775	0.342171999016	0.24557939988	sadness
+527	Oké ma we gaan zorgen daje nog kunt douchen en uw tanden poetsen, daje proper bent.	OV	0.618708044453	0.453430056043	0.728497407943	neutral
+528	Nja, das wel ook wa moeilijk.	OV	0.311638101448	0.121306373955	0.149342143361	sadness
+529	Ik ga zeker en vast nie meer weglopen. Ik kan nie meer.	OV	0.383984868633	0.262750241622	0.333973477837	neutral
+530	Ja kzin nog es na de markt geweest. Kheb daar nog ne klapke gedaan eh.	OV	0.638890301277	0.590322912794	0.595039040523	joy
+531	We gaan zien wa dat er uit komt en hopelijk euh wie weet mijn droomprins.	BG	0.654399410326	0.358370856889	0.234322690153	joy
+532	Ik vond het een beetje over de top. Alé, een beetje veel eigenlijk. Ook de agressie da ge gebruikt naar de bewaking toe. Ik heb van u toch…	OV	0.367875848496	0.484892669317	0.579129022649	anger
+533	Ah oei, je lag te slapen. Oh sorry, je siësta onderbroken.	OV	0.414663038086	0.564705069012	0.387291295188	anger
+534	Kdenk dat da goed is dat da besef daar wel is ook eh. Zo van oke, tga nodig zijn om om misschien wa meer na elkaar te openen. Hoe denk je da jullie da zouden kunnen doen? Euh daar om daarin te groeien?	BG	0.611163669247	0.390583712944	0.427499134053	neutral
+535	Ma grote straffen is da nie meestal Oudenaarde, Leuven enzo?	OV	0.476818937132	0.208512286885	0.295133686998	fear
+536	Is dat de zoon? - Ja. - Oh my god… - Tis een groten geworden eh? - <b> Ma zeg. </b>	OV	0.662072909795	0.736267384436	0.458043359058	joy
+537	Als je bijna één derde van je leven in de gevangenis hebt gezeten, dan dan… dan kunde da alleen maar op die manier zien eh. Das altijd aftellen eh.	OV	0.410930204558	0.549106121216	0.55081326333	sadness
+538	Da wordt dus nie… Da ga gewoon rechtstreeks naar de grond eh.	BZL	0.423991765937	0.320204413489	0.347594791085	fear
+539	Kinderen uitbuiten. Letterlijk.	BZL	0.214932600174	0.464306033106	0.500434708426	sadness
+540	(baas roept hurry up) - <b> Jaaaaaaah. Gohhhh. </b>	BZL	0.239065550722	0.890244300497	0.431700513914	anger
+541	Ik kan mij nie inbeelden da ge hier zwanger zijt, negen maanden lang. Ik kan mij nie inbeelden da ge hier bevalt. Waarom… Fuck. Ik kan mij, ik kan mij vooral nie inbeelden da ge hier uw kind kunt laten opgroeien. Da vinnik echt… Da vinnik echt verschrikkelijk da kan ik mij nie inbeelden da ge hier uw kind groot laat worden. Fuck.	BZL	0.0680525776151	0.727998256232	0.273190904358	sadness
+542	Ik eet graag vlaai. Ik eet graag cake.	BG	0.695397503457	0.321347438133	0.666578572925	joy
+543	Ah zis weer ant lachen ze.	BG	0.708307878305	0.393695849633	0.566802686445	joy
+544	Wij hebben da wel dat hij zo soort van… rechtvaardigheidsgevoel heeft. Dan vertrekt veel uit em. En misschien soms problemen om om om da te kanaliseren dan wordt hij gewoon boos.	BZL	0.435508970583	0.239836843687	0.502818620692	neutral
+545	Er ligt wel nog geen matras ma we gaan er direct ene brengen hoor.	OV	0.565485537864	0.317977701165	0.732392406657	neutral
+546	Ik vond da wel euh… lastig ze, om eerlijk te zijn. - <b> Ik vond da supermoeilijk. Ohhh. </b>	BZL	0.351684854728	0.747084477174	0.36550670824	anger
+547	Ja ik zit shrimp te maken drie dagen lang en ik zeg ik ga geen shrimps meer eten. Ik vond ook gewoon, ja eh, die beestjes hebben daar wel gezwommen in die pond en kvond tof en al he ma… we hebben ze der wel, we hebben ze der wel echt laten… uit het water gehaald enal.	BZL	0.533133936956	0.618292779247	0.40965094102	anger
+548	Daarjuist wel echt. Toen daze het mij vertelden wast echt oeh zweten. Echt. Alé ge verwacht er u wel aan ma toch… - Tis wel efkes aankomen.	BG	0.385327049619	0.616092936585	0.306921662181	fear
+549	Ik ben geen goeie mama want ik ben zonder mijn kindje nu. Maar ik heb fout gemaakt, het is normaal dat ik ben gestraft eh.	OV	0.243740469407	0.354208557911	0.0524983800885	sadness
+550	Ik denk daje heel snel in je oude routine terechtkomt. Wa ook nie slecht is.	BG	0.467054045992	0.195214439651	0.421773155006	neutral
+551	Das echt leuk om haar terug te zien en da zijn geen wrange of bittere gevoelens, alé of ja gevoelens nie meer achteraf wanneer dak dan wegga van haar. Van alé, thad hier zo kunnen zijn of of kzou die echt nog terug willen. Nja das nee das das gedaan eiglik nu.	BG	0.810066928167	0.446632245863	0.834153914869	joy
+552	Dank u. Tzal wel in orde zijn zeker. Alé, goei feesten.	OV	0.654870789962	0.67241767409	0.588799004053	joy
+553	Oke. Jah tis nie veel ze. Kben eiglik gewoon vooral bang dage ebt zo van “oh ist dees maar?”.	BG	0.518104771084	0.481596124868	0.229977126163	fear
+554	Ik ben blij. Ja kben echt blij. Blijkbaar willen ze haar een kans geven. Das altijd leuk, als we mensen kunnen op de rails krijgen. Daarvoor doen we het.	OV	0.95817398461	0.615117170321	0.703356576777	joy
+555	Ik zit me altijd af te vragen: Had ik in Limburg gebleven, dan was dat eigenlijk niet zo ver gekomen. Ik heb mijn familie teleurgesteld. Ja dan begin je toch wel te denken.	OV	0.402227574384	0.274321770273	0.258325830036	sadness
+556	… das fucked up he. Als gij kwikdampen zit in te ademen, dan wordt gij loemp in uwe kop he.	BZL	0.221446897993	0.955696482657	0.577491638583	anger
+557	Nja, ma kvoel nie veel motivatie. En gisteren, dat is in mijn ogen puur onrecht, he. En dan, ja, het feit, toen da we zeiden van “kun je der nie iets aan doen?”, “yes, yes, next time”. Ma das nie waar.	BZL	0.216263626576	0.592790778278	0.339054074407	anger
+558	Ik heb de bibber eh. - Wa een gebeuren. - <b> Nu is het toch wel effe… Ik voelde het echt, kwas echt aan het trillen op m’n benen. Ja dan was het fysiek echt zo duidelijk van ik heb hier wel stress en… het is aanwezig. Goh. </b>	BG	0.229210532553	0.78553975639	0.22444956745	fear
+559	Voila zie, zet u. Oe ist? - <b> Juah. </b>	OV	0.529225198582	0.0697384362137	0.299129540689	sadness
+560	Ja, ik vind da wel belangrijk da iemand weet wat die wil.	BG	0.624120194258	0.225330970888	0.82220916311	neutral
+561	Ik denk dat dees heel zwaar werk is omda… Tis dag in dag uit, zeven op zeven, voor de rest van hun leven. Das heel gek. Ma ze doen het. Hoe weet ik nie. Ja survival eh. Pure survival.	BZL	0.364317464403	0.758344775871	0.530844250197	sadness
+562	Da gaat een beetje wennen zijn van hem ’s avonds pas laat te zien. Maar uiteindelijk was ik voordien ook alleen ’s avonds. Tgaat gewoon een beetje een ander ritme worden ma kdenk da we daar wel een goeie evenwicht in kunnen vinden. Euh maja, we zullen het moeten zien eh. Kweet het nog nie hoe da, wa dat het ga geven.	BG	0.451559467465	0.2710449073	0.219668321266	fear
+563	En ik passeer sebiet al twee brievenbussen waardak kaartjes voor mee heb. Zo spaar ik twee postzegels uit eh.	OV	0.64712919018	0.385300788118	0.699774066742	joy
+564	Bij mij was da ook wel op het moment da… Wij stonden op alé één van de kliffen in de natuur en dan voel ik mij echt wel op mijn gemak. Khad dan ook, alé wij hadden dan ook gewandeld, alé zonder dat da… Want de eersten dag woude gij da nie.	BG	0.64108343008	0.499972539548	0.381215590031	joy
+565	Die vloer is hier zacht ook.	BZL	0.624257054063	0.325803993078	0.536625885509	joy
+566	Ja ik heb ook een knuffel in mijn bed liggen hoor. Een eland. Moosy. Lekker… Lekker creatief.	BG	0.662211619866	0.656538529496	0.671090893614	joy
+567	Doe da goed eh.	OV	0.514439449018	0.487158323746	0.463955455386	joy
+568	Das hier super in orde.	BZL	0.857909191705	0.360656803973	0.655124284513	joy
+569	Want we moeten een beetje opletten wa dawe dermee doen. De sociale dienst die komt op huisbezoek. Alé zij kan eigenlijk langskomen volgende week woensdagvoormiddag.	OV	0.541238404436	0.374638519819	0.486715973557	neutral
+570	Ja, ik heb daar echt zin in. Da ziet er zo lekker uit.	BZL	0.958637732945	0.661448703836	0.619182039446	joy
+571	Ik kan nie, alé, kheb nie graag dak iets nie goe kan. Zo da.	BZL	0.357123613651	0.561782945298	0.367399962112	anger
+572	Ik ga op mijnen trouw gene show verkopen. Ik moet ne, ik moet ne goeie eerste indruk nalaten.	BG	0.635793286593	0.418064004654	0.684113161189	neutral
+573	Ah fucking garnalen.	BZL	0.261509998191	0.734535920176	0.428235548732	anger
+574	Amai, mannen, da wordt gezellig vanavond denk ik.	BZL	0.633537425892	0.839179270773	0.534337185332	joy
+575	Ik ben bang.	BZL	0.364985413826	0.147373165551	0.164146270909	fear
+576	Hashtag still married.	BG	0.721381693866	0.435714629832	0.719551432905	love
+577	Tis moeilijk eh ma eigenlijk op zich, die straf enzo… Van mij moogde mij steken en de sleutel weggooien. Ik heb het gewoon moeilijk met die feiten, alé… Das…	OV	0.274493283167	0.45607052162	0.429326313648	sadness
+578	Kheb echt een supertoffe tijd gehad de voorbije vijf weken en ja khad het met niemand anders willen beleven.	BG	0.954080414651	0.535035440924	0.740070511868	joy
+579	Ik denk dat da ook heel regelmatig nie zo is, ze. Ik begrijp, der is altijd ongelijkheid overal in de wereld, maar het is hier nog altijd heel extreem, vind ik.	BZL	0.317252872778	0.466857459288	0.394937351321	sadness
+580	En hier op men arm zijn er Chinese letters. Dan heb ik een hele grote tribal staan. Dien is half afgewerkt, want dan hebben ze mij opgepakt.	OV	0.528813214625	0.302371066088	0.42887235901	joy
+581	Ma wij gaan dus wel effectief aan zo’n machien moeten zitten eh, voor alle duidelijkheid.	BZL	0.549086238632	0.500665057161	0.57981575751	fear
+582	Ik kom uit een gevangenissysteem van lange jaren…	OV	0.517096239305	0.071269812597	0.283942743025	fear
+583	Kdenk als da zo’n driehoekske ga zijn, dat dat da zo ga breken.	BG	0.405023264893	0.198177340845	0.450117995285	fear
+584	Wat Leny zoekt in een vrouw, is een vrouw met pit, euh een ondernemende vrouw die passioneel in het leven staat. Dus euh absoluut geen thuiszitter, denk ik. Euh daar zal hij niet wild van worden.	BG	0.613745949189	0.338103035201	0.666984934456	neutral
+585	Da kan hier toch geen gezonde leefomgeving zijn?	BZL	0.423024993271	0.512502448803	0.221492563931	sadness
+586	Joke is een echte Gentse charmante vrouw. Is euh 31 jaar en geeft les in een Gentse school.	BG	0.616112717367	0.225171351036	0.706990218401	neutral
+587	Nee. Aaaah kak! Dit vergt zo veel concentratie en ik kan mij sowieso nie zo goe concentreren. Trager, trager, trager, trager. Ik denk dat da nog efkes ga duren tegen da ik na de… na de euh na de stoffen lappen over mag.	BZL	0.274495402962	0.94906155372	0.227890220511	anger
+588	Zowel voor mij als voor haar is dit nie evident. En euh… ik ga echt gewoon haar op de juiste momenten die aandacht geven da ze verdient absoluut.	BG	0.508378017387	0.372763251383	0.606867015649	love
+589	Ik heb nie zo’n probleem met de baas als jullie.	BZL	0.506675490704	0.0728749235476	0.588683925278	neutral
+590	Tis, het is… Ge kunt da bijna nie vatten da ge als ge thuis zit rustig in uwe zetel dingen ant doen, wa studeren, ge leeft uw leven. En ondertussen is dees hier gaande.	BZL	0.255456755005	0.51184925318	0.345408534437	sadness
+591	Zotjes. All right.	BG	0.6915300852	0.409390820058	0.557491270498	joy
+592	Ge zijt het grootste cliché da ik heb meegenomen gewoon, maar wel en fantastisch cliché dus.	BZL	0.74036971898	0.480060265451	0.733429013858	love
+593	Ja ik denk het wel. Ksnap da ook wel en kheb da ook wel gemerkt toen wij daar afscheid moesten nemen van die mensen dat die da wel… Ik heb dat toen ook gemerkt dat da voor hen ook wel een een mooie belevenis was.	BZL	0.710323978367	0.237210650386	0.485758144426	sadness
+594	Tegen morgen komen wij daar aan zo tshhhh we zullen es laten zien hoe dat moet! Hupla!	BZL	0.856010451995	0.781089307221	0.960674344765	joy
+595	Ik zou graag deelnemen aan gemeenschappelijke activiteiten.	OV	0.550394832716	0.0626058342229	0.377828593987	joy
+596	Nu euh tien voor acht? We zijn te vroeg. Ge zijt te vroeg, dan nog moet je wachten eh. Ben je te laat, moet je nog wachten.	OV	0.395021934271	0.40526653128	0.468671849775	anger
+597	Ja, tuurlijk. Ik kan daar geen respect voor tonen voor zo iemand. Oke, wij kennen zijn achtergrondverhaal misschien nie, maar op da moment, hoe dat ie toen bezig was… Ge moet respect verdienen ook eh.	BZL	0.284694378447	0.649071508462	0.583580241354	anger
+598	Der is heel veel veranderd ze op zeven jaar, kzweer het ze amai. Ma als da hier vol loopt, gade mij hier nie gauw zien ze. Ik kan nie tegen die drukte.	OV	0.527451463715	0.667324337088	0.579044399784	sadness
+599	Kmis hem ook nog alle dagen. Hij wil momenteel geen contact me mij. Kdenk datie ja… vooral teleurgesteld is, misschien ook wel kwaad op mij.	OV	0.321492603138	0.266329817378	0.288302405455	sadness
+600	Ja. Kvind da een goe antwoord.	BZL	0.624672496099	0.155514688554	0.577100147785	joy
+601	Kwas eten ant maken en hij had eigenlijk een boeket bloemen mee vo mij. In ene keer, achter het eten, kwam die in ene keer op zn knieën zitten azo, terwijl dak in de zetel zat, met zo da doosje, en vroegtie aan mij vo te trouwen.	OV	0.720820646978	0.487389543877	0.662319048174	joy
+602	Laat ze maar ne keer zelf in die zelfste situatie staan.	BG	0.512806496458	0.457853307449	0.753064842347	anger
+603	Wa zijde allemaal ant doen? Hoe behandelde gij uw mensen? En dan word ik daar kwaad van en dan reageer ik soms misschien wel heel explosief.	BZL	0.159249801971	0.754495696268	0.393076714289	anger
+604	Beetje zenuwachtig.	BZL	0.416263986785	0.213487058267	0.248521171796	fear
+605	Doe gie ma. Al mn kinderen kwamen van boven af en die pakten me vast, die lieten me nie meer los.	OV	0.774927227863	0.586285356962	0.511490266999	love
+606	Ik heb een klein operatieke aan m’n oog gehad dus ik moet effe een bril opzetten eh, oke?	BZL	0.526965477717	0.426284700034	0.503757390571	neutral
+607	Ga je dermee lachen? Tzin wel schoontjes. Tzin nieuwe van met de solden, min vijftig. Moeje ze keer aandoen?	OV	0.71095712002	0.734554883933	0.700142991229	joy
+608	Kzou graag een persoon hebben waar dak mijn leven mee kan delen. Dak iemand kan hebben da mijn klankbord is. Zo een beetje ne soulmate waar dak alles mee kan doen. 	BG	0.489406231316	0.290680678768	0.594638690112	joy
+609	Ja. Jaa, khad echt met niemand anders in de stront willen gaan staan. 	BZL	0.745367487302	0.604322910867	0.552697386999	love
+610	Ik vraag me heel hard af hoe ik nu ga kopen als ik terug in Antwerpen ben, want ik koop echt bij de multinationals.	BZL	0.473464819138	0.310673291917	0.27566676742	neutral
+611	Oh ma da ga echt raar zijn. Da gaat raar zijn.	BG	0.405398371968	0.535294020189	0.463572741011	fear
+612	Kheb u keihard gemist gewoon. Das echt.	BG	0.356729402946	0.482171990294	0.475040950207	love
+613	Ik wil het uur aanpassen wanneer da je vertrokken bent, da wil ik wel doen.	OV	0.65060378409	0.215432754331	0.726651740461	neutral
+614	Op het laatste zijt ge u eigen nie meer eh.	OV	0.306753548969	0.225487346031	0.337740112426	anger
+615	Ik zie die dag echt al helemaal voor mij. Ik denk… ja gewoon da staan wachten aan de deur om binnen te mogen da gaat het spannendste zijn van heel mijn leven. Da gaat veel spannender zijn als op het vliegtuig stappen naar de andere kant van de wereld en voor maanden weg zijn. Euhm… dus ik kijk der wel echt enorm hard naar uit ja.	BG	0.800252556492	0.687573132245	0.504004366173	joy
+616	Het record denk ik hier. Het record denk ik hier.	OV	0.491070500005	0.347452912808	0.620867582424	joy
+617	Proficiat. Ge ga trouwen. - Wauw. Oke. - <b> Ow, fack. Ge meent da? </b> - Zalig. Ja, amai.	BG	0.744984632552	0.74932725973	0.315096014734	joy
+618	Het is volgens mij heel erg precies werk. Ge moet da goed doen denk ik ze.	BZL	0.487631088881	0.364388802761	0.466238347582	fear
+619	Kheb een mooi leven opgebouwd ondertussen terug, alles mooi op de rails. Ja een goei baas, een goed huis gekocht, een goeie vriendin terug gevonden, ma nu op op opt heel onverwachtse…	OV	0.517733310996	0.424694414007	0.34362437586	joy
+620	Heeey! Aaaah! Das wel de max!	BZL	0.950064027154	0.961246499721	0.706749372652	joy
+621	Wa vinde van uw reclasseringsplannen zoals we ze hadden uitgewerkt? Een opvangcentrum, alcoholbegeleiding… - <b> Ah ja ja ja, zeker. Ja, da moet ik zeker doen. </b>	OV	0.667078297752	0.80827415518	0.787826708704	joy
+622	Allee zie. Buuuh.	BZL	0.351892455006	0.792918745722	0.388814363663	anger
+623	Ik sta helemaal nie graag in het middelpunt van de belangstelling. Ik denk da ik daar ook nie sociaal  genoeg voor ben. Ik euhm… ik ben eerder een, een, een verlegen, bescheiden type als ik euhm als ik me niet ergens goed voel.	BG	0.391260012301	0.37298925958	0.308809664073	fear
+624	Da zou makkelijker zijn.	BG	0.42829943243	0.133397161986	0.442206805331	neutral
+625	Ja ik ben nog redelijk rustig gebleven. Tkan zijn dat ik al die papieren had weggegooid, ma zo ver is het nie gekomen.	BZL	0.542872638588	0.399751253776	0.699568141357	joy
+626	Aleja die… Ja da lijkt mij verschrikkelijk om zo euh… machteloos da kind op de wereld te zetten en te denken van ocharme, ik kan u nie veel geven ma kga u alles geven wa dak heb. Euh… ja das verschrikkelijk.	BZL	0.142172347707	0.620558536657	0.277558156713	sadness
+627	Kan beter.	OV	0.358612362833	0.0714848252799	0.466548636759	sadness
+628	Een maandje… Ja, een maandje. Ja nie zo goed eh.	OV	0.38820137559	0.504833837575	0.284504442496	anger
+629	(Haar vader is opgenomen in het ziekenhuis.) <b> En wa moet ik doen voor mijn papa te gaan zien? </b>	OV	0.337436784907	0.273744036565	0.193134451782	sadness
+630	Ik ik ik wou echt nie euh zo met mn armen in da water gaan ze. Die pakt da gewoon zo op he. Zie, zie. Ik krijg er maagpijn van. Echt waar. Oh, mijn maag.	BZL	0.0805052233037	0.729035087867	0.340518762763	fear
+631	De buren nie nee. Veel kleren zijn der nie nodig vandaag. Tis echt warm.	BG	0.638930754287	0.586036394917	0.716896347238	neutral
+632	Nee inderdaad. En gewoon ook ja… dak het heel tof vind.	BG	0.723638457215	0.426878548598	0.605020205303	joy
+633	Nee. Kheb me laten gaan eh. Kheb die mooie kansen gehad, en ik heb da verbrod.	OV	0.228965957459	0.564439142217	0.317299709793	sadness
+634	Ikzelf eet geen garnalen of scampi’s ma de volgende keer als ik die iemand zie eten ga ik wel zeggen van euh “past op eh maat da heeft nog goe in de stront gelegen”. - <b> Allee zie. Buuuh. </b>	BZL	0.404537328299	0.950744847163	0.483420723524	anger
+635	Kben heel triestig voor die mensen. Maar ik ben ook voor een groot deel gewoon helemaal in shock, want ik heb iets gezien da ik… Kheb hier iets gezien da ik nog nooit in mijn leven heb gezien en da ik… Da gewoon direct iets superconfronterend is da ik nie nooit kon inbeelden da dinges zoals dit bestonden.	BZL	0.0666593327579	0.62326493538	0.0702092541434	sadness
+636	Dank u. Ah mijn schatje.	OV	0.856438759322	0.488026611459	0.535676633724	love
+637	Er werd middag gezegd. Ga ik terug naar mijn cel, ja of nee?	OV	0.549343165974	0.634119231382	0.487061337343	anger
+638	Jaja. Ik ben er klaar voor jongens. Mij hoorde nie meer tot morgenvroeg.	BZL	0.95465637848	0.68783217862	0.805973084212	joy
+639	Twas daar wel echt euh… Ja twas daar wel echt heftig eh. Ja.	BZL	0.324543865204	0.320225909594	0.166345204706	sadness
+640	Ik wens je het beste toe. Oprecht. Kom hier.	BG	0.813553512861	0.473999588444	0.684152064409	love
+641	Kvinnik da lik nie zo tof vo te horen.	OV	0.255752961284	0.494500525832	0.418716304126	anger
+642	Hij begrijpt ook al dat Annelies op een ander tempo zit en da zij euhm nog nie de gevoelens heeft die zij die hij heeft, maar dat is oke.	BG	0.350328612018	0.223111602622	0.530837884027	neutral
+643	Ik denk toch dat dat het beste was da wij, allee, dat ik en de Zion efkes afkoelden want wij hadden dan die nachtshift gedaan. Wij waren bekaf. Ja, twas efkes te veel. Twas efkes te veel.	BZL	0.286559816161	0.428892005106	0.455686989011	anger
+644	Al goe da ze nie kunnen binnenkijken eh.	BG	0.708321460361	0.299356216965	0.632429167051	neutral
+645	Er wordt hier goe voor ons gezorgd.	BZL	0.955640643903	0.293776797568	0.584502447993	joy
+646	Eigenlijk ben ik nu pas thuis. Ik denk dat nu elf uur ’s avonds is.	BG	0.496561265051	0.0709473066592	0.377641885016	neutral
+647	Nu begint het wel wa te kriebelen eh.	BG	0.721894657014	0.514634067136	0.388474230278	joy
+648	Nee. Blowen wel. Blowen wel, elke dag. Ik kom van Nederland, ja. Twee, drie jointjes per dag. Ik weet, als ik niet blow, daar kan ik heel erg agressief van worden. Ik word heel snel gestrest door dingen enzo, omdat er veel dingen in het verleden is gebeurd.	OV	0.411921897874	0.70101281308	0.654284112621	neutral
+649	Kheb heel veel gelachen. En euh… Kheb gewoon nul, nul spijt.	BZL	0.729514285927	0.53803300391	0.778078623594	joy
+650	Want ge hebt eigenlijk al al zo lang, eh als ge ziet van waar da ge komt, goe gedaan.	OV	0.668786953438	0.451999460673	0.509379214355	love
+651	Ik zou eigenlijk echt heel graag willen, Mohamed, da gij nu gewoon es ne keer heel goe nadenkt waar da gij naartoe wilt met uw leven als gij vrijgaat.	OV	0.301709376644	0.689032579328	0.743090821759	anger
+652	We hebben onszelf zeker niets te verwijten. We hebben heel veel moeite gedaan om het te doen werken euh… Maar als het dan toch nie voldoende komt, dan is da jammer genoeg zo eh.	BG	0.373305732688	0.396922168814	0.486656614226	sadness
+653	Tbegint moeilijk te worden eh?	OV	0.440450579339	0.290705744264	0.268137240889	sadness
+654	Das altijd afwachten eh. Kvind u echt… Ge ziet er echt beeldend uit.	BG	0.806727722264	0.450379888815	0.459028069018	love
+655	Ja, ik wilde een nieuw leven met mijn dochter, zonder problemen. Ik wil vertrekken en een job vinden daar…	OV	0.564545292946	0.323925354601	0.433081152921	sadness
+656	Da is euh, sorry dak da zeg, me mijn ogen toe op één been me mijne vinger in mijn neus.	OV	0.697646364449	0.724697425695	0.746852609993	joy
+657	Ja. Als mijn mama binnengekomen is, hij heeft gezegd: ik denk dat ik ga je nooit meer zien.	OV	0.18978264546	0.294363204361	0.325349292064	sadness
+658	Jua, ik ben voorzichtig. Ik wil me openstellen ma ook nie zomaar voor eender wie.	BG	0.68287665842	0.204413468055	0.440663165104	fear
+659	Das wel graaf daje da op zo’n moment dan kunt doen.	BG	0.691476873286	0.478049188269	0.546375741213	neutral
+660	Net terug thuis van euh van een avondje op stap me ne maat en ik heb… Ja Annelies die ligt al te slapen en ik heb voor morgenvroeg als ze wakker wordt een kleine verrassing voorzien. Als ze naar de badkamer gaat, dan ga ze allemaal witte rozen krijgen.	BG	0.670696674272	0.42612019596	0.701058549471	joy
+661	Al wa da ge nie kon peizen stook die uit. Ongelofelijk, van kleins af. Van toen hij kon lopen. Wij zaten ezo te zonnebaden op ons koerke. En in ene keer hoor ekik die brandweer kzeg verdikken en kga het einde mn draad kijken. Kzag kik daar zo wa brand eh en kzeg “zeg tzal toch de mijn weer nie zijn zeker?”	OV	0.470847513401	0.845873750726	0.528903075015	joy
+662	Ik was vanmorgen stijf in menne rug, in mennen buik, in menne nek, aan mn armen. Das heel zwaar werk, echt waar, dat is killing.	BZL	0.141272368144	0.797048036515	0.424469694812	sadness
+663	Stommerik dak geweest ben. We hadden beter geleefd met hetgeen dak had.	OV	0.17007471962	0.415204055263	0.353706051128	sadness
+664	Ik ben beperkt geïnformeerd over wat er gaande is in de wereld. Ook, het is gewoon altijd hetzelfde. En tis altijd slecht nieuws en ik vind da demotiverend. En dat is heel erg voor die mensen die daar in zitten, maar ik voel mij nie geroepen om daar echt constant mee bezig te zijn.	BZL	0.406996913655	0.585611630316	0.778662241201	neutral
+665	Als je een dagbesteding hebt, dan zit er structuur in je dagen. Dan is de kans daje iets uitsteekt al wa minder groot. Plus daje ook wel een sociale controle hebt. En denk ik persoonlijk aan een soort dagcentrum, bij een woon- en zorgcentrum om daar te kijken of ze daar naartoe kan.	OV	0.671301981993	0.238401831592	0.614544581608	neutral
+666	Ja. En Johnny is jen eersten vriend? Alé, je eerste lief en euh… - <b> Ja. Den eersten en de laatste. </b>	OV	0.632187484238	0.348936069583	0.776923911054	love
+667	Komt goe. Gewoon geen drugs meer pakken. Want al mijn problemen waren gewoon door de drugs bij mij. Kdenk dat het gewoon belangrijk is da je een goei vangnet hebt.	OV	0.58089426926	0.415195618469	0.672251723704	joy
+668	Ik vind da ook wel, ge zijt ook echt wie da ge zij op tv. Alé das tzelfde als int echt.	BG	0.693224317769	0.46341355114	0.606755908644	joy
+669	Ja binnen vier weken ga ik trouwen. Das crazy. Jah… Ja das echt zot. Ma wel super. Ik ben… ik ben echt supercontent.	BG	0.957399964355	0.599200023033	0.601774034671	joy
+670	<b> Elke had een sexy kleed aan. Dan is da toch normaal da ge wel… </b> - Tuurlijk. - Da sprong er wel uit vonnik, da van Elke.	BG	0.822818590779	0.526011374437	0.690324209001	love
+671	En ik lig daarvan wakker want dan denk ik alé wa doe kik nu verkeerd? Of alé wa kan ekik doen om u beter te doen voelen? Want ik wil graag dat da… da zij hetzelfde kan voelen da ik voel. Ik zou graag da willen delen.	BG	0.28677895115	0.67294692877	0.200559245763	sadness
+672	Oke da gaat er bij dees, da gaat er na net ene te ver vo mij. Tis nie efkes naar de mama bellen “mama ik zit zonder wc-papier”, nee.	BZL	0.225816004939	0.660645190972	0.413471570285	anger
+673	Kheb echt nog nooit zo veel zenuwen gehad. Echt nog nooit. Das één woord dak da mee kan omschrijven, das doodgaan.	BG	0.0604217611282	0.793277752287	0.336824882546	fear
+674	Ma nen nieuwjaarsbrief is bij mij, van mijn kinderen eh das euh dertien, dertien jaar geleden ja. Alé kgan echt gaan zien nu.	OV	0.534496112967	0.607807911642	0.508601325548	sadness
+675	Miljaarde, ik haat da mij haasten ’s ochtends. Ja, geweldig.	BZL	0.136777573074	0.877596906463	0.332234123168	anger
+676	Ik denk da mijn onderbewustzijn da een beetje afhoudt, omdat hij, omda… omdat ergens voelt van het maakt mij nie gelukkig.	BZL	0.372387517212	0.0826963701416	0.224232357838	sadness
+677	Ja. Zeker als ge het traject ziet da ge hebt afgelegd. Moest ge nu terug afglijden, da zou jammer zijn eh. Die verslaving, daar gade gij altijd moeten op letten.	OV	0.469799441645	0.503152762635	0.550093953887	joy
+678	Ah gij. Wa een ramp zijt gij. Allemaal hetzelfde. - Goed Mohamed. - <b> Ik heb u nog eh, madammeke. </b>	OV	0.356178589667	0.475070844659	0.511283662773	anger
+679	Ah en ik krijg de chocolat, fantastisch. Dankuwel.	BG	0.812115451728	0.487876026684	0.542764325381	joy
+680	<b> Wooh! </b> - Bangelijk. - Wooh!	BG	0.839792125174	0.84387527916	0.653467158805	joy
+681	Oh oke. Phew. Oke, ja. Das spanning die efkes weg is ma ja nu komt nog meer spanning eigenlijk/ Oh my god ik ga trouwen.	BG	0.680796939225	0.796020389366	0.527995994402	fear
+682	Oh nee, kwil het nie gedroomd hebben zelfs. Kwil het nie gedroomd hebben.	OV	0.316581640935	0.645767426462	0.397289320435	fear
+683	De politie is dan toegekomen nadien, maja tegen da ze me het echte verhoor begonnen zijn, hebben ze ineens het nieuws gehad dat die in het ziekenhuis gestorven was aan een hersenbloeding. Dan ben ik van mijne stoel gevallen en zo wa beginnen bibberen kweenie in shock.	OV	0.173545795005	0.523331850295	0.270626984806	sadness
+684	Aah, ik voel me… aah tis gewoon kak.	BZL	0.275748931181	0.770916164508	0.325308355496	anger
+685	Nooit. Kzeg het, Karine, voor geen geld in de wereld zou ik hier blijven.	BZL	0.152307683256	0.47237548915	0.684831088869	anger
+686	Aje begint over adressen, zou ik willen weten wa je bedoelt eh.	OV	0.489030852463	0.585226983415	0.523141928192	anger
+687	Kmerk van men eigen da kik men eigen nie kan temperen als ik ergens voor ga. En… ik ben echt bang dak u gewoon ant wegduwen ben.	BG	0.424678746965	0.398278555511	0.232922502865	fear
+688	Ah, oké. Heb je voor de rest nog vragen voor mij? - <b> Ik ga afwachten wat er gebeurt. </b>	OV	0.612434029203	0.14676221032	0.381101168168	neutral
+689	Kwil hier supergraag weggaan omda, das gewoon… Ik kan da hier gewoon nie aanzien eh. 	BZL	0.198120710832	0.566366289182	0.163476120456	sadness
+690	Omdat ik dat weet. Alle collega’s van mij, negentig procent die gebruiken allemaal, noem maar op. Weet ik veel wat ze allemaal doen jongens daar zo. En kijk, nu ben ik mn werk kwijt enzo dus…	OV	0.432104885212	0.669291388292	0.612129773437	anger
+691	Misschien wel, ma wij kunnen ons da nie inbeelden he hoe dat da is om hier noodzakelijk te moeten zitten puur voor het geld.	BZL	0.487107667596	0.357955756749	0.384531987036	sadness
+692	Ge hebt hem al goe gekweekt.	BG	0.706101771442	0.406526600817	0.626787378433	joy
+693	<b> Tis een heel moeilijke boodschap eh ge wilt zo graag…</b> - Dat da slaagt. - <b> Ja dat da slaagt. Ma ge merkt dat da dan nie lukt. Nja da zijn geen prettige gesprekken eh da. </b>	BG	0.265381033104	0.5195168939	0.247111434719	sadness
+694	Ge moet ze op een bepaald moment wel loslaten en tis altijd leuk dan als we dan een keer een telefoontje krijgen of een kaartje of zo van: tga goed me mij. Maja, geen nieuws is goe nieuws, echt waar. 	OV	0.673542112406	0.606101427114	0.489105974058	joy
+695	Zonder mijn kindje.	OV	0.368441570799	0.173149607005	0.162225642598	sadness
+696	Nja, misschien wel. Omda ik zo… Khad moeten blijven luisteren naar wat die misschien nog had te zeggen. Maar op da moment wou ik nie blijven staan.	BZL	0.367526373937	0.340727628949	0.32783493946	sadness
+697	Da zie je wel da ze goe kan koken eh. Wel wa afgevallen eh.	BG	0.701868613573	0.469348143068	0.665195140294	neutral
+698	Ja, als da zo goe verloopt zal da nie lange duren, denk ik.	OV	0.675657201628	0.256918759075	0.588681296802	joy
+699	Het is mijn eerste keer dat ik ga buiten, na zeven maand bijna.	OV	0.798381301882	0.419069315435	0.542825325844	joy
+700	Mijn ventje zie vree graag goud, dus bij deze dak goud aandoe.	OV	0.555743307239	0.455126802064	0.844244324287	love
+701	Ja hehehe. Phew. Ik krijg het daar echt warm van. Oeh kijk zelfs mijn bril dampt ervan aan. Wauw. Oke.	BG	0.66934329485	0.738848598542	0.415731508063	fear
+702	Da was echt verschieten ma ik dacht wel van: we moeten echt nie flauw doen. En als zij hier slaapt, moeten wij hier ook slapen. En das een beetje zot daar zo me vijf op een kamerke liggen, ma da was wel al een van de meest primitieve huizen die ik deze reis heb gezien. Zalig toch?	BZL	0.578857312848	0.72965923675	0.774834377053	joy
+703	Tis nie alleen een reis waarin da jullie zien waarvan onze luxeproducten komen en, en, een soort inleefreis ma tis echt ook gewoon de groep.	BZL	0.651953213873	0.318594550729	0.558545032942	love
+704	Ik hoop da ook voor hem dat da allemaal goe ga gaan, want hij heeft nu anderhalf jaar gezeten dus… Ik zal hem missen als ie weg is. En dan komt er weer een andere. Wie weet wie? Das altijd een verrassing.	OV	0.378510500785	0.342666509957	0.272984661444	sadness
+705	Ik ga da ook nie onder stoelen of banken steken da ik… ja als ik iets wil da ik daar ook wel voor ga. Sowieso. Mits omweg als da nodig is. Ik… Ja ik weet da. Ik ken da. Ik ga daar ook nie flauw over doen. Werkpuntje.	BG	0.492734082699	0.608354873463	0.617379354252	neutral
+706	Ja, amai. Kdenk dat em nie zo gezind is op mij.	BZL	0.337865597616	0.621819393355	0.384318307189	anger
+707	Eiglik zou iedereen da moeten doen. Es gaan kijken en beseffen hoe goed da wij het ier hebben en met ons gezeur en gezaag over een brede neus en oeh mijn kleur van haar en mennen kleine teen die te groot is en een groten teen die te klein is en aleja. Wa is da toch allemaal mannekes?	BZL	0.31495997119	0.84589065991	0.857018339781	anger
+708	Ohh. Khoop echt daje derin slaagt, Elke. Echt de waarheid.	OV	0.736665067466	0.576192338131	0.560606836211	joy
+709	Ik heb nooit geen arme mensen gepikt. Maar euh… Als ge da gewaar wordt da gij op een kwartier tijd 100 000 frank kunt pakken, ja waarom zou je dan nog gaan werken? Versta je? Ja zo zi kik in de criminaliteit geraakt.	OV	0.527470826021	0.645412623403	0.626733032449	sadness
+710	Die kinderen zijn megaschattig.	BZL	0.953543729612	0.577924887837	0.557397844055	joy
+711	Ja, ma, zeg. Krijg ik nog de tijd? Serieus? Gij doet alsof da kik naar een fuif ga.	OV	0.266072812901	0.846574458535	0.728754277998	anger
+712	Das zo niet de moeite. Ik denk dat dit een van de ergste dingen is die ik ooit al heb gezien. Ik heb natuurlijk ook nog niks gezien, als ge in hartje Antwerpen opgroeit.	BZL	0.299518022966	0.443065304099	0.378151664829	sadness
+713	Deronder. Onnozelaar.	BG	0.348159752505	0.747930319125	0.63320315806	anger
+714	Je zie zo veel verschillende dingen. Natuur, huizen, dingen da lijken op huizen. Ma wat da wel meteen klikt, da is: tis hier zwart Afrika, en de mensen zijn hier arm.	BZL	0.481276067644	0.427100173882	0.461128950739	neutral
+715	Nee. Vinde da grappig? Oh, kill me now.	BG	0.531826151069	0.748574487303	0.4632664176	anger
+716	Tis gewoon moeilijk om te vatten, waarom komt die vonk nie? Waarom komt die passie nie? Waarom mis kik Elke nie? Waarom mist Elke mij nie?	BG	0.225087486269	0.699337575174	0.275334127995	sadness
+717	Alles verloopt euh… vrij vlot en… Jah. Da moe nog in stijgende lijn gaan uiteraard.	BG	0.698970893294	0.24104637876	0.419708779349	neutral
+718	Tis euh… een leuke vrouw. Zis heel open. Ze, ze is goedlachs. Ze is euh… ja. Ze heeft humor. Ze babbelt veel, zoals ik dus euh… dus ja kdenk dat da echt geweldig ga worden die huwelijksreis en de weken daarna.	BG	0.848355511913	0.59984386682	0.653433720993	joy
+719	Ik denk da Line da gewoon op een andere manier toont dan. En stap voor stap ook. Gewoon op haar eigen tempo en das goed voor mij.	BG	0.486051876402	0.259556709236	0.580807780896	joy
+720	Kheb mennen sanitair nodig. Ma da was nie alleen nat toilet, want da was toilet, douche, en… Voor mij nog het moeilijkste was daar… oke ge hebt da toilet dan, ma ge hebt ook geen wc-papier. Das echt miserie, eh.	BZL	0.20249078883	0.838576979986	0.417712509206	anger
+721	Kijk, sowieso dat ik het oneerlijk vind. Want ik werk nu al drie, vier jaar netjes in de haven, ik heb gewoon een goeie…	OV	0.423738153141	0.472349641012	0.487246525564	sadness
+722	Ik heb het eigenlijk nie slecht gehad, bij mijn familie in Limburg. Mijn oudste broer heeft daar en kledingwinkel dus ik had alles goed en wel. Maar eens we da huis gekocht hebben is het eigenlijk bij mij zelf, dan is da een beetje scheef gegaan.	OV	0.473743825906	0.253488670872	0.491498826911	sadness
+723	Het wordt tijd eh jong. Het wordt tijd da je naar huis komt. Tis nie meer lange mama.	OV	0.558518769953	0.64172508219	0.633463320157	joy
+724	Wij willen jullie allemaal bedanken om hier te zijn. En ik moe zien da ik nie ga beginnen janken euh… Hahaha euhm… Eigenlijk hetgene wa ik wil zeggen is, iedereen heel fel bedankt om hier te zijn.	BG	0.807159021857	0.583842798126	0.623334040162	joy
+725	Die was mij de helen dag aant irriteren me ja “faster faster” en zelf doet em ook niks gewoon. Daar kreeg ik het ook gewoon van. - Pffff.	BZL	0.0622993207355	0.772663881562	0.395455155074	anger
+726	Ja ja ma das vo mij iets helemaal nieuw.	BG	0.661030134053	0.44480349544	0.243778265117	fear
+727	Ja en ik zeg juist zij heeft mij mn geld gepikt bij mij thuis.	OV	0.255589451778	0.593956566288	0.618512246255	anger
+728	Tgoh, jongens toch. Je hebt hier op je UV een meiske geambeteerd ant station en ge staat ook op de zwarte lijst in (…) omda je daar een verpleegster lastiggevallen hebt.	OV	0.247369460308	0.655516325075	0.586466149659	anger
+729	<b> Oh, man. Da ga door merg en been eh. Gohhh. </b> - Ik heb kippenvel, nee. - Nee das nie tof mannen. Dees is echt nie tof.	BZL	0.205281951378	0.786278598532	0.352201960468	anger
+730	Kvind hem wel lekker zacht.	BG	0.761638325785	0.282444547252	0.53383126358	joy
+731	Ik kan u alleen maar zeggen da wij u nie gaan loslaten. Alé der gebeurt toch maar iets als gij het wilt eh.	OV	0.587268308666	0.477655979207	0.853345363092	love
+732	Khad nie zo van oh die keuken is nie euh… geen witte chique keuken. Omdat die zo lief waren en die hebben ons, alé, en dan had ik zo niet het gevoel van ah hier wil ik echt nie liggen. Ik dacht, tis superfijn om hier te zijn.	BZL	0.766453712532	0.570764331948	0.663516049819	joy
+733	Ik heb gedacht da ik nooit nie meer naar huis ging komen.	OV	0.189784497042	0.281811846101	0.242248697832	sadness
+734	Nja ik zou er nog altijd nie kunnen wonen ma kvind het al minder erg om der ene keer per week naartoe te rijen om u te zien dus.	BG	0.510095058945	0.168973869957	0.564266191036	joy
+735	Als je terug euh alleen in Temse bent, dan euhm… Ja je neemt zeer snel je oude leven terug op. Terug euh meer contact met uw vrienden, terug familie op de eerste plaats en… Precies terug nooit van weg geweest eh.	BG	0.609252082423	0.461810130218	0.556409249557	joy
+736	Ma kerel. - Oh my god. - Ale what the fuck man. - <b> Ik vond da heel choquerend. Da is geen aarde eh, nee da is euh… Das afval da hier op de grond ligt. </b>	BZL	0.146983842329	0.671543087323	0.425906526779	anger
+737	Wa zijde gij aant doen met awen arm jong?	BG	0.471210633628	0.590842034459	0.372490543829	joy
+738	O nee, hier gaan we weer.	BG	0.33525024148	0.518302496005	0.340373364511	anger
+739	Goeiemorgen. Chef euh, mijn gsm, bankkaart en treinticket. Ik heb niks gekregen, ze hebben gezegd hier euh. - Oké mijn collega is ant bellen, ma als da nie klaarligt, ik kan daar nie aan. - <b> Maar ik ben gejost. </b>	OV	0.128290844468	0.655559093701	0.374088390499	sadness
+740	Bij mij doet da zeer ze maat.	BZL	0.262855299092	0.480106082906	0.503142694638	anger
+741	Kben kwaad op mezelf. Ma nie op andere mensen. Ikzelf heb da gedaan. En daarvoor zit ekik hier.	OV	0.330147843548	0.410605463493	0.591027966906	anger
+742	Het breekt mijn hart gewoon om te zien da mensen in zo een situaties leven. Twas echt verschrikkelijk eiglik om te zien wa da mensen eiglik allemaal doen om te kunnen overleven. Tis et heftigste wa ik ooit gezien heb, denkik.	BZL	0.126124985673	0.571014857781	0.250644280346	sadness
+743	Back to reality. Weer naar de cel. Kpeis dak bij nem, dak bijna een uur bij hem gewoon in zn armen gelegen heb.	OV	0.41935932311	0.346240433626	0.334283795389	sadness
+744	Nog geen vijf seconden na da ik da had opgepakt, dacht ik van nee nee nee. Stop stop stop stop stop. Das het enigste da door mijne kop ging. Stop, laat da los. Ahh.	BZL	0.260252669894	0.84093110843	0.469754749299	anger
+745	Daarin verschillen wij dan toch wel serieus van mening, want ik denk da gij een zwaar drankprobleem hebt en ik denk da gij daar de ernst zo nie echt van inziet. Maar werk in je cel…	OV	0.240739450101	0.798242361043	0.726670751188	anger
+746	Ja, kzin er wel klaar voor.	BZL	0.745239416219	0.445235307745	0.685461695606	joy
+747	Ik hoop da we es ne keer met de tuktuk gaan.	BZL	0.675435491486	0.428464776575	0.292194131737	joy
+748	Ik ben superblij om u terug te zien.	BZL	0.953998925328	0.575363469498	0.614026287107	joy
+749	Ja. Al die verwende nesten ook in België. Die alles in hun schoot geworpen krijgen en dan uiteindelijk nog op hun pootjes terechtkomen of op vakantie kunnen gaan. Oh, man toch, ik mag er echt nie over nadenken. Ik word er echt gek van gewoon.	BZL	0.0723908581708	0.949512767202	0.611583725576	anger
+750	Twas keikoud in Malaga.	BG	0.447918540012	0.303014354846	0.445916458924	neutral
+751	Ge zit er heel gereed voor.	OV	0.651759755928	0.471843871678	0.686796267802	joy
+752	Er was een etentje gepland me Tim zijn vrienden. En dan wil ik er toch wel… ja, goed uitzien? Je wilt toch wel nen goeien indruk maken. Euhm… Ja ge wilt toch da Tim trots kan zijn op u om… om mij voor te stellen aan zijn vrienden.	BG	0.705128171763	0.499744679036	0.500095567083	joy
+753	Ik ga dervan uit da wij bericht zullen krijgen da hij zal gerepatrieerd worden met het vliegtuig.	OV	0.472708079952	0.141890120934	0.577440448098	neutral
+754	<b> Kweenie, bij mij isr gewoon sinds de cocofarm een besef gekomen van: why the fuck zijn wij zo gelukkig om… </b> - … om geboren te worden in België?	BZL	0.305829442143	0.699830599132	0.439230833572	sadness
+755	Kvind het vooral jammer vo te horen da je een herval gekend hebt ook.	OV	0.39090188983	0.232722060558	0.451758557407	anger
+756	Zie je ons al zitten? Drrrr.	BZL	0.648646253203	0.604343164693	0.491819405834	fear
+757	Oke. Ja jawel, jawel. Kheb er wel zin in maar euh… zo dees momentjes… - Nee dees momenten geven mij echt enorm veel zenuwen.	BG	0.334611256091	0.670531930525	0.227660737371	fear
+758	Kdenk dat vooral de uitdaging ga zijn da Lenny zich openstelt en daze ook over emoties leren praten en over hoe verfijnen we ons relatie en kan die beter worden.	BG	0.452148178592	0.261757613803	0.504073639111	fear
+759	Kben et een beetje beu. Kheb nu denk ik al zes keer dezelfde lijn opnieuw moeten doen. En ik weet nie of ik em nu juist heb begrepen of nie ma ik denk dak heb verstaan da hij zei da ik alles opnieuw moest doen.	BZL	0.223558969779	0.519176950599	0.286201935031	anger
+760	Ja, als ekik nu ga vrijkomen, is da terug van nul beginnen eh of van min tien.	OV	0.192500562639	0.443777492291	0.350317569632	sadness
+761	Ik wist nie wat dak zag. Ik dacht van hoe kunnen, hoe kunnen die beesten hier nu overleven? Hoe, alé?	BZL	0.354215435909	0.804446028754	0.294739974019	sadness
+762	Oke da vinnik goe. Da vinnik echt, nee da vink een goei.	BG	0.863860101151	0.518012516275	0.553143547132	joy
+763	Bessie is een onderdeel van mijn leven. Dus ja tis tis wel voor mij belangrijk da ze overeenkomen. Da klinkt een beetje raar.	BG	0.704420209496	0.467769227203	0.827850712647	neutral
+764	We kunnen ook terug naar onze, onze trouwzaal. Das hier ook nie ver van.	BG	0.650184136261	0.247331011799	0.553948023974	joy
+765	Euhm ik wil gewoon zeggen, ik zie jullie allemaal graag. Jullie betekenen heel veel voor mij. Dank u om der zo vo mij te zien. Das gewoon, daar komt het op neer.	BG	0.953686384783	0.510615555402	0.6257021545	love
+766	Mevrouw, ik stink. Ik heb al vier dagen mijn tanden nie gepoetst eh.	OV	0.256100990389	0.586762794328	0.404451702499	anger
+767	Ik weet da mij daar kwaad over maken tegen die bazen of de mensen een euh, da heeft geen zin. Ma ik zit daar zelf wel euh mee. Ma theeft geen zin want we kunnen er niks aan doen. Allee, nee. Ja, allee. Ik ga hier persoonlijk nie het verschil in Sri Lanka maken als ik mij hier kwaad maak op de baas. Da weet ik.	BZL	0.413215633215	0.572760745404	0.412948357383	anger
+768	Kleine deugniet.	BG	0.576951869381	0.614066071138	0.538375780774	joy
+769	Man, man, man. Waar ben ik aan begonnen? - Ik ga trouwen! - Oh my god! - <b> Ho jongen, da meende nie? Toch nog vant straat. Proficiat. Nu gaat beginnen. </b>	BG	0.79673230811	0.79543152513	0.531781716123	joy
+770	Bedankt voor het gesprek eh.	OV	0.718979493694	0.269532796658	0.501881163411	joy
+771	Ik heb er al heel veel spijt van.	OV	0.242298225934	0.217959053838	0.308370743686	sadness
+772	Nee ik was gene wandelaar den eersten dag. Toen wou ik eiglik meer op café gaan. Ma das goe da Line ook na 50 meter zei: alé kom we doen nog es 50 meter.	BG	0.729758522943	0.375801151341	0.620275915448	joy
+773	Nee ma gewoon, wel zo wa aftasten van… waar da ge sta. Bijvoorbeeld ook zo door es iets langer te knuffelen of te kussen ofzo. En als ge dan direct merkt van nee daar is ze nog nie aan toe, dan witte da ook gewoon me ene keer.	BG	0.546012973564	0.315721255422	0.419254497369	joy
+774	Kben content dak hier werk heb. Over deze gevangenis mag ik toch nie klagen.	OV	0.889866321271	0.392429899245	0.648936646061	joy
+775	Voor mij is het simpel eh. Tis tot 22 april, kgan kik eiglik nie vele meer bewegen.	OV	0.631407394297	0.360233193546	0.84090171924	neutral
+776	Man das echt, nen supermens.	BZL	0.888367637907	0.548681309985	0.611491834992	joy
+777	Mijn maag begon helemaal te draaien, echt. Ik kreeg ineens zoveel buikpijn. Ik kan dees werk nie.	BZL	0.0674410209247	0.430227661306	0.367970392886	anger
+778	Tis romantisch, tis lief, ma tis ook wel… Bam.	BG	0.596733893428	0.430208543893	0.426121552502	joy
+779	Eigenlijk dubbelzinnig weeral. Ik zie de maatschappij zo neig veranderen. Jullie zien het ook allemaal veranderen, ma gulle loopt erin mee.	OV	0.505121090557	0.643278860252	0.572108070582	sadness
+780	Ze durft precies nie meer van de mat.	BG	0.338444991836	0.261713932788	0.401884540825	neutral
+781	Kzin er helemaal kleer voor.	BG	0.725427591157	0.631801123248	0.847897025915	joy
+782	Ik snap da da iemand heel graag veel thuis zit, ma ik kan mijzelf da nie voorstellen da ik da zelf zou doen.	BG	0.510649750138	0.295345606147	0.508605933786	neutral
+783	Das nie fijn als ge een celmaat ziet vrijgaan. Als da zo drie, vier keer op een jaar gebeurt, das zwaar om er psychologisch door te geraken.	OV	0.210214183795	0.44067702217	0.229709821919	sadness
+784	Als ge in uw geval twijfelt, snap ik da. Wij hadden redelijk snel wel door van dees is het nie. Maar euh… in uw geval kan ik wel begrijpen als ge nog erna beslist van toch nog te proberen, dat da moeilijker is.	BG	0.46660321956	0.327219337039	0.452259488151	sadness
+785	Lieve Jolien. Vijf weken geleden stond ik in deze zaal met klamme handen op jou te wachten.	BG	0.564399920179	0.269816744185	0.514601186836	love
+786	Ma hoe kan je nu te zelfstandig zijn?	BZL	0.451245299096	0.47454491074	0.352665737902	anger
+787	Alé, op het einde van uw seizoen.	BG	0.588775709228	0.378841841137	0.559326620586	neutral
+788	Witte wat de experten zeien tegen ons? Iet van oke goe ge slaagt bepaalde fases over. Ja da was voor ons een moeilijke om te vatten van… ja verliefdheid sla ge da over? Ist dan gewoon, gaat da ineens over in graag zien? Da vonden wij een moeilijke om te vatten.	BG	0.322054243576	0.662728060129	0.235163550397	fear
+789	Ja inderdaad ge hebt heel koude voeten.	BG	0.536748580496	0.276847695805	0.530298046791	neutral
+790	Altijd goe verlopen, ja. Klopt. De mensen begrijpen da soms nie da kik nog grappen kan vertellen juust voorda ik na binnenkom. Dan zeggen ze: hoe zijde gij nog nie depressief of voel je jou nie slecht aje dan moe binnenkomen? Ma ik heb da dus totaal nie.	OV	0.701681856082	0.631210457461	0.67882646273	joy
+791	Ah zo, ja ja ja ja. Ah dan zijt ge heel fel bedankt.	OV	0.700178879464	0.750516587444	0.610852842829	joy
+792	Amai. Let’s do this.	BG	0.72879849082	0.508519738217	0.736943868971	joy
+793	<b> Ow, what the fuck?! Oh! </b> - Is het zo pikant?  - Tis die sambal.	BZL	0.267407546191	0.844800742033	0.327397322938	fear
+794	Nee, Maurice. Hij is een bitje jaloers omda gij zegt dat die kindjes zo schattig waren.	BZL	0.414053609471	0.452549358829	0.583906911422	neutral
+795	Ik ben de oudste van twaalf.	OV	0.574870456577	0.0645246512171	0.53131775265	neutral
+796	Da zindert na zoiet. Da wilde nie weten.	BG	0.288696873632	0.346239479703	0.42165339393	sadness
+797	Ik spreek over jouw attitude na die chef. Moet oké zijn. En over de chefs moe gie verder niks zeggen. Duidelijk?	OV	0.197028311306	0.706876875052	0.967203999604	anger
+798	Voelt ge u dan schuldig? - <b> Ja. Terwijl, op zich, das nie mijn fout ofzo eh da ik geboren ben in België, ma gewoon als ja… een beetje moeilijk. </b>	BZL	0.331958967697	0.477602744043	0.255711953874	sadness
+799	In mijn leven is alles eigenlijk compleet. Kheb een toffe job, supertoffe vrienden euh, lieve familie. Alles is er euh om gelukkig te zijn buiten da euh da één stukje da denk ik toch alles wel compleet kan maken. Tis volgens mij wel leuker me twee.	BG	0.651127651851	0.511480612158	0.558387948706	joy
+800	Ja, kheb geen glazen bol eh ma alles hangt een beetje af of dat de onderzoeksrechter je aanhouding wil verlengen.	OV	0.50244741361	0.421816338159	0.35358680143	neutral
+801	Nooit! Nooit, nooit! Ze kan nog geen ei bakken.	BZL	0.507509740399	0.952348233844	0.747023582172	joy
+802	Wij waren wel echt zo de blanke toeristen in een bus en en en die zo wa een beetje zo echt kwamen kijken en dan weer verder reden. Ja ik voelde mij ineens heel blank en heel Westers.	BZL	0.331886574141	0.373937910405	0.390469127093	sadness
+803	Ik ben man van mijn woord. Als afspraken niet worden nageleefd, dan word ik zot.	OV	0.33658128159	0.689102330874	0.744020280042	anger
+804	Kweet nie goe wa ik moet denken. Ik heb heel slecht geslapen maar euhm… niets te verliezen. Dus ik hoop euhm… ik hoop dat allemaal goe komt.	BG	0.45497382575	0.313101884325	0.0696130315624	fear
+805	Nee, ma soms peis ik: gaat die partner nie rap te saai worden vo jou? Alé…	OV	0.529486734943	0.36876329735	0.364990582427	sadness
+806	Ik zei: wacht kgan ik die mannen hier es jaloers maken. Hehe.	OV	0.804322275218	0.703503142112	0.825834885991	joy
+807	Welkom in Ghana.	BZL	0.658305506845	0.429261521975	0.724935184281	joy
+808	Men kinderen beginnen het tegen te steken, versta je het? Waar blief je gie, mama? Wa istr eigenlijk gebeurd?	OV	0.256411126157	0.70792915929	0.309540986998	sadness
+809	Ik weet dat ik een grote fout gedaan heb en euh ik vind da erg da ik da heb gedaan. Maar ik wil natuurlijk zo snel mogelijk terug een oplossing vinden.	OV	0.634542049701	0.331749397116	0.591113968591	sadness
+810	Anders zat kik daar zo te doen. Ja das ook stoem.	BG	0.39650025631	0.600808412431	0.535640405749	anger
+811	Na verloop van tijd. Kmoe zeggen dak da heel graag hoor da je zegt: na verloop van tijd.	OV	0.748034663352	0.371004263466	0.695837898363	joy
+812	Nu, in het gesprek merk je wel dat hij een beetje afstand neemt, dat hij heel voorzichtig is in zijn spreken, zichzelf een beetje afschermt emotioneel. Hij heeft dat ook wat geleerd om zichzelf nie te veel op de voorgrond te gaan zetten.	BG	0.548005388611	0.289192226162	0.497716583625	neutral
+813	Jongens toch.	OV	0.342830066315	0.542096502157	0.438012430649	anger
+814	Kwil gewoon buitenkomen en goe blijven nu.	OV	0.608530038827	0.405044143925	0.659190817057	sadness
+815	Ik vind da echt sexy als een man goe kan dansen. Da is euh…	BG	0.887716912788	0.40851322543	0.530665182158	love
+816	Mensen settelen zich ook nie meer graag eh. Das gewoon oh we gaan ne keer zien. Zo ook zo da opportunistische van ah je we gaan die ne keer proberen en zien ofda iets klikt en dan zien wat er nog op mijn pad komt. Zo niemand wil zich nog binden.	BG	0.461048083527	0.664951775276	0.5163808896	anger
+817	Wilt ge mij nu even laten uitspreken? Want de dingen die zijn gezegd…	OV	0.263002853232	0.661192584611	0.546933471423	anger
+818	Om wat? Ja kom ter zake dan eh. Ge ga me toch nie weeral met steken geven en…	OV	0.210002610923	0.852558219988	0.544434650959	anger
+819	Allee smijt da er gewoon in. Da boeit echt nie.	BZL	0.339026537851	0.679255497937	0.79553669127	anger
+820	Ik heb nooit geen agressie aangetoond.	OV	0.38924367915	0.324290919722	0.572751157662	anger
+821	Ma ge wil et nie verstaan eh gie. Tis aangevraagd geweest en tis negatief.	OV	0.232198105113	0.787343519222	0.78256309641	anger
+822	Ik vind nie da gij daar nu op de juiste manier mee omgaat.	OV	0.457056842242	0.312580063997	0.713299148101	anger
+823	Ik vind het gewoon heel heel jammer dat da nie gelukt is en ik denk dat da enen is da… jah dak heel vaak nog ervaar dat da zo, dat da zonde is dat da nie gelukt is en da je eigenlijk wel echt hoopte dat er toch ietske meer in zat ma…	BG	0.210422261126	0.604421614244	0.166429430836	sadness
+824	Ben ekik ziek of ben ik gek of euh? Ik weet nie, ik heb geen antwoord.	OV	0.417532028676	0.563289337342	0.150027799635	sadness
+825	Oh shit! Ik ben alle grote in mijn kleine mand aant gooien. Ja, sorry. 	BZL	0.25397150386	0.785127981135	0.429138118743	fear
+826	Hou hem efkes in de gaten tot hij wa rustiger wordt.	OV	0.485359677842	0.276451911136	0.782677157353	anger
+827	Das altijd wel me feestjes dat er een deel nie kunnen. Bon, wa denkte? Muziekske vo der wat in te komen?	BG	0.67313791353	0.546938539458	0.61980065111	joy
+828	Ah euh… Meer en meer. Da begint wel echt te kommen zonder zo echt al… Kzeg het u we zijn echt stap voor stap alles ant doen en momenteel voelt da, voelt het heel goe en ik kijk er naar uit om Line te zien altij. Dus da vinnik heel tof.	BG	0.802170851275	0.490056571877	0.538716495534	joy
+829	Pfff, dan doe ik toch gewoon mn eindstraf jong. Eh alsjeblief. Zie je wat ik bedoel?	OV	0.199595932331	0.798152791211	0.533767634012	anger
+830	Hij was zo nerveus over zijn speechke. Oh zo schattig.	BG	0.843416084	0.553839304498	0.576948283236	love
+831	Twas echt een grote chaos. Khad echt zo ook nie zo goe door wa dat er gebeurde.	BZL	0.299559136896	0.501499106191	0.41530772306	fear
+832	Amai das een dikke knuffel.	BZL	0.737563848318	0.517793810852	0.359303619625	joy
+833	Ja. En ik had de ambulance gebeld enzo dan, ik heb mij daar ook bij gezet. En ik heb ook gezegd van, dak da zei van: sorry kheb da nie gewild. De hulpdiensten zijn onderweg enzo… en ik heb da verteld. Dan heeft die in mijn hand genepen en een traan gelaten.	OV	0.166101790967	0.382515028473	0.305273707984	sadness
+834	Zeg. Zeg, zie ne keer rustig.	OV	0.348810298228	0.8611743819	0.664859745648	anger
+835	Nee. Loslaten is heel moeilijk he.	BZL	0.309080682029	0.316857284442	0.444094871442	neutral
+836	Voor mij is er echt maar één klok die ik aftel en das die vijftien maanden dak nog moe doen. Das eiglik de enige klok waar dak eiglik mee bezig ben.	OV	0.639653302592	0.503943088324	0.570541240092	joy
+837	Kik eki. Kzin verloofd.	OV	0.74029678961	0.57664492299	0.638365579202	joy
+838	Het was raar om terug in mijn appartement te komen alleen. Ik had het wel redelijk druk ma toch zo terug alleen zijn en… Ja ineens terug in uw eigen habitat ook. Da voelde dan ineens weer raar aan omda je da nie meer gewend was. Euhm… Maar dat deed ook goed omdat het toch wel een soort van vertrouwde omgeving was.	BG	0.532113487939	0.364364742072	0.314576856347	sadness
+839	Het verste wa ik ben geweest is eens geroken aan die fles ja. Ma dan heeft em ook direct gezegd van nee nee dat is iets voor alé, als ge te goei terug vrij zijt dan gaan we wel een glas drinken. En da heeft mij eiglik niks gedaan. Da was goed, da was in orde. Vo de rest…	OV	0.553232364265	0.360077475027	0.64622273615	joy
+840	Ja, binnenkort ben ik een getrouwde man. Het is een euh… een gevoel da ik nog nie ken, maar wel een gevoel waar ik naar uitkijk. Dus ik weet ook nie goe hoe ik ermee ga omgaan. Het gaat ook helemaal nieuw zijn.	BG	0.726538070327	0.511960627541	0.461938380506	fear
+841	Ik voel mijn humeur ook progressief kelderen.	BG	0.241629602358	0.424180753522	0.39134218576	anger
+842	Twas wel efkes terug wennen als we terug waren. Kvind ook moeilijk om derover te praten me mensen die er nie bij waren eiglik. Want ja, ze waren er nie bij, ze gaand minder goe snappen.	BZL	0.160959291842	0.463215316583	0.379656029257	neutral
+843	Alé jong. Nog twaalf dagen en ge zijt getrouwd.	BG	0.727188674458	0.41485686268	0.577329896507	joy
+844	Content. Wooh.	BG	0.790065847621	0.580369799111	0.645251149356	joy
+845	Ja ik vind Line nog elke dag mooier en mooier. Da is gewoon zo en da euh… Ja das int begin zo me kleine… kleine mooitjes na boven gegaan. En euh ja nu is da gewoon ja als ik naar Linde kijk zie ik echt een mooie vrouw. Ja da zien ik ook elke keer als ik daar naar kijk. Of dat da nu ’s morgens, ’s middags of ’s avonds is.	BG	0.629475938875	0.429691924819	0.687288732637	love
+846	Kuje nie keer je haar knippen? Knip e keer je haar.	OV	0.410941581875	0.560430313961	0.692433102081	anger
+847	Joke is fantastisch eh. Das echt leuk om daarmee uit te, alé, uit te, rond te hangen, uit te gaan. Nee die is gewoon heel leuk in omgang.	BG	0.727618085211	0.658368570899	0.593697414492	joy
+848	Ja, veel geluk, veel liefde. En blijven doorgaan zoals da ge bezig zij. Das goe eh. Ge zij goe bezig.	BG	0.820663500926	0.646975998238	0.75170316765	love
+849	Ah kijk. Voila. Kom ma kijk nu ne keer hoe lekker dat da eruitziet.	BZL	0.751275090246	0.747422998623	0.723647443609	joy
+850	Waar gaan ze ons droppen? Goh man. Zijde al zonder uw ouders zo al zo ver geweest.	BZL	0.347379396011	0.684911562828	0.150209548458	fear
+851	Das toch een tof idee?	OV	0.685375681921	0.391613660289	0.408176224899	joy
+852	Ik heb die nu een week nie gezien en ik keek er wel echt naar uit om dieje euh te zien ja.	BG	0.709277194435	0.386865739245	0.605052693475	love
+853	Ja een beetje problemen met het geld en ja…	OV	0.355181482748	0.0726286760124	0.275731781609	sadness
+854	Zijn ze garnalen komen brengen? - Zal ik opscheppen? - <b> Die zien er keigoe uit. </b>	BZL	0.960359426226	0.731582646295	0.585282395839	joy
+855	Hij was daar zo tevreden mee da hij eigenlijk… allee hij mocht nog neervallen ik denk dat hij het nog altijd op zijn hoofd zou houden. Ja echt, fantastisch.	BZL	0.808892405038	0.758936744097	0.671988786516	joy
+856	Ja. Kheb drie keer gedronken. - <b> Drie keren? Proficiat. </b>	OV	0.371334438509	0.66385110178	0.554503366401	anger
+857	Gemene tinke.	BG	0.225885794034	0.514393271635	0.566073045922	anger
+858	Das heel fijn eiglik.	OV	0.780164676379	0.197582879889	0.562351954751	joy
+859	Het vonnis euh… al goed gelezen? - <b> Ja ja, ik heb hem da voorgelezen. </b>	OV	0.552056841027	0.43178697288	0.765703853478	neutral
+860	Ik heb drie kogels in mijn lichaam. En ik sta hier nog altijd. Ik heb heel goe geleerd uit mijn foutjes.	OV	0.610189789637	0.481406661909	0.793517673405	joy
+861	Nee das nie tof mannen. Dees is echt nie tof.	BZL	0.144178755575	0.588145435681	0.393826912558	sadness
+862	Men vader, men vader nog niet. Want ik weet, als ik zeg dat het voor iets van drugs of dit… Dat is een heel gelovig iemand, die maakt me echt kapot als ik buiten ben. En die heeft ook al gezegd, toen ik vastzat: als zoiets nog één keer gebeurt dan is het contact klaar. Dan hoef ik niks meer met je te maken te hebben.	OV	0.303268787559	0.699641134627	0.574160170374	fear
+863	Ja inderdaad. Dus das wel heel jammer. Dus ik hoop wel da we daardoor geraken.	BG	0.376066924303	0.300454011733	0.450378272291	sadness
+864	Hebt ge spijt van je reactie gisteren? Eerlijk? - <b> Nja, misschien wel. Omda ik zo… Khad moeten blijven luisteren naar wat die misschien nog had te zeggen. Maar op da moment wou ik nie blijven staan. </b>	BZL	0.206955828131	0.314275115306	0.368982883637	sadness
+865	Ik kom heel goed overeen met mijn papa. Die steunt mij ook altijd en is er altijd. En als ik mij slecht voel, kan die altijd opbellen en dan… dan geeft die mij weer zo ne peptalk en euh… Ja das mijn nummer één fan om het zo te zeggen. Dus das keileuk, ja.	BG	0.807822327716	0.603106009101	0.701233129268	love
+866	Check. Het enige wa dak moe onthouden is alleen maar vooruit stappen. Alleen maar vooruit stappen. Heeft ze mij tien keer gezegd, alleen maar vooruit stappen. Is goe eh?	BG	0.660277642292	0.680612510693	0.623195734541	fear
+867	Hé, ma gast, dat is hier echt putteke jungle hier. Der zit daar nen jaguar op ons te wachten. Die vreet u zo op ze.	BZL	0.413118116619	0.958695554078	0.505971666383	fear
+868	Daar had ik problemen mee, da was mijn buurman.	OV	0.363950692816	0.17715863604	0.504625183147	anger
+869	Ja. Spannend eh? Tis euh da Golfke daar.	OV	0.633873480527	0.546642340215	0.572036210502	joy
+870	Tis zo hard omda wij beter weten eigenlijk, dat zo moeilijk is, denk ik.	BZL	0.323751943357	0.29050041761	0.251592408282	sadness
+871	Ja en aan uw beslissingen hangen consequenties vast, da is toch logisch?	OV	0.467504168943	0.563137081027	0.739550370771	neutral
+872	Da ge nie denkt dak u nie wil euh… nie wil zien. Mijn bedoeling is dak nu beter zie. Wilde gij bij Karine op schoot zitten? Neen.	BZL	0.586874137597	0.505908655488	0.536261004571	neutral
+873	Ge wist het toch? Het stond toch in je voorwaarden, zeker?	OV	0.386723964779	0.78173178736	0.651820733349	anger
+874	Ma da is nie saai eh. Da vinnik nie eh. Da vind ik wel nie. Ik vind da nie saai. Ik vind da indrukwekkend da mensen zich daarmee kunnen bezighouden.	BG	0.683077688901	0.768944002909	0.677959480974	joy
+875	Feel free. Zeker doen.	BZL	0.44784617697	0.289187914219	0.700229082141	anger
+876	Ja een beetje moeilijk toch eh.	OV	0.329777486427	0.217679281337	0.411409227626	sadness
+877	Knuffeltijd.	BG	0.673317081893	0.310494023289	0.512830367554	love
+878	Ge kunt heel goe delegeren. Euh heel snel een situatie inschatten en dan mensen op de, alé op de juiste plaats zetten om.. Denk ik. Nie?	BZL	0.586791326257	0.379510031429	0.466629248199	neutral
+879	Ja ja ja ja ja. Ouders gescheiden, mn moeder die had een beetje schijt aan alles. Op mijn vijftien werd ik al geplaatst op een internaat omdat ik nie meer thuis mocht wonen.	OV	0.276199348156	0.516772407331	0.336519492681	neutral
+880	Holy fuck, da ga snel vriend. Ma tis nie traag ofzo eh, tis nie een beetje? Dat is alles of niks. Ik heb thuis wel es genaaid ma das dan me zo’n, ja, een hobbymachientje. Da ga heel langzaam en dan kunt ge zo es een kussentje naaien. Maar hier, als ge, van de moment da ge gas geeft, ja ge zit er al door voorda ge weet da ge zi begonnen.	BZL	0.488795575497	0.955504133275	0.487996826069	fear
+881	Ik ook nie. Ik ben daar echt zo, zo gefrustreerd van word eh. Da ik echt heel de tijd zeg van ga gewoon… Waarom blijven jullie hier? Ga gewoon weg. Voor die paar extra  cedi.	BZL	0.275020272887	0.812607676116	0.443591330599	anger
+882	Hohoho. Ziet ge, daar gaan we weer. Oh echt waar eh.	BG	0.363722441236	0.768666223501	0.463232885832	anger
+883	Jah, ik ben wel een moeilijke slaper. Ik pak vaak m’n eigen kussen mee. Ja. Zo een antiallergisch kussen zo dak… dak zeker goe euh…	BZL	0.668753509406	0.303974842476	0.700067649045	neutral
+884	Ik weet niet wat is gebeurd in mijn hoofd.	OV	0.453954054809	0.150984084115	0.223409463509	sadness
+885	Euh nu, ja… Ik heb daar, als ik da zou moeten blijven doen, dan heb ik het daar wel moeilijk mee. Das zoiet da bij mij ook in wisselwerking moet staan. Dus ge moet mekaar zo es af en toe da duwke kunnen geven. En als dat dan alleen van mijne kant moe komen, zou ik da als da langer duurt, kvind da dan wel jammer dat da nie, nie…	BG	0.269249973742	0.537409213742	0.345399907671	sadness
+886	Diejen dag is voorbij gevlogen. Ken al een klein beetje van aar en bwaja een klein beetje is al meer dan interessant genoeg om te zeggen oke die wil ik echt wel beter leren kennen.	BG	0.814536297828	0.713431170178	0.734339286826	joy
+887	Die verhouding die leek nie juust.	BZL	0.37084865682	0.240647654145	0.473058664662	neutral
+888	Tis echt zo het laatste moment da je weet of da je ga trouwen of nie ga trouwen. Waar da ge toch maanden naar uit hebt gekeken dus euh… Kben wel heel benieuwd.	BG	0.549613301098	0.567035994395	0.252634401711	fear
+889	Als ik vanavond een scampi krijg he, ik zou het nie aannemen. - <b> Meen je da? Oh man. Ge zou het mij geen twee keer moeten vragen. </b>	BZL	0.758208359448	0.890314558004	0.844435924154	joy
+890	Man, man, man, man. Nee tis echt spannend jong. Pff. Ik ik ga da… ik ga da allemaal nie beseffen da ik sebiet in een wit kleed ga staan eh.	BG	0.600048309764	0.758194311459	0.346859649785	fear
+891	Ja. Das altijd goe gelukt. Ma dan voelden we ook gewoon plots wel dat er dat er wel wa meer twijfels waren en da sommige… ja zaken waren da we wel al de verschillen voelden dat da op da moment ook wel nog iets meer begon door te wegen. Euhm…	BG	0.423286899843	0.352184327598	0.215407858966	sadness
+892	Ma de laatste gaat de moeilijkste zijn peis ik. Dat is da verbod van bezoek van markten, winkels, grootwarenhuizen en shoppingcentra.	OV	0.531794070065	0.393934288854	0.464825981883	fear
+893	Ja. En Johnny is jen eersten vriend? Alé, je eerste lief en euh… - Ja. Den eersten en de laatste. - Of het was da je nu nog zou veranderen. - <b> Och, Aagje, wa daj gie zegt. Ma mensen eh. Als ik da keer hoor van die anderen zeg. Dak zeggen van, hoe is da mogelijk? </b>	OV	0.399259946845	0.862774209104	0.480637004263	anger
+894	<b> Ik ga trouwen! </b> - Meende da? - Ja, ik meen da! - All right. - Zot eh. - Ah, zo wijs. - Ja tis wel euh… Shiiiit.	BG	0.962059482403	0.847740100174	0.686252868467	joy
+895	En euh als ik dan zie hoe ver heen ik toch was van heroïne… Da ik da zonder schaamte durfde te vragen aan mn ma da zij mij kwam ophalen eh met de auto. En ja, als je da nu terugleest, dan beleeft ge da wel efkes terug. Dan ziet ge eigenlijk wel van waar da ge gekomen zijt eigenlijk.	OV	0.453464655817	0.284963813688	0.373351101837	sadness
+896	Aah. Ons topkoppel.	BG	0.79667258378	0.535274103457	0.649898004309	joy
+897	Ik wist meteen van, da gaat hier me hoge eisen zijn. Snel, efficiënt, dus dat is echt niks voor mij.	BZL	0.293739054914	0.496073285415	0.373115656013	sadness
+898	Ja ma da, wa da zidr daarop zetten, dat interesseert me nie. Ik zegge de waarheid eh.	OV	0.313525014886	0.710426429175	0.846973485898	anger
+899	Want wij gaan naar een totaal andere wereld eh man.	BZL	0.532306043137	0.583154816825	0.469533542058	fear
+900	Nee, maar Veronique, wa stellen we vast? Da gij keer op keer wel dezelfde feiten pleegt en daje nie leert uit de fouten die je gemaakt hebt. - <b> Kweet het. Ma nu tis ne goeie les. </b>	OV	0.443601657989	0.308518532385	0.178524287572	sadness
+901	Nie genoeg. Nie genoeg. Kheb al paar keer gevraagd, ik moet meer begeleiding hebben. Ik moet meer… Mensen moeten er meer mee under armen onder zetten.	OV	0.301158475613	0.744057354712	0.380155626254	anger
+902	Nu zij kik bezig me mijn strafeinde voor te bereiden.	OV	0.556055008139	0.218393394266	0.67096179857	joy
+903	Ma kheb al naar appartementen gekeken eh.	BG	0.666367103385	0.499276920483	0.58278000942	neutral
+904	Een goudmijn, da is voor iedereen zo wa surrealistisch bijna zo. Goud komt van ergens ma hoe een goudmijn eruitziet? Ik heb daar nog nooit iets van gezien dus ik ben heel benieuwd om daar eiglik euh, ne keer in gedropt te worden.	BZL	0.77035363665	0.68471536486	0.449205849352	joy
+905	Mannekes, ik zin zo vuil als iets. Ik had er nog nooit over nagedacht dat er een verschil tussen man en vrouw was qua geld, allee, het geld da ze krijgen. Ja ge zou, ge verwacht zoiets niet eh. Allee tis al nie veel, dus dan zou je denken van oke hier verdienen ze evenveel. Allee, ze komen hier voorbij, allee zie nu naar die mensen. Zo’n goeie mensen en die worden zo behandeld. Ineens uit het niks, paf. Vrouwen worden minder betaald.	BZL	0.30512152193	0.81800453006	0.348539108081	anger
+906	Kben wel heel benieuwd.	BG	0.71555036405	0.434667957795	0.390441138724	joy
+907	Zeker, zeker. Dan ruïneert hij mijn leven gewoon en dan gaat het sowieso niet de goeie kant op. Hier is het rechtssysteem, vergeleken met Nederland, zit hier echt heel scheef in elkaar.	OV	0.161017579001	0.63508652743	0.556357977134	anger
+908	Ja ma da komt toch helemaal nie uit van de bazen die daar actief aan werken. Da komt uit van het volk. En tis tvolk da ier zo onderdanig is.	BZL	0.233345667197	0.572238080155	0.600985091344	anger
+909	Dit wordt hilarisch.	BZL	0.783996282621	0.520490391709	0.637826813625	joy
+910	Ik ben gaan solliciteren, maar twas nie echt veelbelovend. Die vrouw euh… die wou mij sneller buitenwerken dan aan werk helpen. Dusja, we gaan zien eh. Voos uitzicht eh?	OV	0.150312889822	0.529766792358	0.162543916058	sadness
+911	Ofwel doek het goed, ofwel doek het niet.	BZL	0.664148707449	0.553464813714	0.948550416937	neutral
+912	Lenny, gij zijt de coach, jongen. Gij moet euh… onze tactiek hier euh blootleggen. Zijn we eruut?	BG	0.619768836777	0.555468548373	0.485958597854	joy
+913	Jij was de oudste van de groep.	BZL	0.461648587321	0.073695879575	0.552065817186	neutral
+914	Das prachtig nieuws. Goe nieuws. Veel groetjes aan mn moeder.	OV	0.953594975991	0.510288195864	0.523468208733	joy
+915	Ik ga trouwen. - <b> Nee! Wooh! </b> - Proficiat.	BG	0.728020861462	0.808736757765	0.518563137283	joy
+916	Aja een ferm leven is da. Is da een vrijheid da gij wilt? Ikke nie ze.	OV	0.283552741843	0.877973378017	0.478812889311	anger
+917	Ja ma we gaan zo nie beginnen. We gaan zo nie beginnen.	OV	0.350623110656	0.644404836038	0.642560776083	anger
+918	Het stinkt hier al.	BZL	0.359457793452	0.310606738308	0.390805641514	anger
+919	Als ik vanavond de kans krijg, ik ga effe met uwe man dansen.	BG	0.650681975795	0.443858641188	0.763016596758	joy
+920	Ik heb spijt om binnen te komen. Zo da spijtgevoel zo.	OV	0.371855666585	0.313736303502	0.260623979677	sadness
+921	“Yes but other farmers get angry with me”. Maar dat is waardeloos, want dan komen der meer mensen voor hem werken, eh. Hij wordt hier de grave gast die zn personeel deftig betaalt.	BZL	0.382653967312	0.7148129773	0.609867083061	anger
+922	En ook, sinds dak terug ben van de reis, ween ik veel makkelijker enzo. Durf ik veel makkelijker… En das dan vooral op school eh, op de toneelschool. Als ik dingen moet doen in in in in de les, dan kan ik ineens zo heel snel zo ineens zo dit jaar beginnen blèten. En ik denk dat da voor een deel ook is door de reis.	BZL	0.423156526358	0.48605087023	0.427682158264	joy
+923	Als het tegen dan al allemaal goed is, gaan ze me een enkelband of vrij geven.	OV	0.659401546671	0.207958748736	0.496949079823	joy
+924	Wa ge der ook doe tis ook altijd, tkan fout overkomen. Kikte nie, kan het fout overkomen.	BG	0.354018033911	0.56626633702	0.434354086432	fear
+925	Tis den eerste keer sinds dak terug in de gevangenis zit dus euh kben wel een beetje zenuwachtig. Ook omdat da zo getimed seksen is. Kvind da zo wa… Je hebt ook maar twee uren, dus ge moet zo zorgen da alles gedaan is in twee uur.	OV	0.501915134602	0.439695995278	0.281415255633	fear
+926	Ja da is zo wel een klein beetje moeilijk omda ge langs de ene kant wel weet dat de Joris echt ne keileuke kerel is. En da ik mij daar wel bij mij op mijn gemak voel enzo. Ma nu is em zo helemaal in de war en heel hard zoekende. Hij heeft heel veel bevestiging nodig. 	BG	0.46045013876	0.446508675259	0.400004041754	sadness
+927	Kben, alé, kben soms iets te… te terughoudend denk ik op da vlak. Kvind vree belangrijk da bij ne persoon een gevoel van rust krijg. Da wil nie zeggen da ge daarom enkel rustige dingen moet doen, daarover gaat da nie. Ma tis vooral da gevoel va van rust.	BG	0.594441346929	0.509435064645	0.721214792219	neutral
+928	Ja ma da klopt allemaal nie. Zo heb ik da nie gezegd. Want zo komt da over da ik zeg dat het dus een levering is van speed. Ma da is nooit nie gezegd geweest.	OV	0.303488772	0.703050592954	0.542784337771	anger
+929	Jaja, da sowieso wel. Ma ik denk dat da zo na het huwelijk en het huwelijksfeest, das zo de positieve vibe en dan was da efkes… alé afgedenderd bij wijze van spreken. Alé afgedenderd… Ah en dan ja moest ge terug efkes bouwen op da… ja. 	BG	0.430753095494	0.435823237434	0.281104700117	neutral
+930	Amai. Fantastisch. Ik kant nog nie geloven. Kom hier, man. Oh ge gaat da goed doen. Ge ga da goed doen, da weet ik zeker.	BG	0.960834008974	0.839864954383	0.704975255761	joy
+931	Ja, dus als ik langer moet zitten, raak ik mn baan kwijt.	OV	0.332346363142	0.48447388417	0.559309356111	anger
+932	Nee nee ja, ik ben al rustig. Ik ben al rustig, maar als ik gewoon zo derover ga praten, dat maakt me echt boos, agressief.	OV	0.345682476179	0.712062709911	0.653206151073	anger
+933	Ik voel mij echt gelukkig nu op dit moment.	BG	0.841496374753	0.445001340277	0.700153654015	joy
+934	Misschien dat dees meer adrenaline door me lijf ga laten jagen dan de trouw zelf denk ik. Kweet het nie. Ma langs den andere kant als ik dan op de trouw daar ga staan en ik moet wachten denk ik van ja ge hebt uit een vliegtuig gesprongen dan zal dees ook wel lukken zeker?	BG	0.643514447802	0.684156853426	0.432981986158	fear
+935	Ma ik ben nie content. Maar ik moet naar eer en geweten een advies uitbrengen. Ik durf u op dees moment… zou kik u nie buiten durven sturen.	OV	0.232185834526	0.516421868296	0.460598529417	anger
+936	Da gaat haar goed doen, en zij gaat ook goed zijn voor die groep denk ik.	BZL	0.756029742671	0.293174495014	0.641100184729	joy
+937	Da is echt een jobke voor ne kleine mens.	BZL	0.481979300027	0.334136138154	0.417560062724	anger
+938	Ik heb nog nooit zo veel stress gehad in mijn leven. Ik heb euh nog nooit in zo’n situaties gezeten, nog nooit getrouwd geweest of andere situaties die stressvol waren. Heb ik nooit meegemaakt. Dit was echt extreem.	BG	0.0698383781455	0.599962121264	0.216975258253	fear
+939	En das zo het beeld… Da beeld komt dikwijls terug.	OV	0.254404304572	0.335535876369	0.223428169044	sadness
+940	Eigenlijk op zich is da nie erg, single zijn. Das fijn want je kan doen wa da je wilt. Ma als da al lange tijd is, dan denk je van ja oke ik wil nu ook geen tien jaar nie meer single zijn. Op zeker moment wil je je wel beetje settlen.	BG	0.519691455463	0.489877010979	0.433430212303	sadness
+941	Ik kom u het nieuws zeggen da ik ga trouwen. O, kom hier! O ik ben zo blij da ge der bent.	BG	0.828337852003	0.858608413278	0.784509998987	joy
+942	Ja, gewoon. Goh kweet het nie. Tfeit dat da zo… ja onrechtvaardig is. Njah kweenie, kvind da echt… Goh ik kom er zot van. Oh. Godverdomme.	BZL	0.31827172643	0.770145978716	0.180908479726	anger
+943	Ja, als ge ne klik hebt en en ge voelt warmte en affectie voor elkaar dan kan da echt al es goeddoen.	BG	0.764888385294	0.410626401525	0.657544735228	neutral
+944	Alle façades van oh wij zijn sterk of oh wij zijn stoer jonge wij gaan dat ier doen, da valt weg. Da, da is nie van ah wij gaan da hier proberen goed te doen of we gaan hier proberen hard te zijn. Gaat allemaal de… echt et raam uit. Gewoon… das leven en dood.	BZL	0.336102737029	0.695740931947	0.395753699828	neutral
+945	Euh maakt mij nie uit.	BG	0.436685139823	0.0720221869542	0.241508950071	neutral
+946	Ja ma ik ga mijn werk doen. U hoeft mij nie te zeggen hoe dak mijn werk ga doen. Elk zennen opdracht hier. Goed? Tot vanmiddag. Ge hebt mij nie meer nodig eh? Tot vanmiddag.	OV	0.206672573592	0.761188296052	0.842099902508	anger
+947	Ge kunt hier perfect monokini liggen ze, de buren zien er niks van.	BG	0.690658523176	0.446157801252	0.682590720913	neutral
+948	Hier, de Wilfried si. Beste wensen eh jongen.	OV	0.772641388495	0.659039123374	0.576099766768	joy
+949	Ik weet nie waar da we naartoe gaan of wa we gaan doen en da is wa… wa spannend.	BZL	0.536175334535	0.436102725282	0.233813311732	fear
+950	Het was supergenant dus ik zei zo van “ik moet nu nie, ma keigoe om te weten voor straks”.	BZL	0.512395702534	0.730922257585	0.564249723942	fear
+951	Ik had een vader die niks anders deed dan op mij slaan. Ik zal da nooit nie vergeten ze. Dan werd er een briefje meegegeven me mijn zussen: ja euh hij heeft een astma-aanval gehad, euh hij kan nie naar school komen. En ik mocht pas terug naart school als al die blauwe plekken weg waren.	OV	0.273735453969	0.580798450482	0.427679576506	sadness
+952	Ma stel nu dat dees nie klikt…	BZL	0.497884704404	0.172257340294	0.163462968336	fear
+953	Ja, amai, kijk ma da begrijp ik nie. Da kan er bij mij nie in.	BZL	0.0737173289577	0.667055795377	0.440332662757	anger
+954	Kdenk dat da vooral moeilijk is aje alletwee op zo een andere plek zit. As ge gij al iets verder staat dan zij, of zij iets verder dan u. Mm wa kun je doen, wa kun je nie doen? Hoe gaat dat overkomen bij haar?	BG	0.38031671664	0.570955212841	0.214331335678	fear
+955	Nee nee, niet van terug binnenkomen eh. Toen zen ik 100 euro kwijtgeraakt.	OV	0.373678760145	0.526967156142	0.539885819483	sadness
+956	Maja, kheb al mijn jongens gezien.	OV	0.744712799308	0.284054411963	0.485345227661	love
+957	Ge voelt u hier lik ne wereldster als ge hier aankomt. Ge weet ook nie waarom dat die mensen blij zijn eh. Die kennen u nie. Ja da was waanzin. - Dees is zot. Letterlijk.	BZL	0.854580548958	0.752577365482	0.624123949187	joy
+958	Ik denk da ik heel zenuwachtig ga zijn. Ma ook blij dat eindelijk het moment daar is da ik kan trouwen en dat ik die persoon ga ontmoeten. En… dat ik dan eigenlijk uiteindelijk kan beginnen aan, aan een toekomst.	BG	0.69494638568	0.591023325441	0.474574632112	neutral
+959	Tis absoluut nog nie verloren, maar ja ge gaat aan dieje problematiek moeten werken, want anders… We doen een paar stappen achteruit nu eh en das jammer.	OV	0.327545310241	0.655025140654	0.554072438823	sadness
+960	Keileuk! Ej ma das tof. Oke. Goe. Dus dit staat hier standaard nie, maar dit is dus mijn appartement.	BG	0.955634189073	0.693499943885	0.653348867905	joy
+961	Kweenie of het veel erger kan dan dit. Voor mij is dit al het ergste wa ik heb gezien. Als ik denk aan de hel, denk ik echt aan dit.	BZL	0.0726460180862	0.505578976421	0.399403609845	sadness
+962	Onze vriendschap is al voldoende.	OV	0.598427448003	0.15198448566	0.536287526291	love
+963	Ja, toon ze e keer. Hola zeg.	OV	0.596561730149	0.706202377528	0.649674183545	joy
+964	Ma da is ook een boodschap da wij nu de mens nog es gewoon wakker te schudden van mannen, da ga zo nie.	BZL	0.535157862262	0.608027411007	0.954227418579	anger
+965	Ja, zoals ik zeg, gezonde schrik. Gezonde zenuwen.	BZL	0.613680418965	0.454953437535	0.45148756435	fear
+966	Kan kik jou ook nie verplichten vo jon haar te laten groeien eh. - <b> Zeer geestig wih. </b>	OV	0.528243106871	0.42588607544	0.328063502385	joy
+967	Ma ge moogt het hem nie kwalijk nemen dat hij, dat er cultuurverschillen zijn int land he. Allee, das nie zijn schuld.	BZL	0.43131557984	0.471201180775	0.618508272765	neutral
+968	Ma kunt ge da begrijpen, als ge zo alle dagen met zo ambetante mensen zit? Weet ge wat da is, 24 op 24 ambetante mensen?	OV	0.165633567333	0.695334291253	0.488765734777	anger
+969	Amai das raar. Ik weet totaal nie wak moe zeggen eigenlijk. Wauw. Knap.	BG	0.868389708282	0.52164875181	0.408185285822	joy
+970	Ze gaan hem nu isoleren, dus hij ligt in een kamer alleen.	OV	0.463076465377	0.186146459092	0.649529397096	sadness
+971	Hoe machteloos ge voelt.	BZL	0.351733427406	0.216045613069	0.251728075656	sadness
+972	Da was gigantisch veel volk en die kwamen echt zo aan het juichen om u te zien en echt zo aan het springen en die pakten u zo vast.	BZL	0.856566503069	0.839956625307	0.63459071272	joy
+973	Mohow, tis nie meer met ups en downs?	OV	0.466805672969	0.601114868235	0.367643526286	joy
+974	Tis allemaal heel veel da ineens op u afkomt.	BZL	0.149770212325	0.322208943647	0.224771824702	sadness
+975	Ma dat is waar, ma ge moet da beseffen en dat inzien.	OV	0.480098031247	0.630342918517	0.546595050581	neutral
+976	Zo. Oh kind toch. Ge zij zo schoon.	BG	0.954478581109	0.663355891073	0.668392082153	love
+977	Zie. Helemaal ingeburgerd al.	BG	0.653239054983	0.344530137545	0.686148309889	joy
+978	Dit is Dostojevski: Conflict komt altijd voort uit het feit dat men geweld wil beteugelen met geweld. Pablo Escobar: Wie zijn geschiedenis niet kent, is gedoemd om die te herhalen. Belangrijkste les: leer van jouw fouten. Ik ben binnengekomen als een domme jongen. Ik geef dat toe. Ik wist niks. Nu ik weet heel veel van het leven.	OV	0.6296914903	0.516828892159	0.956820696518	joy
+979	Sgoe, voor mij. Da wordt nog lachen, kom.	BZL	0.737513847381	0.562253317126	0.585229636384	joy
+980	Da geknor, hilarisch.	BG	0.831817772687	0.508266185343	0.504480412839	joy
+981	Test… oei oei. Tis raar om zo terug het gewone leven op te pikken eigenlijk. En tis… tga zien zijn hoe dat da gaat lopen.	BG	0.432011277914	0.355982174062	0.225903658109	fear
+982	Gij komt hier altijd met van die stomme flauwekul, gij. Kheb da nie nodig.	OV	0.0707693578736	0.712556926431	0.648824191907	anger
+983	Da heeft bij mij toch wa gedaan ze deze drie dagen. Ik weet nie zeker of ik ooit nog zo snel een prawn ga eten. Ik weet nie of ik da ga kunnen loskoppelen als da op mijn bord ligt, helemaal lekker gebakken en gekruid.	BZL	0.417956899469	0.669601324082	0.53627935624	sadness
+984	Het is nog een gezichtje zonder make-up. Een beetje stress ondertussen ook al. En eigenlijk vooral  spannend afwachten voor straks.	BG	0.498614872185	0.450244442867	0.330286801547	fear
+985	Tis geen spelletje van we komn eki na buutn en we komn eki weer binnen. Ezo gaat et nie.	OV	0.353509721581	0.671790302676	0.690818002031	anger
+986	Ik ben da beu om in die in die cel te zitten met vijf personen. En dan zie ik het leven nie meer zitten, want zij willen daar niks aan doen. Ze willen daar niks aan doen om mij gewoon in, in een normale cel te zetten binnen.	OV	0.0689130916132	0.65532582223	0.431197674585	anger
+987	Speelgoed of extra spellekes ofzo. Als de rest van de klas da kreeg omdat da nu in was, dan moesten zij toch dubbel en dik zagen.	BZL	0.540837272047	0.512486992104	0.592161829439	neutral
+988	Op de cacaoplantage. En oh ik moet weeral wenen als ik daaraan denk. Ja ik denk dat da gewoon mensen zijn waar ik al mijn geld aan zou willen geven en… Die mogen desnoods allemaal op mijn kot hier komen wonen.	BZL	0.407517762091	0.583934284832	0.293882507204	sadness
+989	Kziet nie meer. Kzin te nerveus. Kzin echt nerveus.	BG	0.254094928222	0.576659807337	0.242071240957	fear
+990	Als ze zegt tegen mij, ge zijt te agressief, dan heb ik direct gezegd van: ah dan gaan we daar direct werk van maken.	OV	0.517992380505	0.612756987533	0.762172595985	joy
+991	Tis leuk om Elke voor te stellen als uw vrouw dan. Ja wa mij betreft ist zeker een mooie verschijning.	BG	0.755196307028	0.28031717587	0.665600862669	joy
+992	Mag ik alles in mijn zak doen? - <b> Ja, je mag alles in je zak stoppen. </b>	OV	0.513808389198	0.0686266465857	0.696164419862	neutral
+993	Knor knor. Gaan ik wel efkes aan moeten wennen.	BG	0.640635834397	0.453241455994	0.458664639575	joy
+994	Ik heb het al gezegd, ik heb da nie gewild. Ma het resultaat is wel nie… Alster een slachtoffer is, ist nie gemakkelijk ja.	OV	0.232392670392	0.341390639946	0.269458250288	sadness
+995	Jah ze werken harder eh als wij in België, en die verdienen maar drie, maar drie euro. Alé, drie euro wa is da? Bikka niks eh. Nja. Want ik vind, ik vind dees zwaar werk, ja.	BZL	0.344995103863	0.849752415391	0.543078850201	sadness
+996	Ah gij. Wa een ramp zijt gij. Allemaal hetzelfde.	OV	0.257215952117	0.690050673711	0.462197828382	anger
+997	Der sta Lego van Lord of the Rings, van Star Wars. Er spreekt echt wel duidelijk uit dak zo een beetje fantasy-minded ben. En ze vindt da leuk dak derdoor gepassioneerd ben.	BG	0.681751624451	0.434160393693	0.673333856464	neutral
+998	Nu zijn we precies aant kamperen.	BZL	0.503272236094	0.29336530201	0.529894129721	joy
+999	Ik heb euh ooit es… bja ik swing op elk feestje. Me iedereen da wilt swingen. Ik doe da supergraag.	BG	0.791417274991	0.474631547481	0.636312259046	joy
