@@ -1,5 +1,14 @@
 import pandas as pd
+from src.utils.sampling import cochran_sample
 
-emotioNL_df = pd.read_csv('data/raw/corpus_fulltext_captions.txt', sep="\t")
+df = pd.read_csv(
+    "data/raw/corpus_fulltext_captions.txt",
+    sep="\t"
+)
 
-print(emotioNL_df.head(10))
+df_sample = cochran_sample(df)
+
+df_sample.to_csv(
+    "data/emotioNL_sample.csv",
+    index=False
+)
